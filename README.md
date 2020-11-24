@@ -1,4 +1,4 @@
-# 如果有更好的改进，请PR！不要fork过去，改进了东西，却又不告诉我！共同奉献，同时努力，营造一片干净的网络环境。
+# 如果有更好的改进，请PR！共同奉献，同时努力，营造一片干净的网络环境。
 
 # KoolProxy规则
 
@@ -33,3 +33,6 @@ Anti-AD规则：https://gitee.com/ledewrt/ledeproxy/raw/master/rules/antiad.txt
 
 #### 订阅规则
 订阅规则：https://gitee.com/ledewrt/ledeproxy/raw/master/rules/kpr_our_rule.txt
+
+# 参考
+[ycg31](https://github.com/ycg31/KoolProxy)  在此致谢！
