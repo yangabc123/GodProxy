@@ -38,7 +38,7 @@ jobs:
           git config --global user.name "ledewrt"
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
-          git push "https://ledewrt:$REPO_TOKEN@github.com/ledewrt/LedeProxy.git" master
+          git push "https://ledewrt:$REPO_TOKEN@github.com/ledewrt/LedeProxy.git" main
           
       - name: Push Rules And Bin To Ledeproxy
         continue-on-error : true
