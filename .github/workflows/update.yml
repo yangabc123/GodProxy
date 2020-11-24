@@ -1,0 +1,97 @@
+name: Update_Rules And Bin
+on:
+  # push:
+  #  branches: 
+  #    - master
+  # 自动更新 
+  schedule:
+    - cron: 0 0 * * *
+  # release:
+  #   types: [published]
+ # 点击star才会触发    
+  watch:
+      types: [started]
+    
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
+    
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          ref: master
+          
+      - name: update
+        run: |
+          chmod 0755 ./updaterule.sh
+          ./updaterule.sh
+           chmod 0755 ./updatebin.sh
+          ./updatebin.sh
+      
+      - name: Push Commits
+        continue-on-error : true
+        run : |
+          git config --global user.email "ledewrt@hotmail.com"
+          git config --global user.name "ledewrt"
+          git add . || echo "1"
+          git commit -m "update rules to newest versions" -a;
+          git push "https://ledewrt:$REPO_TOKEN@github.com/ledewrt/LedeProxy.git" master
+          
+      - name: Push Rules And Bin To Ledeproxy
+        continue-on-error : true
+        run : |
+          git config --global user.email "ledewrt@hotmail.com"
+          git config --global user.name "ledewrt"
+          git clone --depth 1 "https://ledewrt:${{ secrets.REPO_TOKEN }}@github.com/ledewrt/luci-app-koolproxyR.git" github
+          #cp -rf ./rules/ github/root/usr/share/koolproxy/data/
+          #mv ipsetadblock/koolproxy_ipset.conf github/root/usr/share/koolproxy/
+          #mv ipsetadblock/dnsmasq.adblock github/root/usr/share/koolproxy/
+          #cp -rf ./bin/ github/
+          cp -rf ./rules/ github/files/usr/share/koolproxy/data
+          mv ipsetadblock/koolproxy_ipset.conf github/files/usr/share/koolproxy/
+          mv ipsetadblock/dnsmasq.adblock github/files/usr/share/koolproxy/
+          cp -rf ./bin/ github/files/
+          
+          cd github
+          git add . || echo "1"
+          git commit -m "update rules to newest versions" -a;
+          git push
+
+      
+      - name: Push Rules And Bin To gitee 传到码云
+        continue-on-error : true
+        run: |
+          git config --global user.email "ledewrt@163.com"
+          git config --global user.name "ledewrt"
+          git clone --depth 1 https://ledewrt:${{ secrets.GITEE_TOKEN }}@gitee.com/ledewrt/ledeproxy gitee
+          mkdir -p gitee/rules/
+          mkdir -p gitee/bin/
+          cp -rf ./rules/ gitee/
+          cp -rf ./ipsetadblock/ gitee/
+          cp -rf ./bin/ gitee/
+          #cp -rf ./tmp/koolproxy.log gitee/
+          cd gitee
+          git add . || echo "1"
+          git commit -m "update rules to newest versions" -a;
+          git push
+      
+      - name: Push Rules And Bin To CODING 传到CODING
+        run: |
+          git config --global user.email "860573311@qq.com"
+          git config --global user.name "15257337533"
+          git clone --depth 1 https://15257337533:${{ secrets.CODING_TOKEN }}@e.coding.net/ledewrt/ledeproxy/rulebin.git coding
+          mkdir -p coding/rules/
+          mkdir -p coding/bin/
+          cp -rf ./rules/ coding/
+          cp -rf ./ipsetadblock/ coding/
+          cp -rf ./bin/ coding/
+          #cp -rf ./tmp/koolproxy.log coding/
+          cd coding
+          git add . || echo "1"
+          git commit -m "update rules to newest versions" -a;
+          git push
