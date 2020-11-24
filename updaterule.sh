@@ -563,4 +563,5 @@ url_antiad="https://anti-ad.net/surge.txt"
                  echo $(date "+%F %T"): ------------------- 内置规则更新成功！ ------------------- >>$LOGFILE
 	echo_date ------------------- 规则更新成功！ -------------------    >>$LOGFILE
 
-	cat  $LOGFILE
+	#cat  $LOGFILE
+	cat /dev/null > $LOGFILE
