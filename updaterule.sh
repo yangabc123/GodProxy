@@ -3,7 +3,7 @@
 #alias echo_date='echo $(date +%Y年%m月%d日\ %X):'
 alias echo_date='echo $(date "+%F %T"):'
 
-LOGFILE="tmp/koolproxy.log"
+LOGFILE="tmp/update.log"
 url_cjx="https://github.com/cjx82630/cjxlist/blob/master/cjx-annoyance.txt"
 url_easylist="https://easylist-downloads.adblockplus.org/easylistchina.txt"
 url_kp="https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat"
@@ -14,7 +14,8 @@ url_kpr_our_rule2="https://raw.githubusercontent.com/ihuaer/koolproxy/master/dyk
 url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
 url_antiad="https://anti-ad.net/surge.txt"
 
-
+#先清空以前的日志
+cat /dev/null > $LOGFILE
     echo_date ------------------- 规则更新 ----------------------- >>$LOGFILE
 	echo_date ==================================================== >>$LOGFILE
 	echo_date 开始更新koolproxy的规则，请等待... >>$LOGFILE
@@ -564,4 +565,3 @@ url_antiad="https://anti-ad.net/surge.txt"
 	echo_date ------------------- 规则更新成功！ -------------------    >>$LOGFILE
 
 	#cat  $LOGFILE
-	cat /dev/null > $LOGFILE
