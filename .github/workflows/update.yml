@@ -40,7 +40,7 @@ jobs:
           git config --global user.name "ledewrt"
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
-          git push "https://ledewrt:$REPO_TOKEN@github.com/ledewrt/LedeProxy.git" master
+          git push "https://ledewrt:$REPO_TOKEN@github.com/ledewrt/ledeproxy.git" master
           
       - name: Push Rules And Bin To Ledeproxy
         continue-on-error : true
@@ -74,7 +74,7 @@ jobs:
           cp -rf ./rules/ gitee/
           cp -rf ./ipsetadblock/ gitee/
           cp -rf ./bin/ gitee/
-          #cp -rf ./tmp/koolproxy.log gitee/
+          cp -rf ./tmp/update.log gitee/
           cd gitee
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
@@ -90,7 +90,7 @@ jobs:
           cp -rf ./rules/ coding/
           cp -rf ./ipsetadblock/ coding/
           cp -rf ./bin/ coding/
-          #cp -rf ./tmp/koolproxy.log coding/
+          cp -rf ./tmp/update.log coding/
           cd coding
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
