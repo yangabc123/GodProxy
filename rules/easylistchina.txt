@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: U/bISv7jcXiTWZsfVtVrNw
-! Version: 202011250643
+! Checksum: UU4HCob+1nrfA1MYSGShRA
+! Version: 202011251203
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4839,6 +4839,7 @@
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
 ||https://wuhaozhan.net/img/sponsors-
+||https://dm114.cn/imgs/2020/06/1357d5f161d1678a.jpg
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12345,6 +12346,7 @@
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
 ||http://wuhaozhan.net/img/sponsors-
+||http://dm114.cn/imgs/2020/06/1357d5f161d1678a.jpg
 ||http://17ce.com^*_$image
 ||http://jsdelivr.net^$domain=99a67.com
 ||http://alicdn.com^$domain=99a67.com|99re.com
@@ -13188,6 +13190,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://hzqzxf.com^
 ||http://y7o9rh.cn^
 ||http://qyhwqie.cn^
 ||http://mydownba.com^
