@@ -7632,8 +7632,11 @@ baidu.com##.s-mancacrd-main
 ||http://imge.dangbei.net/image/20201102/*.jpg
 ||vodemp4.dangbei.net
 #mangtuo 11.12更新
-||video.da.mgtv.com
-||https://video.da.mgtv.com
+||da.mgtv.com
+|https://video.da.mgtv.com^
 ||btrace.play.aiseet.atianqi.com
 ||ott.v1.data.mgtv.com
 ||https://ys.da.mgtv.com
+||s.360.cn
+||mediav.com
+||pcvideochuangott.titan.mgtv.com

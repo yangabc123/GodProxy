@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9euN5ifvHEeN5b0llPm1pw
-! Version: 202011240703
+! Checksum: PYo57KTR0g3BbNNyaClieg
+! Version: 202011250023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4837,6 +4837,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://11px.cn/Style/ag/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12340,6 +12341,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://11px.cn/Style/ag/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a68.com|99re.com
 ||http://sinaimg.cn^$domain=99a68.com|99re.com
@@ -13182,7 +13184,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://91jiedai.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13359,6 +13360,7 @@
 ||http://8v61j.cn^
 ||http://8yrn.cn^
 ||http://91cy.top^
+||http://91jiedai.cn^
 ||http://922x7c.cn^
 ||http://958so.cn^
 ||http://979067.com^
@@ -15416,7 +15418,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://tophub.today##.qc
+https://11px.cn##.ag
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18679,6 +18681,7 @@ https://sogou.com##.pz-widget-flash-container
 https://boke112.com##.qa-pc
 https://baidu.com##.qb-other-answer-wmad
 https://baobao.baidu.com##.qb-relate-box
+https://tophub.today##.qc
 https://qidian.com##.qd-game
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 https://czjx8.com##.qktz
@@ -20685,6 +20688,7 @@ https://zol.com.cn##span[class^="dxlt-down"]
 https://zol.com.cn##span[class^="jisu-down"]
 https://coolpc.com.tw#@##mycookie
 https://dota2.com.cn#@##bdshare
+https://hotjob.cn#@#.SOCIAL
 https://eastday.com#@##leftShare
 https://gfan.com,gfan.net.cn#@##shareBox
 https://sogou.com#@##shareContent
@@ -20730,7 +20734,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://tophub.today##.qc
+http://11px.cn##.ag
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23993,6 +23997,7 @@ http://sogou.com##.pz-widget-flash-container
 http://boke112.com##.qa-pc
 http://baidu.com##.qb-other-answer-wmad
 http://baobao.baidu.com##.qb-relate-box
+http://tophub.today##.qc
 http://qidian.com##.qd-game
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 http://czjx8.com##.qktz
@@ -25999,6 +26004,7 @@ http://zol.com.cn##span[class^="dxlt-down"]
 http://zol.com.cn##span[class^="jisu-down"]
 http://coolpc.com.tw#@##mycookie
 http://dota2.com.cn#@##bdshare
+http://hotjob.cn#@#.SOCIAL
 http://eastday.com#@##leftShare
 http://gfan.com,gfan.net.cn#@##shareBox
 http://sogou.com#@##shareContent
