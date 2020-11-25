@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VofAu2YunJF7iQlPidBz9A
-! Version: 202011250443
+! Checksum: U/bISv7jcXiTWZsfVtVrNw
+! Version: 202011250643
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4838,6 +4838,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://wuhaozhan.net/img/sponsors-
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12343,6 +12344,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://wuhaozhan.net/img/sponsors-
 ||http://17ce.com^*_$image
 ||http://jsdelivr.net^$domain=99a67.com
 ||http://alicdn.com^$domain=99a67.com|99re.com
@@ -13187,6 +13189,7 @@
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
 ||http://y7o9rh.cn^
+||http://qyhwqie.cn^
 ||http://mydownba.com^
 ||http://daomengren.com^*lin*.js
 ||http://01w47q.cn^
@@ -15423,6 +15426,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://wuhaozhan.net##.xsl111
 https://ilxdh.com###nice-banner0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -20740,6 +20744,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://wuhaozhan.net##.xsl111
 http://ilxdh.com###nice-banner0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
