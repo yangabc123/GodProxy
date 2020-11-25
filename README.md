@@ -3,7 +3,7 @@
 # KoolProxy规则
 
 #### 介绍
-转换ABP规则、Fanboy规则、AntiAd规则成koolproxy规则
+转换ABP规则、Fanboy规则、AntiAd规则、Yhost规则优化成koolproxy规则
 
 
 #### 内置规则
