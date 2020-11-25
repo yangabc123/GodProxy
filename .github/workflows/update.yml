@@ -5,7 +5,7 @@ on:
   #    - master
   # 自动更新 
   schedule:
-    - cron: 0 0 * * *
+    - cron: 0 12 * * *
   # release:
   #   types: [published]
  # 点击star才会触发    
