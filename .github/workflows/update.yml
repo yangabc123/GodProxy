@@ -46,15 +46,15 @@ jobs:
           git config --global user.email "ledewrt@hotmail.com"
           git config --global user.name "ledewrt"
           git clone --depth 1 "https://ledewrt:${{ secrets.REPO_TOKEN }}@github.com/ledewrt/luci-app-ledeproxy.git" github
-          cp -rf ./rules/ github/root/usr/share/koolproxy/data/
-          mv ipsetadblock/koolproxy_ipset.conf github/root/usr/share/koolproxy/
-          mv ipsetadblock/dnsmasq.adblock github/root/usr/share/koolproxy/
-          cp -rf ./bin/ github/
+          #cp -rf ./rules/ github/root/usr/share/koolproxy/data/
+          #mv ipsetadblock/koolproxy_ipset.conf github/root/usr/share/koolproxy/
+          #mv ipsetadblock/dnsmasq.adblock github/root/usr/share/koolproxy/
+          #cp -rf ./bin/ github/
           
-          #cp -rf ./rules/ github/files/usr/share/koolproxy/data
-          #mv ipsetadblock/koolproxy_ipset.conf github/files/usr/share/koolproxy/
-          #mv ipsetadblock/dnsmasq.adblock github/files/usr/share/koolproxy/
-          #cp -rf ./bin/ github/files/
+          cp -rf ./rules/ github/files/usr/share/koolproxy/data
+          mv ipsetadblock/koolproxy_ipset.conf github/files/usr/share/koolproxy/
+          mv ipsetadblock/dnsmasq.adblock github/files/usr/share/koolproxy/
+          cp -rf ./bin/ github/files/
           
           cd github
           git add . || echo "1"
