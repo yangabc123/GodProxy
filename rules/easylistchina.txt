@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: UU4HCob+1nrfA1MYSGShRA
-! Version: 202011251203
+! Checksum: 9Zlc1dDouGA9GR/rDWBZFA
+! Version: 202011251713
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -15429,6 +15429,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://tophub.today##DIV[class^="ne"]
 https://wuhaozhan.net##.xsl111
 https://ilxdh.com###nice-banner0
 https://szxx.com.cn###A1
@@ -20747,6 +20748,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://tophub.today##DIV[class^="ne"]
 http://wuhaozhan.net##.xsl111
 http://ilxdh.com###nice-banner0
 http://szxx.com.cn###A1
