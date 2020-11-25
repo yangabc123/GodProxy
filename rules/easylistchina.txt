@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: PYo57KTR0g3BbNNyaClieg
-! Version: 202011250023
+! Checksum: VofAu2YunJF7iQlPidBz9A
+! Version: 202011250443
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -729,6 +729,7 @@
 ||https://119xiazai.com^$subdocument
 ||https://11img.com/ad/
 ||https://11kkzz.com/se/wf/
+||https://11px.cn/Style/ag/
 ||https://11vvt.com^*tools/
 ||https://120askimages.com/ask/js/askfrom.js
 ||https://120askimages.com/ask/js/q
@@ -4837,7 +4838,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://11px.cn/Style/ag/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -4922,6 +4922,7 @@
 ||https://dybee.tv/gg
 ||https://hboav.com/guga/$~subdocument
 ||https://hh010.com/static/image/fff/
+||https://daomengren.com^*lin*.js
 ||https://0577renliu.
 ||https://23txt.com^$third-party
 ||https://258zw.com^$third-party
@@ -4950,7 +4951,7 @@
 ||https://duanwenxue.com/functions/
 ||https://dybz6.net/js/html
 ||https://feixs.com/style/t.js
-||https://hbfie.org/mh
+||https://hbfie.org/mb/meng/
 ||https://ieeod0.com^$third-party
 ||https://jsr9.com^$third-party
 ||https://jx.cn^$third-party
@@ -7738,6 +7739,7 @@
 ||http://119xiazai.com^$subdocument
 ||http://11img.com/ad/
 ||http://11kkzz.com/se/wf/
+||http://11px.cn/Style/ag/
 ||http://11vvt.com^*tools/
 ||http://120.27.*.html
 ||http://120.27.34.156^
@@ -12341,11 +12343,11 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://11px.cn/Style/ag/
 ||http://17ce.com^*_$image
-||http://alicdn.com^$domain=99a68.com|99re.com
-||http://sinaimg.cn^$domain=99a68.com|99re.com
-||http://upload.cc^$domain=99a68.com|99re.com
+||http://jsdelivr.net^$domain=99a67.com
+||http://alicdn.com^$domain=99a67.com|99re.com
+||http://sinaimg.cn^$domain=99a67.com|99re.com
+||http://upload.cc^$domain=99a67.com|99re.com
 ||http://immedlinkum.info^
 ||http://xayah.date^
 ||http://imgur.com^$domain=172.86.179.138|208.94.244.100|208.94.244.98|a88.us|ac168.info|ac88.info|aisex.com|cnnice.biz|go543.com
@@ -13184,6 +13186,9 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://y7o9rh.cn^
+||http://mydownba.com^
+||http://daomengren.com^*lin*.js
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13998,7 +14003,7 @@
 ||http://hatbiz.cn^
 ||http://hawbfa.com^
 ||http://hbbww.com^
-||http://hbfie.org/mh
+||http://hbfie.org/mb/meng/
 ||http://hbhxqcw.com^
 ||http://hbkhqc.com^
 ||http://hblanghun.cn^
@@ -15418,7 +15423,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://11px.cn##.ag
+https://ilxdh.com###nice-banner0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17179,6 +17184,7 @@ https://dav01.com##.adwraper
 https://gamme.com.tw##.adwrpt
 https://jdbbs.com##.adyihifi
 https://baidu.com##.afd-item
+https://11px.cn##.ag
 https://13mv.com,xoiof.com##.aggd
 https://33lc.com##.ags
 https://wigcw.cn##.alert-block
@@ -18681,7 +18687,7 @@ https://sogou.com##.pz-widget-flash-container
 https://boke112.com##.qa-pc
 https://baidu.com##.qb-other-answer-wmad
 https://baobao.baidu.com##.qb-relate-box
-https://tophub.today##.qc
+https://tophub.today##DIV[class^="qc"]
 https://qidian.com##.qd-game
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 https://czjx8.com##.qktz
@@ -20486,8 +20492,8 @@ https://58.com#?#LI[sortid]:-abp-has(.icon-zhiding)
 https://58.com#?#LI[sortid]:-abp-has(.jinico)
 https://58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 https://58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
-https://99a68.com,99re.com##.dmcenter
-https://99a68.com,99re.com##.spots
+https://99a67.com,99re.com##.dmcenter
+https://99a67.com,99re.com##.spots
 https://512539700c.top,ahri-hentai.com#@#.adsbox
 https://ck101.com,gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250
 https://ck101.com,gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250m
@@ -20688,12 +20694,12 @@ https://zol.com.cn##span[class^="dxlt-down"]
 https://zol.com.cn##span[class^="jisu-down"]
 https://coolpc.com.tw#@##mycookie
 https://dota2.com.cn#@##bdshare
-https://hotjob.cn#@#.SOCIAL
 https://eastday.com#@##leftShare
 https://gfan.com,gfan.net.cn#@##shareBox
 https://sogou.com#@##shareContent
 https://189.cn,zdzdm.com#@##share_list
 https://harrynull.tech#@##sharelist
+https://hotjob.cn#@#.SOCIAL
 https://freecodecamp.cn,freecodecamp.one#@#.btn-social
 https://storm.mg#@#.btn_fb
 https://cokemine.com,eveaz.com,jubuzz.com,skyarea.cn,tianfateng.cn#@#.category-share
@@ -20734,7 +20740,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://11px.cn##.ag
+http://ilxdh.com###nice-banner0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22495,6 +22501,7 @@ http://dav01.com##.adwraper
 http://gamme.com.tw##.adwrpt
 http://jdbbs.com##.adyihifi
 http://baidu.com##.afd-item
+http://11px.cn##.ag
 http://13mv.com,xoiof.com##.aggd
 http://33lc.com##.ags
 http://wigcw.cn##.alert-block
@@ -23997,7 +24004,7 @@ http://sogou.com##.pz-widget-flash-container
 http://boke112.com##.qa-pc
 http://baidu.com##.qb-other-answer-wmad
 http://baobao.baidu.com##.qb-relate-box
-http://tophub.today##.qc
+http://tophub.today##DIV[class^="qc"]
 http://qidian.com##.qd-game
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.qipai_thread
 http://czjx8.com##.qktz
@@ -25802,8 +25809,8 @@ http://58.com#?#LI[sortid]:-abp-has(.icon-zhiding)
 http://58.com#?#LI[sortid]:-abp-has(.jinico)
 http://58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 http://58.com#?#tr[sortid]:-abp-has(> .t > .ico.accurate)
-http://99a68.com,99re.com##.dmcenter
-http://99a68.com,99re.com##.spots
+http://99a67.com,99re.com##.dmcenter
+http://99a67.com,99re.com##.spots
 http://512539700c.top,ahri-hentai.com#@#.adsbox
 http://ck101.com,gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250
 http://ck101.com,gamer.com.tw,papalah.com,pili.com.tw#@#.pub_300x250m
@@ -26004,12 +26011,12 @@ http://zol.com.cn##span[class^="dxlt-down"]
 http://zol.com.cn##span[class^="jisu-down"]
 http://coolpc.com.tw#@##mycookie
 http://dota2.com.cn#@##bdshare
-http://hotjob.cn#@#.SOCIAL
 http://eastday.com#@##leftShare
 http://gfan.com,gfan.net.cn#@##shareBox
 http://sogou.com#@##shareContent
 http://189.cn,zdzdm.com#@##share_list
 http://harrynull.tech#@##sharelist
+http://hotjob.cn#@#.SOCIAL
 http://freecodecamp.cn,freecodecamp.one#@#.btn-social
 http://storm.mg#@#.btn_fb
 http://cokemine.com,eveaz.com,jubuzz.com,skyarea.cn,tianfateng.cn#@#.category-share
