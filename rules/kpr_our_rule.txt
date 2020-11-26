@@ -7315,13 +7315,31 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 |https://cmdyimg.tjyjj.cn/js/
 
 #自定义广告过滤规则by larry
+||right.com.cn/forum/static/image/common/logo*.gif
+||qhimg.com/11.0.1.js$script
+||zz.bdstatic.com^
+
 #youtube#
 *.googlevideo.com
 /googleads.$~script,domain=~googleads.github.io
 /pagead/lvz?
 ||google.com/pagead/
+||youtube.com/pagead/
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
+||youtube.com/ptracking?
+||youtube.com/api/stats/qoe?
+||youtube.com/api/stats/atr
+
+#youku
+||mmstat.com^
+||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
+
+#爱奇艺
+||hm.baidu.com^$3p
+||baidu.com/x.js?
+||zz.bdstatic.com^
+
 
 #韩剧TV
 ||http://static.hanju.koudaibaobao.com/img/pub/*.mp4
@@ -7632,7 +7650,7 @@ baidu.com##.s-mancacrd-main
 ||http://imge.dangbei.net/image/20201102/*.jpg
 ||vodemp4.dangbei.net
 #mangtuo 11.12更新
-||da.mgtv.com
+||da.mgtv.com^
 |https://video.da.mgtv.com^
 ||btrace.play.aiseet.atianqi.com
 ||ott.v1.data.mgtv.com
@@ -7640,3 +7658,8 @@ baidu.com##.s-mancacrd-main
 ||s.360.cn
 ||mediav.com
 ||pcvideochuangott.titan.mgtv.com
+
+www.sehuatang.net##a.js-randomBg
+www.sehuatang.net##.show-text2
+www.sehuatang.net##a.js-randomBg
+||cnzz.com^$3p
