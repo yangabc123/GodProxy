@@ -5,7 +5,7 @@ on:
   #    - master
   # 自动更新 
   schedule:
-    - cron: 0 12 * * *
+    - cron: 0 0 * * *
   # release:
   #   types: [published]
  # 点击star才会触发    
@@ -46,15 +46,17 @@ jobs:
           git config --global user.email "ledewrt@hotmail.com"
           git config --global user.name "ledewrt"
           git clone --depth 1 "https://ledewrt:${{ secrets.REPO_TOKEN }}@github.com/ledewrt/luci-app-ledeproxy.git" github
+          #老的目录
           #cp -rf ./rules/ github/root/usr/share/koolproxy/data/
           #mv ipsetadblock/koolproxy_ipset.conf github/root/usr/share/koolproxy/
           #mv ipsetadblock/dnsmasq.adblock github/root/usr/share/koolproxy/
           #cp -rf ./bin/ github/
-          
-          cp -rf ./rules/ github/files/usr/share/koolproxy/data
-          mv ipsetadblock/koolproxy_ipset.conf github/files/usr/share/koolproxy/
-          mv ipsetadblock/dnsmasq.adblock github/files/usr/share/koolproxy/
-          cp -rf ./bin/ github/files/
+          #新的目录
+          #cp -rf ./rules/ github/files/usr/share/koolproxy/data
+          #mv ipsetadblock/koolproxy_ipset.conf github/files/usr/share/koolproxy/
+          #mv ipsetadblock/dnsmasq.adblock github/files/usr/share/koolproxy/
+          #cp -rf ./bin/ github/files/
+          cp -rf ./tmp/rulesupdate.log github/
           
           cd github
           git add . || echo "1"
@@ -73,7 +75,7 @@ jobs:
           cp -rf ./rules/ gitee/
           cp -rf ./ipsetadblock/ gitee/
           cp -rf ./bin/ gitee/
-          cp -rf ./tmp/update.log gitee/
+          cp -rf ./tmp/rulesupdate.log gitee/
           cd gitee
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
@@ -89,7 +91,7 @@ jobs:
           cp -rf ./rules/ coding/
           cp -rf ./ipsetadblock/ coding/
           cp -rf ./bin/ coding/
-          cp -rf ./tmp/update.log coding/
+          cp -rf ./tmp/rulesupdate.log coding/
           cd coding
           git add . || echo "1"
           git commit -m "update rules to newest versions" -a;
