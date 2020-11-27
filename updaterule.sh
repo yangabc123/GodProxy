@@ -3,7 +3,7 @@
 #alias echo_date='echo $(date +%Y年%m月%d日\ %X):'
 alias echo_date='echo $(date "+%F %T"):'
 
-LOGFILE="tmp/update.log"
+LOGFILE="tmp/rulesupdate.log"
 url_cjx="https://github.com/cjx82630/cjxlist/blob/master/cjx-annoyance.txt"
 url_easylist="https://easylist-downloads.adblockplus.org/easylistchina.txt"
 url_kp="https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat"
