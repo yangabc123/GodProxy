@@ -480,6 +480,16 @@ cat /dev/null > $LOGFILE
 		sed -i '/g.alicdn.com/d' rules/antiad.txt
 		sed -i '/tudou.com/d' rules/antiad.txt
 		sed -i '/gtimg.cn/d' rules/antiad.txt
+		#新增1688等放行
+		sed -i '/miui.comd' rules/antiad.txt
+                sed -i '/1688.com/d' rules/antiad.txt
+                sed -i '/taobao.com/d' rules/antiad.txt
+                sed -i '/qq.com/d' rules/antiad.txt
+                sed -i '/bilibili.com/d' rules/antiad.txt
+                sed -i '/58.com/d' rules/antiad.txt
+                sed -i '/11222.cn/d' rules/antiad.txt
+                sed -i '/ucweb.com/d' rules/antiad.txt
+                sed -i '/kiees.com/d' rules/antiad.txt
 
 
 		# 给知乎放行
