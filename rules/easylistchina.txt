@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mV3g8leuDUkaBVVLyHyHXA
-! Version: 202011282352
+! Checksum: I9JBUSnlFh2JLj87ZFgbAg
+! Version: 202011292352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1443,6 +1443,7 @@
 ||https://alicdn.com/img/ibank/*_1591187313.
 ||https://alicdn.com/img/ibank/*_1623489831.
 ||https://alicdn.com/img/ibank/*_1746120392.
+||https://alicdn.com/img/ibank/*_1776866723.
 ||https://alicdn.com/img/ibank/*_1794478205.
 ||https://alicdn.com/img/ibank/*_1932275220.
 ||https://alicdn.com/img/ibank/*_1995781528.
@@ -5841,6 +5842,7 @@
 ||http://displink.com^$third-party
 ||http://diuling.com^
 ||http://dizhonghaihotel.com^
+||http://djpt33.com^
 ||http://djsn888.com^
 ||http://djy518.com^
 ||http://dlads.cn^$third-party
@@ -6784,6 +6786,7 @@
 ||http://qubilou.com^$third-party
 ||http://qubo94.com^
 ||http://qucaigg.com^
+||http://qudaoweiwang.com^
 ||http://queene.cn^
 ||http://qunale888.com/maizhan/
 ||http://quw18.com^
@@ -8556,6 +8559,7 @@
 ||http://alicdn.com/img/ibank/*_1591187313.
 ||http://alicdn.com/img/ibank/*_1623489831.
 ||http://alicdn.com/img/ibank/*_1746120392.$domain=~rmdown.com
+||http://alicdn.com/img/ibank/*_1776866723.
 ||http://alicdn.com/img/ibank/*_1794478205.
 ||http://alicdn.com/img/ibank/*_1932275220.
 ||http://alicdn.com/img/ibank/*_1995781528.
@@ -11135,6 +11139,7 @@
 ||http://r3sub.com/images/ccc/
 ||http://r3sub.com/posters/0069810.jpg
 ||http://r3sub.com^*0.gif
+||http://radikal.ru^$domain=18board.com|18p2p.com
 ||http://rainpat.com/Content/1360x55/
 ||http://rainpat.com/Scripts/jquery.SuperSlide.
 ||http://rakuten-static.com^$domain=cwyuni.tw
@@ -14103,6 +14108,7 @@
 ||http://huayi65.com^
 ||http://hudxqjg.cn^
 ||http://hueekqx.cn^
+||http://huhuhiiuio.com^
 ||http://huician.cn^
 ||http://huigoushop.com^
 ||http://huixingcheng.cn^
@@ -17237,6 +17243,7 @@ https://caibaojian.com##.aliyun-inner
 https://cnfol.com##.allAd
 https://bkill.com##.alliance-ad
 https://pilifx.com##.alltop
+https://18board.com,18p2p.com##.altbg2 > td[width="33%"]
 https://gugeys.cc##.am-g
 https://gufengmh.com##.animated
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -20458,7 +20465,7 @@ https://ltn.com.tw#@#.adright
 https://money18.on.cc#@#.ads-bg
 https://gsxt.gov.cn#@#.ads-right
 https://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-https://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+https://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 https://gdmm.com,gkstk.com,youquba.net#@#.adtop
 https://bdp.cn#@#.adv-list
 https://anjia365.com#@#.adv_bg
@@ -22562,6 +22569,7 @@ http://caibaojian.com##.aliyun-inner
 http://cnfol.com##.allAd
 http://bkill.com##.alliance-ad
 http://pilifx.com##.alltop
+http://18board.com,18p2p.com##.altbg2 > td[width="33%"]
 http://gugeys.cc##.am-g
 http://gufengmh.com##.animated
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.app_forum_top_nav_tab
@@ -25783,7 +25791,7 @@ http://ltn.com.tw#@#.adright
 http://money18.on.cc#@#.ads-bg
 http://gsxt.gov.cn#@#.ads-right
 http://159i.com,techroomage.com,zhaopin.com#@#.adsBox
-http://1point3acres.com,alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
+http://alotof.software,android-doc.com,apk.tw,battlecats-db.com,chtoen.com,dizhishengcheng.com,doitwell.tw,epinv.com,ff14angler.com,fxpan.com,haoweichi.com,logi.im,moa.tw,numberempire.com,playok.com,shenfendaquan.com,tingfm.com,yabook.org#@#.adsbygoogle
 http://gdmm.com,gkstk.com,youquba.net#@#.adtop
 http://bdp.cn#@#.adv-list
 http://anjia365.com#@#.adv_bg
