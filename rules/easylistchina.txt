@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: I9JBUSnlFh2JLj87ZFgbAg
-! Version: 202011292352
+! Checksum: a17gkXr5GtuTprLsu8gzhA
+! Version: 202011302352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5022,6 +5022,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://ht12366.top^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -13211,6 +13212,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://jxwef0.cn^
+||http://jsku.info^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
