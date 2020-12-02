@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: a17gkXr5GtuTprLsu8gzhA
-! Version: 202011302352
+! Checksum: oShy1Wde3WKqWPY4WQ0Uaw
+! Version: 202012012353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2978,6 +2978,7 @@
 ||https://jsdelivr.net/gh/a901361/
 ||https://jsjinfu.com/maizhan/js/age.js
 ||https://jstucdn.com/g3/
+||https://jstucdn.com/js/goovis.js
 ||https://jstucdn.com/js/vrsr
 ||https://jswz8.com/images/
 ||https://juejin.im/v3/web/wbbr/
@@ -5022,7 +5023,6 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
-||http://ht12366.top^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -5803,6 +5803,7 @@
 ||http://d8ekco.com^
 ||http://dadjia.com^
 ||http://dafapai.com^
+||http://dagonghuzhu.com^
 ||http://dahanedu.com^
 ||http://daikuanfanli.com^
 ||http://dalianhengtai.com^
@@ -6162,6 +6163,7 @@
 ||http://hslyqs.com^
 ||http://hsmkj.net^$third-party
 ||http://hsyjxzl.cn^
+||http://ht12366.top^
 ||http://htg-x.com^$third-party
 ||http://huaerduo.com^
 ||http://huanqiucaizhi.com^
@@ -7189,6 +7191,7 @@
 ||http://webofxm.cn^
 ||http://wecrtfr.com^
 ||http://weddingeeos.com^$third-party
+||http://weifengtianxia.com^
 ||http://weihuiyungou.com^
 ||http://weiqiqu.cn^
 ||http://weizhenwx.com^
@@ -10319,6 +10322,7 @@
 ||http://jsdelivr.net/gh/fzdm/st*/js/fzwap-
 ||http://jsjinfu.com/maizhan/js/age.js
 ||http://jstucdn.com/g3/
+||http://jstucdn.com/js/goovis.js
 ||http://jstucdn.com/js/vrsr
 ||http://jswz8.com/images/
 ||http://jsyefc.com^
@@ -13212,8 +13216,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://jxwef0.cn^
-||http://jsku.info^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13700,6 +13702,7 @@
 ||http://colorofgod.cn^
 ||http://comberry.cn^
 ||http://continuedsys.cn^
+||http://continuefaf.top^
 ||http://coolpadrom.cn^
 ||http://cooltool.cc^
 ||http://cornplus.cn^
@@ -14252,6 +14255,7 @@
 ||http://jqpvv.cn^
 ||http://jskang.cn^
 ||http://jsku.cc^
+||http://jsku.info^
 ||http://jsr9.com^$third-party
 ||http://jssumei.cn^
 ||http://jsszxx.com^
@@ -14278,6 +14282,7 @@
 ||http://jxhcyc.com^
 ||http://jxinyue.top^
 ||http://jxmzyg.com^
+||http://jxwef0.cn^
 ||http://jxxcfd.com^
 ||http://jxyufa.com^
 ||http://jyjhkz.com^
@@ -14719,6 +14724,7 @@
 ||http://rockcoke.cn^
 ||http://romgv.com^
 ||http://rongnews.com^
+||http://root85.com^
 ||http://rqvfewi.cn^
 ||http://rrkykn.cn^
 ||http://rtslgov.cn^
@@ -14821,6 +14827,7 @@
 ||http://soueki.com^
 ||http://soyue.cc^$third-party
 ||http://spahelani.com^
+||http://spaung.cn^
 ||http://sqa4e.xyz^
 ||http://sqtr1v.com^
 ||http://sqwscy.com^
