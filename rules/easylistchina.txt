@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: oShy1Wde3WKqWPY4WQ0Uaw
-! Version: 202012012353
+! Checksum: uxbaoTvJcEYihZZccpzJUA
+! Version: 202012022352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1784,6 +1784,7 @@
 ||https://bt888bf.com/da.aspx
 ||https://btbt.tv/dd/
 ||https://btbuluo.com/uploads/*.gif
+||https://btc.com/v1/poster/production/explorer-banner.
 ||https://btcfans.com/template/comiis_lssy/ad/
 ||https://btdx8.com/tmp/
 ||https://btkat.com/style/l.js
@@ -5956,6 +5957,7 @@
 ||http://ffa9.cn^
 ||http://ffhtek.com^
 ||http://fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com^
+||http://fijipic.xyz^
 ||http://fisher56.com^
 ||http://fjbzjc.com^
 ||http://fjdy.cc^
@@ -6281,6 +6283,7 @@
 ||http://jiankang13.com^$third-party
 ||http://jianmei123.com^
 ||http://jianpian.vip^$third-party
+||http://jianxinshanghai.com^
 ||http://jianyousj.com^
 ||http://jiasdart.cn^
 ||http://jiehantai.com^
@@ -8948,6 +8951,7 @@
 ||http://bt888bf.com/da.aspx
 ||http://btbt.tv/dd/
 ||http://btbuluo.com/uploads/*.gif
+||http://btc.com/v1/poster/production/explorer-banner.
 ||http://btcfans.com/template/comiis_lssy/ad/
 ||http://btdx8.com/tmp/
 ||http://btkat.com/style/l.js
@@ -13787,6 +13791,7 @@
 ||http://diangezan.me^
 ||http://dianshihuanping.cn^
 ||http://dierqingchun.com^
+||http://dilqdiw.cn^
 ||http://dirbfm.cn^
 ||http://diyibanzhu6.xyz/js/html
 ||http://djhhy.com^
@@ -18307,6 +18312,7 @@ https://99tianji.com##.kf1
 https://1kkk.com##.kk2.cc
 https://0597kk.com##.kk_ad
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.kn_nine_wrap
+https://kocpc.com.tw##.kocpc_bot_ad
 https://fznews.com.cn##.kuang100_right
 https://lanyes.org##.kuanpin
 https://chinaz.com##.kwLink
@@ -19905,6 +19911,7 @@ https://fx678.com##div[class^="hc_ad_"]
 https://ditu.so.com##div[class^="index-adflag-"] + a
 https://5iyq.com##div[class^="index_ad"]
 https://ifeng.com##div[class^="middleAd"]
+https://msn.cn##div[class^="nativeAd-DS-card"]
 https://nba.hupu.com##div[class^="nba-ad"]
 https://tophub.today##div[class^="ne"]
 https://wasu.cn##div[class^="play_ads"]
@@ -23633,6 +23640,7 @@ http://99tianji.com##.kf1
 http://1kkk.com##.kk2.cc
 http://0597kk.com##.kk_ad
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.kn_nine_wrap
+http://kocpc.com.tw##.kocpc_bot_ad
 http://fznews.com.cn##.kuang100_right
 http://lanyes.org##.kuanpin
 http://chinaz.com##.kwLink
@@ -25231,6 +25239,7 @@ http://fx678.com##div[class^="hc_ad_"]
 http://ditu.so.com##div[class^="index-adflag-"] + a
 http://5iyq.com##div[class^="index_ad"]
 http://ifeng.com##div[class^="middleAd"]
+http://msn.cn##div[class^="nativeAd-DS-card"]
 http://nba.hupu.com##div[class^="nba-ad"]
 http://tophub.today##div[class^="ne"]
 http://wasu.cn##div[class^="play_ads"]
