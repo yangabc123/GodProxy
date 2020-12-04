@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: uxbaoTvJcEYihZZccpzJUA
-! Version: 202012022352
+! Checksum: vsRnhG0pl23zFnJ3yA+xrg
+! Version: 202012032353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2055,6 +2055,7 @@
 ||https://content.xilu.com^$object
 ||https://coolaler.com/index_ads/
 ||https://coolpc.com.tw/img/topweb.html
+||https://cosxcos.cc/uploads/*bb
 ||https://cosxcos.cc/uploads/*my
 ||https://cp121.com/js2/
 ||https://cpbl-elta.cdn.hinet.net/web/images/ad_
@@ -5638,6 +5639,7 @@
 ||http://bmw100.cn^$third-party
 ||http://bnq86.com^
 ||http://bnuni.com^$third-party
+||http://bole.asia^
 ||http://books.com.tw/exep/ap/$third-party
 ||http://borsendental.com^
 ||http://bosatria.cn^
@@ -9246,6 +9248,7 @@
 ||http://content.xilu.com^$object
 ||http://coolaler.com/index_ads/
 ||http://coolpc.com.tw/img/topweb.html
+||http://cosxcos.cc/uploads/*bb
 ||http://cosxcos.cc/uploads/*my
 ||http://cp121.com/js2/
 ||http://cp2.eastmoney.com^
@@ -12734,6 +12737,7 @@
 ||http://dm.taobaojuhuasuan.cn^
 ||http://dm.wenshenxiu.com^
 ||http://dm.zuowenku.net^
+||http://dm1.dnpz123.com^
 ||http://dm1.guanwawa.com^
 ||http://dm1.zjydt.com^
 ||http://dmm.aizhan.com^
@@ -13901,6 +13905,7 @@
 ||http://fjshxzyyxgs.cn^
 ||http://fjtzjy.com^
 ||http://fkkse.com^
+||http://fll007.com^
 ||http://fnpet.cn^
 ||http://fnwll.cn^
 ||http://fnxmyx.cn^
@@ -14425,6 +14430,7 @@
 ||http://maimaias.cn^
 ||http://maka.im^$third-party
 ||http://mamaailmjz.cn^
+||http://manhua.cyou^
 ||http://mao1.jsnovel.com^
 ||http://maobujie.com^
 ||http://maoyumao.net^
@@ -14444,6 +14450,7 @@
 ||http://mendoc.cn^
 ||http://mengpr.com^
 ||http://meooe.com^
+||http://meoqbhw.cn^
 ||http://meuevcj.cn^
 ||http://mgsue.cn^
 ||http://mgzs.cdn.bcebos.com^
@@ -17993,7 +18000,6 @@ https://eeyy.com##.gg_bg
 https://js0573.com##.gg_bnr
 https://xiaopi.com##.gg_box
 https://zt5.com##.gg_bt
-https://comicat.org,kisssub.org##.gg_canvas
 https://sinolub.com##.gg_cen
 https://eastday.com##.gg_channel_r_b
 https://55188.com,g138.com##.gg_head_l
@@ -19538,6 +19544,7 @@ https://17173.com##a[href*="&ad_code="]
 https://neatstudio.com##a[href*="&cps_key="]
 https://ruanyifeng.com##a[href*=".100offer.com"]
 https://backchina.com##a[href*=".21usdeal.com"]
+https://9ht.com##a[href*=".360.cn/"]
 https://cnzol.com##a[href*=".91comics.com/"]
 https://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 https://itboth.com,itkeyword.com##a[href*=".aliyun."]
@@ -23321,7 +23328,6 @@ http://eeyy.com##.gg_bg
 http://js0573.com##.gg_bnr
 http://xiaopi.com##.gg_box
 http://zt5.com##.gg_bt
-http://comicat.org,kisssub.org##.gg_canvas
 http://sinolub.com##.gg_cen
 http://eastday.com##.gg_channel_r_b
 http://55188.com,g138.com##.gg_head_l
@@ -24866,6 +24872,7 @@ http://17173.com##a[href*="&ad_code="]
 http://neatstudio.com##a[href*="&cps_key="]
 http://ruanyifeng.com##a[href*=".100offer.com"]
 http://backchina.com##a[href*=".21usdeal.com"]
+http://9ht.com##a[href*=".360.cn/"]
 http://cnzol.com##a[href*=".91comics.com/"]
 http://163.com,bilibili.com,longzhu.com##a[href*=".admaster."]
 http://itboth.com,itkeyword.com##a[href*=".aliyun."]
