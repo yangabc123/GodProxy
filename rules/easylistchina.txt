@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: vsRnhG0pl23zFnJ3yA+xrg
-! Version: 202012032353
+! Checksum: dFL3yKZopoJENbaANo4GEQ
+! Version: 202012042353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4846,6 +4846,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://dilidili8.com/static/*.js
+||https://iyingdi.com/goood?
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5025,6 +5027,9 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://fzbymy.com^
+||http://qingyanmjg.com^
+||http://ertongjiaju360.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -12378,6 +12383,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://dilidili8.com/static/*.js
+||http://iyingdi.com/goood?
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13224,6 +13231,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://birthcaker.cn^
+||http://juxuyun.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15487,6 +15496,9 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://123.com.cn##.wraper_ad
+https://123.com.cn##.ad
+https://123.com.cn##.img-banner
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20815,6 +20827,9 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://123.com.cn##.wraper_ad
+http://123.com.cn##.ad
+http://123.com.cn##.img-banner
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
