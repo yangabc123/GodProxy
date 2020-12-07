@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20201204173234
-!TOTAL_LINES=38456
+!VER=20201206160005
+!TOTAL_LINES=38457
 ||https://00-gov.cn
 ||https://kwcdn.000dn.com
 ||https://kwcscdn.000dn.com

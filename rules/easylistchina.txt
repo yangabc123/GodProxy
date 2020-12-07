@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: MCReZcljPRfHJkE56BNrjw
-! Version: 202012052353
+! Checksum: EUm41eJYjJNjoLa3VlYb7A
+! Version: 202012062353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4850,6 +4850,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://baidu.com/api/wikiui/getasp?
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12389,6 +12390,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://baidu.com/api/wikiui/getasp?
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13235,6 +13237,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://qizixsw.com^
+||http://chinayutai.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15502,6 +15506,15 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://baidu.com##.yitiao-box
+https://jingyan.baidu.com##.right-fixed-related-wrap
+https://toolfk.com##A[href*=".xiuxiandou.com/"]
+https://toolfk.com#?#div[class]:-abp-has(> a[href*=".aliyun.com"])
+https://toolfk.com##.swiper-container-horizontal
+https://aiweibk.com##.pc
+https://zhenn.net##.GzList
+https://yxdm.me##.adv-bt
+https://51xiazai.cn###xzbtn1:nth-child(2)
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20833,6 +20846,15 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://baidu.com##.yitiao-box
+http://jingyan.baidu.com##.right-fixed-related-wrap
+http://toolfk.com##A[href*=".xiuxiandou.com/"]
+http://toolfk.com#?#div[class]:-abp-has(> a[href*=".aliyun.com"])
+http://toolfk.com##.swiper-container-horizontal
+http://aiweibk.com##.pc
+http://zhenn.net##.GzList
+http://yxdm.me##.adv-bt
+http://51xiazai.cn###xzbtn1:nth-child(2)
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
