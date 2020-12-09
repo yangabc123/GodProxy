@@ -7316,6 +7316,14 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 
 #自定义广告过滤规则by larry
 
+#爱奇艺
+||cupid.iqiyi.com/show2*a=qc_100001_*$s@"a":[{"ds":?,"p":??,*:[]}],"inv":@"a":[]}],"inv":@
+#优酷
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@e,"disable"@e,""@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@,"youku_vip_pay_btn"),n@,""),n@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@var r="VIP";@var r="No vip";@
+||g.alicdn.com/player/beta-ykplayer/*/youku-player.min.js$s@disable youku_vip_pay_btn@@
+
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
