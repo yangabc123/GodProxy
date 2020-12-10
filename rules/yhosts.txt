@@ -1,4 +1,4 @@
-!version=202011221325
+!version=202012082037
 !-----Test
 ||https://at.umeng.com
 ||https://adfurikun.jp
@@ -2704,6 +2704,7 @@
 ||https://abcd.zsrt88.cn
 ||https://abcj.dooccn.com
 ||https://abckzo.cn
+||https://ac.jbaohua.cn
 ||https://activity.bayimob.com
 ||https://activity.tuifish.com
 ||https://ad.1ting.com
@@ -2874,6 +2875,7 @@
 ||https://bdjsfl.chinabig.com.cn
 ||https://bdlm.120askimages.com
 ||https://bds.hainan.net
+||https://befd.fanqingzhou.cn
 ||https://bfr.chinaweian.com
 ||https://bgkh.zcpap.cn
 ||https://bhgjeg42572.dcghp.top
@@ -2901,6 +2903,7 @@
 ||https://c.45io.com
 ||https://c.51xmgys.com
 ||https://c.anmeilai.net
+||https://c.bayongzx.cn
 ||https://c.bccyyc.com
 ||https://c.cdlkzb.com
 ||https://c.chaochao132.xyz
@@ -4944,6 +4947,7 @@
 ||https://m.lf20pa.cn
 ||https://m.lfdydk.com
 ||https://m.lfouz.com
+||https://m.lfshpt.cn
 ||https://m.lglady.cn
 ||https://m.lguir.com
 ||https://m.lisla.cn
@@ -5492,6 +5496,7 @@
 ||https://n.88android.com
 ||https://n.qudwrj.cn
 ||https://n.yfi8.com
+||https://n.yyhanyu.cn
 ||https://n5.q2ws3.cn
 ||https://nads.wuaiso.com
 ||https://nadscdn.wuaiso.com
@@ -6202,6 +6207,7 @@
 ||https://v.9y88.com
 ||https://v.amghwdf.cn
 ||https://v.awmlkuu.cn
+||https://v.bayongzx.cn
 ||https://v.bingxueshenjie.cn
 ||https://v.com.5p67n.cn
 ||https://v.dcgwnhk.cn
@@ -6247,6 +6253,7 @@
 ||https://vegoid.cn
 ||https://vgbp.mzran.com.cn
 ||https://vgf.zuihuixuan.com
+||https://vhd23.cnsanheng.cn
 ||https://vhec.jhjhyn.cn
 ||https://vi12x.xcle.cn
 ||https://vikg.mpp9h.cn
@@ -9105,7 +9112,7 @@
 ||https://j.credit.wwz114.cn
 ||https://y.one.impact-ad.net
 ||https://adsmind.gdtimg.com
-!version=202011221325
+!version=202012082037
 !-----Test
 ||http://at.umeng.com
 ||http://adfurikun.jp
@@ -11811,6 +11818,7 @@
 ||http://abcd.zsrt88.cn
 ||http://abcj.dooccn.com
 ||http://abckzo.cn
+||http://ac.jbaohua.cn
 ||http://activity.bayimob.com
 ||http://activity.tuifish.com
 ||http://ad.1ting.com
@@ -11981,6 +11989,7 @@
 ||http://bdjsfl.chinabig.com.cn
 ||http://bdlm.120askimages.com
 ||http://bds.hainan.net
+||http://befd.fanqingzhou.cn
 ||http://bfr.chinaweian.com
 ||http://bgkh.zcpap.cn
 ||http://bhgjeg42572.dcghp.top
@@ -12008,6 +12017,7 @@
 ||http://c.45io.com
 ||http://c.51xmgys.com
 ||http://c.anmeilai.net
+||http://c.bayongzx.cn
 ||http://c.bccyyc.com
 ||http://c.cdlkzb.com
 ||http://c.chaochao132.xyz
@@ -14051,6 +14061,7 @@
 ||http://m.lf20pa.cn
 ||http://m.lfdydk.com
 ||http://m.lfouz.com
+||http://m.lfshpt.cn
 ||http://m.lglady.cn
 ||http://m.lguir.com
 ||http://m.lisla.cn
@@ -14599,6 +14610,7 @@
 ||http://n.88android.com
 ||http://n.qudwrj.cn
 ||http://n.yfi8.com
+||http://n.yyhanyu.cn
 ||http://n5.q2ws3.cn
 ||http://nads.wuaiso.com
 ||http://nadscdn.wuaiso.com
@@ -15309,6 +15321,7 @@
 ||http://v.9y88.com
 ||http://v.amghwdf.cn
 ||http://v.awmlkuu.cn
+||http://v.bayongzx.cn
 ||http://v.bingxueshenjie.cn
 ||http://v.com.5p67n.cn
 ||http://v.dcgwnhk.cn
@@ -15354,6 +15367,7 @@
 ||http://vegoid.cn
 ||http://vgbp.mzran.com.cn
 ||http://vgf.zuihuixuan.com
+||http://vhd23.cnsanheng.cn
 ||http://vhec.jhjhyn.cn
 ||http://vi12x.xcle.cn
 ||http://vikg.mpp9h.cn
