@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Aa2+8vUgNYcAnMT6JqGTUA
-! Version: 202012102352
+! Checksum: QXqUKgoMGjDvTmDvCaqFwA
+! Version: 202012112352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1600,6 +1600,7 @@
 ||https://baidu.com/forum/pic/item/9e3df8dcd100baa14e5258e25010b912c8fc2e68.jpg
 ||https://baidu.com/forum/pic/item/a044ad345982b2b7c044449a26adcbef77099b90.jpg
 ||https://baidu.com/forum/pic/item/aec379310a55b319b1963d3754a98226cffc1700.jpg
+||https://baidu.com/forum/pic/item/bf096b63f6246b60ced6e830fcf81a4c500fa29e.jpg
 ||https://baidu.com/forum/pic/item/c2cec3fdfc039245b36885579094a4c27c1e258c.jpg
 ||https://baidu.com/forum/pic/item/d000baa1cd11728b45991441dffcc3cec3fd2c18.jpg
 ||https://baidu.com/forum/pic/item/e5dde71190ef76c6211836cc9316fdfaae51670b.jpg
@@ -2150,7 +2151,7 @@
 ||https://diaoyu123.com/cpro/show.js
 ||https://dieka888.com/app_ad/
 ||https://dig.chouti.com/advert
-||https://dilidili8.com/static/*.js
+||https://dilidili3.com/static/*.js
 ||https://dingniugu.com/newskin/js/backTop.js
 ||https://dingniugu.com^*public.
 ||https://dio66.net/images/*.gif
@@ -3070,6 +3071,7 @@
 ||https://kwflvcdn.000dn.com^*.flv
 ||https://kxd56.com/qq.js
 ||https://kxd56.com/tg.gif
+||https://labuladong.github.io/algo/pictures/ad/
 ||https://lagou.com/js/cooperation/
 ||https://lahoo.ca/api.php?mod=ad&
 ||https://lahoo.ca/slider
@@ -4143,6 +4145,7 @@
 ||https://toolfk.com/common/11/
 ||https://toolfk.com/common/cp.js
 ||https://toolfk.com/common/other/11.png
+||https://toolfk.com/common/other/elm.png
 ||https://toolfk.com/tools/images/vps/
 ||https://toolnb.com/Public/aliyun/900x60.png
 ||https://topmba.mobi/ad/
@@ -4838,9 +4841,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://labuladong.github.io/algo/pictures/ad/
-||https://baidu.com/forum/pic/item/bf096b63f6246b60ced6e830fcf81a4c500fa29e.jpg
-||https://toolfk.com/common/other/elm.png
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5019,6 +5019,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://depnegj.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -8734,6 +8735,7 @@
 ||http://baidu.com/forum/pic/item/9e3df8dcd100baa14e5258e25010b912c8fc2e68.jpg
 ||http://baidu.com/forum/pic/item/a044ad345982b2b7c044449a26adcbef77099b90.jpg
 ||http://baidu.com/forum/pic/item/aec379310a55b319b1963d3754a98226cffc1700.jpg
+||http://baidu.com/forum/pic/item/bf096b63f6246b60ced6e830fcf81a4c500fa29e.jpg
 ||http://baidu.com/forum/pic/item/c2cec3fdfc039245b36885579094a4c27c1e258c.jpg
 ||http://baidu.com/forum/pic/item/d000baa1cd11728b45991441dffcc3cec3fd2c18.jpg
 ||http://baidu.com/forum/pic/item/e5dde71190ef76c6211836cc9316fdfaae51670b.jpg
@@ -9345,7 +9347,7 @@
 ||http://diaoyu123.com/cpro/show.js
 ||http://dieka888.com/app_ad/
 ||http://dig.chouti.com/advert
-||http://dilidili8.com/static/*.js
+||http://dilidili3.com/static/*.js
 ||http://dingniugu.com/newskin/js/backTop.js
 ||http://dingniugu.com^*public.
 ||http://dio66.net/images/*.gif
@@ -10412,6 +10414,7 @@
 ||http://kwflvcdn.000dn.com^*.flv
 ||http://kxd56.com/qq.js
 ||http://kxd56.com/tg.gif
+||http://labuladong.github.io/algo/pictures/ad/
 ||http://lagou.com/js/cooperation/
 ||http://lahoo.ca/api.php?mod=ad&
 ||http://lahoo.ca/slider
@@ -11599,6 +11602,7 @@
 ||http://toolfk.com/common/11/
 ||http://toolfk.com/common/cp.js
 ||http://toolfk.com/common/other/11.png
+||http://toolfk.com/common/other/elm.png
 ||http://toolfk.com/tools/images/vps/
 ||http://toolnb.com/Public/aliyun/900x60.png
 ||http://topmba.mobi/ad/
@@ -12355,9 +12359,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://labuladong.github.io/algo/pictures/ad/
-||http://baidu.com/forum/pic/item/bf096b63f6246b60ced6e830fcf81a4c500fa29e.jpg
-||http://toolfk.com/common/other/elm.png
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -12372,6 +12373,7 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://bd1-china.xsfaya.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13203,8 +13205,12 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://toujing9.top^
-||http://loli.net^$domain=xinqingdou.com
+||http://abi.run^
+||http://jisufeifei.com^
+||http://mxhbkj.cn^
+||http://ububyiw6655.xyz^
+||http://ohthub.com.cn^
+||http://jtwlj.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -14390,6 +14396,7 @@
 ||http://lnwow.net/1.gif
 ||http://lobmuc.cn^
 ||http://loli.net^$domain=rmxs8.com
+||http://loli.net^$domain=xinqingdou.com
 ||http://lolvsdota.cn^
 ||http://longfenfa.com^
 ||http://longkoupeanut.cn^
@@ -14938,6 +14945,7 @@
 ||http://toujing5.top^
 ||http://toujing7.top^
 ||http://toujing8.top^
+||http://toujing9.top^
 ||http://tozvhcq.cn^
 ||http://travel-together.cn^
 ||http://trhccn.cn^
@@ -15483,7 +15491,6 @@
 ||http://withad.cn^
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
-https://crsky.com##.Adown_v_gs
 https://szxx.com.cn###A0
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -16849,6 +16856,7 @@ https://cnfol.com##.Ad1000
 https://cnfol.com##.Ad310
 https://cnfol.com##.AdAsideW300H250
 https://hung-ya.com##.AdBottom
+https://crsky.com##.Adown_v_gs
 https://cnfol.com##.AdvDL
 https://fx110.com,fx110.uk##.Adv_1
 https://bestopview.com##.Adv_c
@@ -19957,7 +19965,7 @@ https://mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 https://anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
 https://58.com##div[id$="_gdbg"]
 https://mail.126.com,mail.163.com##div[id$="_succAd"]
-https://mydrivers.com##DIV[id$="_tab"] > UL > LI[style]
+https://mydrivers.com##div[id$="_tab"] > ul > li[style]
 https://my0511.com##div[id$="bdbc"]
 https://pixnet.net##div[id*="-AD-"]
 https://pixnet.net##div[id*="-Ad-"]
@@ -20819,7 +20827,6 @@ https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
-http://crsky.com##.Adown_v_gs
 http://szxx.com.cn###A0
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
@@ -22185,6 +22192,7 @@ http://cnfol.com##.Ad1000
 http://cnfol.com##.Ad310
 http://cnfol.com##.AdAsideW300H250
 http://hung-ya.com##.AdBottom
+http://crsky.com##.Adown_v_gs
 http://cnfol.com##.AdvDL
 http://fx110.com,fx110.uk##.Adv_1
 http://bestopview.com##.Adv_c
@@ -25293,7 +25301,7 @@ http://mail.126.com,mail.163.com##div[id$="_FooterDiv"]
 http://anoneko.com,dmhy.org,ye1213.com##div[id$="_ad"] > a:first-child > img
 http://58.com##div[id$="_gdbg"]
 http://mail.126.com,mail.163.com##div[id$="_succAd"]
-http://mydrivers.com##DIV[id$="_tab"] > UL > LI[style]
+http://mydrivers.com##div[id$="_tab"] > ul > li[style]
 http://my0511.com##div[id$="bdbc"]
 http://pixnet.net##div[id*="-AD-"]
 http://pixnet.net##div[id*="-Ad-"]
