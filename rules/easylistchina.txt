@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gY944Rv60OSIGt0XTf5MSg
-! Version: 202012132352
+! Checksum: /jY6ilICmrSew3kTvup+ZQ
+! Version: 202012142352
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4842,6 +4842,9 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://alicdn.com/tfs/TB1fwaTDhD1gK0jSZFyXXciOVXa-800-450.jpg
+||https://bdstatic.com/bjh/news/0826995b986cc09b0416ae3ca3469613.jpeg
+||https://json.cn/js/aliWindow.js
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5020,6 +5023,8 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://mtav1.com^
+||http://bolimen.top^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -12363,6 +12368,10 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://cdn.imvkan.com^
+||http://alicdn.com/tfs/TB1fwaTDhD1gK0jSZFyXXciOVXa-800-450.jpg
+||http://bdstatic.com/bjh/news/0826995b986cc09b0416ae3ca3469613.jpeg
+||http://json.cn/js/aliWindow.js
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13209,6 +13218,9 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://qkykxrm.cn^
+||http://xuenengyoujiaoyu.com^
+||http://kangerlu.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15505,6 +15517,13 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://json.cn##.tip[target="_blank"]
+https://3yan.cn##IMG[style*="300px"]
+https://olevod.com##A[style*="/upload/site/"]
+https://360kuai.com##.bottom_rectangle_gg_outer_box
+https://360kuai.com###content_top_gg
+https://360kuai.com###pendant_interactive_gg
+https://360kuai.com###xunjia-modal-btn
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20845,6 +20864,13 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://json.cn##.tip[target="_blank"]
+http://3yan.cn##IMG[style*="300px"]
+http://olevod.com##A[style*="/upload/site/"]
+http://360kuai.com##.bottom_rectangle_gg_outer_box
+http://360kuai.com###content_top_gg
+http://360kuai.com###pendant_interactive_gg
+http://360kuai.com###xunjia-modal-btn
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
