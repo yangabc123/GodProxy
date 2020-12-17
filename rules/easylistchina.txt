@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wk8hxurox7UzxGkHiaFYDg
-! Version: 202012152353
+! Checksum: KY6NJeuLE3Bbw8gth4CuUQ
+! Version: 202012162353
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2481,6 +2481,8 @@
 ||https://ghost580.com/js/nei4.js
 ||https://gk99.com/static/js/a-d-sys.js
 ||https://glzy8.com/img/ceo/js.js
+||https://gmbbk.com/bbsgmbbk/
+||https://gmbbk.com/fb.js
 ||https://gmbbku.com/img/top.js
 ||https://gmbbku.com/jj/
 ||https://gmbuluo.net/js/
@@ -4845,13 +4847,12 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://gmbbk.com/bbsgmbbk/
-||https://gmbbk.com/fb.js
+||https://ntimg.cn/original/images/www_ads.jpg
 ||https://17ce.com^*_$image
-||https://166sh.com^$third-party
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
 ||https://15tianqi.com^$third-party
+||https://166sh.com^$third-party
 ||https://200218.com^$third-party
 ||https://51yhzp.com^$third-party
 ||https://91friend.com^$third-party
@@ -5026,6 +5027,8 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://pinyoux.com^
+||http://itchenjian.com^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -9756,6 +9759,8 @@
 ||http://ghost580.com/js/nei4.js
 ||http://gk99.com/static/js/a-d-sys.js
 ||http://glzy8.com/img/ceo/js.js
+||http://gmbbk.com/bbsgmbbk/
+||http://gmbbk.com/fb.js
 ||http://gmbbku.com/img/top.js
 ||http://gmbbku.com/jj/
 ||http://gmbuluo.net/js/
@@ -12375,8 +12380,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://gmbbk.com/bbsgmbbk/
-||http://gmbbk.com/fb.js
+||http://ntimg.cn/original/images/www_ads.jpg
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -12391,7 +12395,6 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
-||http://166sh.com^$third-party
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -12457,6 +12460,7 @@
 ||http://1224.dxsbb.com^
 ||http://123456.asia^
 ||http://15tianqi.com^$third-party
+||http://166sh.com^$third-party
 ||http://17.huanqiu.com^
 ||http://177o.com^
 ||http://1999019.com^
@@ -13224,10 +13228,11 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://bailequan.net.cn^
-||http://aodepuo.cn^
-||http://maro30.com^
-||http://xuyssur.cn^
+||http://zxlmnet.com^
+||http://51showmy.com^
+||http://hyuanprint.com^
+||http://fjylcy.com^
+||http://nmlhkj.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13508,6 +13513,7 @@
 ||http://anmeilai.net^
 ||http://anweigongsi.com^
 ||http://anyysz.com^
+||http://aodepuo.cn^
 ||http://aomde.com^
 ||http://aox7.xyz^
 ||http://aoyou2.top^
@@ -13543,6 +13549,7 @@
 ||http://bahu.xyz^
 ||http://baidu.bxwx666.org^
 ||http://baiduspider1.cn^
+||http://bailequan.net.cn^
 ||http://baitaoidc.com^
 ||http://baiyangzs.com^
 ||http://banma51.cn^
@@ -14458,6 +14465,7 @@
 ||http://mao1.jsnovel.com^
 ||http://maobujie.com^
 ||http://maoyumao.net^
+||http://maro30.com^
 ||http://matchjia.cn^
 ||http://maxoi.cn^
 ||http://mbusdw.cn^
@@ -15241,6 +15249,7 @@
 ||http://xurizhongguo.cn^
 ||http://xuro006.com^
 ||http://xuxiangkj.com^
+||http://xuyssur.cn^
 ||http://xw1001.com^
 ||http://xxkio.com^
 ||http://xy98.com.cn^
@@ -19815,7 +19824,7 @@ https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
 https://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
 https://pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
-https://olevod.com##a[style*="/upload/site/"]
+https://olevod.com,olevod.eu##a[style*="/upload/site/"]
 https://house365.com##a[style*="1200px;"]
 https://hdzone.org##a[style*="fixed"]
 https://huaren.tv##a[style*="height:"]
@@ -25162,7 +25171,7 @@ http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
 http://edc1014070.pixnet.net##a[onmouseover*="_openBrWindow"]
 http://pixnet.net##a[onmouseover*="_openBrWindow('https://goo.gl/"]
-http://olevod.com##a[style*="/upload/site/"]
+http://olevod.com,olevod.eu##a[style*="/upload/site/"]
 http://house365.com##a[style*="1200px;"]
 http://hdzone.org##a[style*="fixed"]
 http://huaren.tv##a[style*="height:"]
