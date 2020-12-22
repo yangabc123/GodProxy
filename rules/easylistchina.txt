@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mZfR9yx38TkjWMPsC31xow
-! Version: 202012210003
+! Checksum: MJsX/l+JntT2hb8qjMPPgg
+! Version: 202012220002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4853,6 +4853,7 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://zlyk.com^*/ysapp.
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5033,6 +5034,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://suning.fit^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -12397,6 +12399,7 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://zlyk.com^*/ysapp.
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13246,6 +13249,7 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://kpirog.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15566,6 +15570,13 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://poxiaotv.com##video[onclick]
+https://chinaz.com###loc.Mnav-right02
+https://chinaz.com###topTxt
+https://chinaz.com###setPbottomMedia
+https://chinaz.com###setHomeTonglanCMedia
+https://chinaz.com##.header-media__text
+https://jiumodiary.com###forum-panel
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19853,7 +19864,7 @@ https://frdic.com,godic.net##a[onclick*="/ads/"]
 https://pcsoft.com.cn##a[onclick*="_ad"]
 https://caibaojian.com##a[onclick*="aliyun"]
 https://caibaojian.com##a[onclick*="aly"]
-https://3dmgame.com##a[onclick="goxiazai()"]
+https://3dmgame.com##A[onclick^="goxiazai"]
 https://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 https://fixdown.com##a[onclick^="count_down"]
 https://52pk.com##a[onclick^="ga"]
@@ -20703,6 +20714,7 @@ https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_l
 https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + div[id]:nth-child(2)
 https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + style + div[id]:nth-child(3)
 https://baidu.com###content_right > div > div[id^="m"]
+https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###con-ar > .result-op[mu*="nourl.ubs.baidu.com"]
 https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > div[id][data-click^="\7b \"fm"]
 https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
 https://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > table
@@ -20919,6 +20931,13 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://poxiaotv.com##video[onclick]
+http://chinaz.com###loc.Mnav-right02
+http://chinaz.com###topTxt
+http://chinaz.com###setPbottomMedia
+http://chinaz.com###setHomeTonglanCMedia
+http://chinaz.com##.header-media__text
+http://jiumodiary.com###forum-panel
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25206,7 +25225,7 @@ http://frdic.com,godic.net##a[onclick*="/ads/"]
 http://pcsoft.com.cn##a[onclick*="_ad"]
 http://caibaojian.com##a[onclick*="aliyun"]
 http://caibaojian.com##a[onclick*="aly"]
-http://3dmgame.com##a[onclick="goxiazai()"]
+http://3dmgame.com##A[onclick^="goxiazai"]
 http://jokerlu.com,jokerlu1.com##a[onclick^="_czc."]
 http://fixdown.com##a[onclick^="count_down"]
 http://52pk.com##a[onclick^="ga"]
@@ -26056,6 +26075,7 @@ http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_le
 http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + div[id]:nth-child(2)
 http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > style[id^="s-"] + style + div[id]:nth-child(3)
 http://baidu.com###content_right > div > div[id^="m"]
+http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###con-ar > .result-op[mu*="nourl.ubs.baidu.com"]
 http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > div[id][data-click^="\7b \"fm"]
 http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
 http://ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > table
