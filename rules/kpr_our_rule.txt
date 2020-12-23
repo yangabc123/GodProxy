@@ -7315,7 +7315,12 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 |https://cmdyimg.tjyjj.cn/js/
 
 #自定义广告过滤规则by larry
-
+#咪咕
+|https://adsmind.ugdtimg.com^
+||adsmind.ugdtimg.com^
+||ugdtimg.com
+||ggv.cmvideo.cn
+||adserver.ad.cmvideo.cn
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p
