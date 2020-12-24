@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: viI3xuhfCb4m9Y44CWplxQ
-! Version: 202012230003
+! Checksum: pkiI6wVUsN9JCIlJ4RZ/aA
+! Version: 202012240003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -13253,6 +13253,12 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://scswuliu.com^
+||http://fyzyf.com^
+||http://chinaxingyin.com^
+||http://topvcbank.com^
+||http://5glyqw.com^
+||http://hntiantai.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -20870,7 +20876,7 @@ https://baike567.com,wuhaozhan.net##[onclick*=".tb.cn"]
 https://baike567.com,wuhaozhan.net##[onclick*="open"]
 https://baike567.com,wuhaozhan.net##a[href*=".click"]
 https://baike567.com,wuhaozhan.net##a[href*="otb."]
-https://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/生鲜|双1|美团|活动|京东|年货|红包|支付|天猫/))
+https://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/[0-9]元|生鲜|双1|美团|活动|京东|年货|红包|支付|天猫/))
 https://baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
 https://baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 https://baike567.com,wuhaozhan.net##div[class^="hongbao"]
@@ -26239,7 +26245,7 @@ http://baike567.com,wuhaozhan.net##[onclick*=".tb.cn"]
 http://baike567.com,wuhaozhan.net##[onclick*="open"]
 http://baike567.com,wuhaozhan.net##a[href*=".click"]
 http://baike567.com,wuhaozhan.net##a[href*="otb."]
-http://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/生鲜|双1|美团|活动|京东|年货|红包|支付|天猫/))
+http://baike567.com,wuhaozhan.net#?#.l-box:-abp-has(a:-abp-contains(/[0-9]元|生鲜|双1|美团|活动|京东|年货|红包|支付|天猫/))
 http://baike567.com,wuhaozhan.net#?#:-abp-has(> .ad_top_close)
 http://baike567.com,wuhaozhan.net##div[class*="main-righ"] iframe
 http://baike567.com,wuhaozhan.net##div[class^="hongbao"]
