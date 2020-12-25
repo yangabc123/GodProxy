@@ -1,4 +1,4 @@
-!version=202012082037
+!version=202012231813
 !-----Test
 ||https://at.umeng.com
 ||https://adfurikun.jp
@@ -2978,6 +2978,7 @@
 ||https://c.wantxt.cc
 ||https://c.wechat.jx.cn
 ||https://c.wofbw.top
+||https://c.xadingli.cn
 ||https://c.xianguonongchang.org
 ||https://c.xiaozhuyoupu.com
 ||https://c.xilongfuwu.com
@@ -2989,6 +2990,7 @@
 ||https://c.zheare.com
 ||https://c.zlongad.com
 ||https://c.zmjuan.org
+||https://c.zoepb.cn
 ||https://c.zxyywdj.org
 ||https://c1.lianwangtech.com
 ||https://c1.popads.net
@@ -3818,6 +3820,7 @@
 ||https://erwqw.zh1155.com
 ||https://erwr.ydjskvpd.com
 ||https://ew16d.package12.com
+||https://ewg9465443.y4j32.cn
 ||https://exter.weilanshan.com
 ||https://extstat.com
 ||https://eyjs.b7nkd.cn
@@ -3893,6 +3896,7 @@
 ||https://g.f11w.com
 ||https://g.f5gh.com
 ||https://g.guanxiwen.cn
+||https://g.hngjjxsb.com
 ||https://g.hutao1.cn
 ||https://g.ieeod0.com
 ||https://g.ousns.net
@@ -4127,6 +4131,7 @@
 ||https://j.qiqiww.com
 ||https://j.s11.cn
 ||https://j.sc1369.com
+||https://j.scswuliu.com
 ||https://j.sdqoi2d.com
 ||https://j.xingshangnet.com
 ||https://j.yljiaoluo.com
@@ -5380,9 +5385,10 @@
 ||https://mfkn.71mxc6.cn
 ||https://mfo25978.eeo1h1.cn
 ||https://mh1.zhengdongwuye.cn
-||https://mic.bahu.xyz
 ||https://mhwozc.cn
+||https://mic.bahu.xyz
 ||https://miaobeichina.com
+||https://mil.gbzumh.cn
 ||https://miui.hftaili.com
 ||https://mj70.cn
 ||https://mjf.lijun8.com
@@ -6238,10 +6244,13 @@
 ||https://v.szpaopao.com
 ||https://v.tgslww.cn
 ||https://v.tr31t.cn
+||https://v.xadingli.cn
 ||https://v.xinshide.cn
 ||https://v.xiuzhenjewelry.cn
 ||https://v.xrooxeo.cn
 ||https://v.yahgxog.cn
+||https://v.zoepb.cn
+||https://voq3450129.y4j32.cn
 ||https://v1.0594529.com
 ||https://v7.kawinhome.com
 ||https://v7.shaoyumuye.com
@@ -6612,6 +6621,7 @@
 ||https://www.szshouzhai.com
 ||https://www.szxc868.com
 ||https://www.szyr474.com
+||https://www.taisi666.top
 ||https://www.taobaobo5.com
 ||https://www.teniucj.com
 ||https://www.thztv.net
@@ -9112,7 +9122,8 @@
 ||https://j.credit.wwz114.cn
 ||https://y.one.impact-ad.net
 ||https://adsmind.gdtimg.com
-!version=202012082037
+||https://smartnews-ads.com
+!version=202012231813
 !-----Test
 ||http://at.umeng.com
 ||http://adfurikun.jp
@@ -12092,6 +12103,7 @@
 ||http://c.wantxt.cc
 ||http://c.wechat.jx.cn
 ||http://c.wofbw.top
+||http://c.xadingli.cn
 ||http://c.xianguonongchang.org
 ||http://c.xiaozhuyoupu.com
 ||http://c.xilongfuwu.com
@@ -12103,6 +12115,7 @@
 ||http://c.zheare.com
 ||http://c.zlongad.com
 ||http://c.zmjuan.org
+||http://c.zoepb.cn
 ||http://c.zxyywdj.org
 ||http://c1.lianwangtech.com
 ||http://c1.popads.net
@@ -12932,6 +12945,7 @@
 ||http://erwqw.zh1155.com
 ||http://erwr.ydjskvpd.com
 ||http://ew16d.package12.com
+||http://ewg9465443.y4j32.cn
 ||http://exter.weilanshan.com
 ||http://extstat.com
 ||http://eyjs.b7nkd.cn
@@ -13007,6 +13021,7 @@
 ||http://g.f11w.com
 ||http://g.f5gh.com
 ||http://g.guanxiwen.cn
+||http://g.hngjjxsb.com
 ||http://g.hutao1.cn
 ||http://g.ieeod0.com
 ||http://g.ousns.net
@@ -13241,6 +13256,7 @@
 ||http://j.qiqiww.com
 ||http://j.s11.cn
 ||http://j.sc1369.com
+||http://j.scswuliu.com
 ||http://j.sdqoi2d.com
 ||http://j.xingshangnet.com
 ||http://j.yljiaoluo.com
@@ -14494,9 +14510,10 @@
 ||http://mfkn.71mxc6.cn
 ||http://mfo25978.eeo1h1.cn
 ||http://mh1.zhengdongwuye.cn
-||http://mic.bahu.xyz
 ||http://mhwozc.cn
+||http://mic.bahu.xyz
 ||http://miaobeichina.com
+||http://mil.gbzumh.cn
 ||http://miui.hftaili.com
 ||http://mj70.cn
 ||http://mjf.lijun8.com
@@ -15352,10 +15369,13 @@
 ||http://v.szpaopao.com
 ||http://v.tgslww.cn
 ||http://v.tr31t.cn
+||http://v.xadingli.cn
 ||http://v.xinshide.cn
 ||http://v.xiuzhenjewelry.cn
 ||http://v.xrooxeo.cn
 ||http://v.yahgxog.cn
+||http://v.zoepb.cn
+||http://voq3450129.y4j32.cn
 ||http://v1.0594529.com
 ||http://v7.kawinhome.com
 ||http://v7.shaoyumuye.com
@@ -15726,6 +15746,7 @@
 ||http://www.szshouzhai.com
 ||http://www.szxc868.com
 ||http://www.szyr474.com
+||http://www.taisi666.top
 ||http://www.taobaobo5.com
 ||http://www.teniucj.com
 ||http://www.thztv.net
@@ -18226,3 +18247,4 @@
 ||http://j.credit.wwz114.cn
 ||http://y.one.impact-ad.net
 ||http://adsmind.gdtimg.com
+||http://smartnews-ads.com

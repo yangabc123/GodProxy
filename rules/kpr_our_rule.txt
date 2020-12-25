@@ -7316,11 +7316,20 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 
 #自定义广告过滤规则by larry
 #咪咕
-|https://adsmind.ugdtimg.com^
-||adsmind.ugdtimg.com^
+|https://adsmind.ugdtimg.com/*
+||adsmind.ugdtimg.com/*
 ||ugdtimg.com
 ||ggv.cmvideo.cn
 ||adserver.ad.cmvideo.cn
+|https://pgdt.ugdtimg.com/*
+
+|https://ggx.cmvideo.cn/*
+
+|https://v5-dy-e.ixigua.com/*
+|https://sf*-ttcdn-tos.pstatp.com/*
+|https://v*-dy-g.ixigua.com/*
+
+|https://advert.108sq.cn/*
 #netlfix
 ||nfmovies.com/static/*.jpg
 ||naifei.shop^$3p

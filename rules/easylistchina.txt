@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: pkiI6wVUsN9JCIlJ4RZ/aA
-! Version: 202012240003
+! Checksum: 2zSrz14uvtyAeleMBUdQwA
+! Version: 202012250002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6055,6 +6055,7 @@
 ||http://gouweida.cn^
 ||http://gouzhibao.cn^
 ||http://govgift.com^
+||http://govhunan.cn^
 ||http://gowin01.com^
 ||http://gowinxp.com^$third-party
 ||http://gqswg.com^
@@ -13253,12 +13254,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://scswuliu.com^
-||http://fyzyf.com^
-||http://chinaxingyin.com^
-||http://topvcbank.com^
-||http://5glyqw.com^
-||http://hntiantai.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13384,6 +13379,7 @@
 ||http://56space.com^
 ||http://597txtt.com^*.php
 ||http://5dydk.com^
+||http://5glyqw.com^
 ||http://5hytr.xyz^
 ||http://5mbd2.com^
 ||http://5mgurg.cn^
@@ -13728,6 +13724,7 @@
 ||http://chinaqirun.cn^
 ||http://chinaweian.com^
 ||http://chinawms.cn^
+||http://chinaxingyin.com^
 ||http://chinayutai.cn^
 ||http://chrommotor.com^
 ||http://chuzrra.cn^
@@ -13989,6 +13986,7 @@
 ||http://fy4zb.cn^
 ||http://fyehare.com^
 ||http://fyjyhm.com^
+||http://fyzyf.com^
 ||http://fzdfwy.com^
 ||http://fzxrjx.com^
 ||http://g3ao2q.cn^
@@ -14159,6 +14157,7 @@
 ||http://hnfxty.cn^
 ||http://hnhgw.cn^
 ||http://hnkuangshan.cn^
+||http://hntiantai.cn^
 ||http://hnwjlhg.cn^
 ||http://hnxahz.com^
 ||http://hnzyzhy.cn^
@@ -14199,6 +14198,7 @@
 ||http://hyuanprint.com^
 ||http://hyxca.top^
 ||http://hyyazhaji.com^
+||http://hyzhongchuang.com^
 ||http://hzht666.com^
 ||http://hzqzxf.com^
 ||http://hzsrjs.com^
@@ -14520,6 +14520,7 @@
 ||http://meooe.com^
 ||http://meoqbhw.cn^
 ||http://meuevcj.cn^
+||http://mg17i.cn^
 ||http://mgsue.cn^
 ||http://mgzs.cdn.bcebos.com^
 ||http://mhdnspro.com^
@@ -14836,6 +14837,7 @@
 ||http://sbmode.cn^
 ||http://scnaes.cn^
 ||http://scqajt.cn^
+||http://scswuliu.com^
 ||http://scvxgm.cn^
 ||http://sdaaxz.xyz^
 ||http://sdabfw.cn^
@@ -14910,6 +14912,7 @@
 ||http://snuoen.com^
 ||http://soared.cn^
 ||http://sobolong.com^
+||http://sogov587.top^
 ||http://sokoyo-fq.com^
 ||http://sonsang.cn^
 ||http://sosjyx.com^
@@ -15020,6 +15023,7 @@
 ||http://toissue.cn^
 ||http://tongbuchi.com^
 ||http://tongjiwo.com^
+||http://topvcbank.com^
 ||http://toujing4.top^
 ||http://toujing5.top^
 ||http://toujing7.top^
@@ -15432,6 +15436,7 @@
 ||http://zfood029.com^
 ||http://zfrgkm.cn^
 ||http://zgbsny.com^
+||http://zgdfvih.cn^
 ||http://zgdtro.com^
 ||http://zgfszs.com^
 ||http://zgjjkk.com^
@@ -15481,6 +15486,7 @@
 ||http://zlfhe8.cn^
 ||http://zmlfk.com^
 ||http://zmyuer.com^
+||http://zoepb.cn^
 ||http://zopeynxv.top^
 ||http://zougg.com^
 ||http://zp0737.com^
@@ -20294,6 +20300,7 @@ https://liaoxuefeng.com##div[style="width:336px;height:280px;float:left;"]
 https://auto-online.com.tw##div[style="width:336px;height:280px;margin:0;background:#000000"]
 https://yantuchina.com##div[style="width:618px;height:150px;margin: 0 auto; display:block;"]
 https://auto-online.com.tw##div[style="width:728px;height:130px;margin:0;background:#000000"]
+https://epinv.com##div[style="width:880px;height:90px"]
 https://xbooks.to##div[style="width:900px; height:250px; margin: -15px auto 15px auto;"]
 https://cqnews.net##div[style="width:960px; height:90px; overflow:hidden; padding:0 20px; background:#fafafa; margin-bottom:15px"]
 https://0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
@@ -20608,7 +20615,7 @@ https://mx-fm.com,ts.21cn.com#@#.ad_img
 https://yxdown.com#@#.ad_l
 https://workercn.cn#@#.ad_main
 https://fxedu.com.cn#@#.ad_r
-https://qspfw.com#@#.ad_title
+https://moe.gov.cn,qspfw.com#@#.ad_title
 https://howbuy.com#@#.ad_wrapper
 https://hibox.hinet.net#@#.adarea
 https://en8848.com.cn#@#.adcenter
@@ -25663,6 +25670,7 @@ http://liaoxuefeng.com##div[style="width:336px;height:280px;float:left;"]
 http://auto-online.com.tw##div[style="width:336px;height:280px;margin:0;background:#000000"]
 http://yantuchina.com##div[style="width:618px;height:150px;margin: 0 auto; display:block;"]
 http://auto-online.com.tw##div[style="width:728px;height:130px;margin:0;background:#000000"]
+http://epinv.com##div[style="width:880px;height:90px"]
 http://xbooks.to##div[style="width:900px; height:250px; margin: -15px auto 15px auto;"]
 http://cqnews.net##div[style="width:960px; height:90px; overflow:hidden; padding:0 20px; background:#fafafa; margin-bottom:15px"]
 http://0597kk.com##div[style="width:960px; overflow:hidden; margin:2px auto; "]
@@ -25977,7 +25985,7 @@ http://mx-fm.com,ts.21cn.com#@#.ad_img
 http://yxdown.com#@#.ad_l
 http://workercn.cn#@#.ad_main
 http://fxedu.com.cn#@#.ad_r
-http://qspfw.com#@#.ad_title
+http://moe.gov.cn,qspfw.com#@#.ad_title
 http://howbuy.com#@#.ad_wrapper
 http://hibox.hinet.net#@#.adarea
 http://en8848.com.cn#@#.adcenter
