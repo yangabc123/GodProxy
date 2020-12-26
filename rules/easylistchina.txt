@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2zSrz14uvtyAeleMBUdQwA
-! Version: 202012250002
+! Checksum: xB/0iEE2QmgsQ+CcWr6WrA
+! Version: 202012260002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -836,6 +836,7 @@
 ||https://19iiii.info/js/dl.js
 ||https://19iiii.info/js/foot.js
 ||https://19iiii.info/js/tonglan.js
+||https://19kan.com/static/js/hf.js
 ||https://19qiqi.com/mid/
 ||https://19vcd.com/mid/
 ||https://1fzw.com/content/templates/zjbnew/yxj.js
@@ -3076,6 +3077,7 @@
 ||https://kuaihou.com/c/you1.js
 ||https://kuaihou.com/js/new/xiazai
 ||https://kukan5.com/ad
+||https://kukan5.com/indexxzad.jpg
 ||https://kwflvcdn.000dn.com^*.flv
 ||https://kxd56.com/qq.js
 ||https://kxd56.com/tg.gif
@@ -6736,6 +6738,7 @@
 ||http://pjshw.cn^
 ||http://pjtymy.cn^
 ||http://pk965.com^
+||http://pmvlwjy.cn^
 ||http://pnhfc.com^
 ||http://pnxs.com^
 ||http://pofang.com^
@@ -7897,6 +7900,7 @@
 ||http://19iiii.info/js/dl.js
 ||http://19iiii.info/js/foot.js
 ||http://19iiii.info/js/tonglan.js
+||http://19kan.com/static/js/hf.js
 ||http://19qiqi.com/mid/
 ||http://19vcd.com/mid/
 ||http://1fzw.com/content/templates/zjbnew/yxj.js
@@ -8317,6 +8321,7 @@
 ||http://80s.la/m/js/
 ||http://80s.so/9*.JS
 ||http://80s.so/html/
+||http://80s.us/9*.js
 ||http://80yc.com/js/yidong/
 ||http://83133.com/api/
 ||http://8585go.com/recommend
@@ -10450,6 +10455,7 @@
 ||http://kuaihou.com/js/new/xiazai
 ||http://kuaizhan.com^$domain=bingdou.net|ppx116.com|yaoshe67.com|yuese46.com
 ||http://kukan5.com/ad
+||http://kukan5.com/indexxzad.jpg
 ||http://kwflvcdn.000dn.com^*.flv
 ||http://kxd56.com/qq.js
 ||http://kxd56.com/tg.gif
@@ -13543,6 +13549,7 @@
 ||http://aox7.xyz^
 ||http://aoyou2.top^
 ||http://aoyou3.top^
+||http://apdingqian.com^
 ||http://apjiangte.com^
 ||http://apmengxin.com^
 ||http://apmnqut.cn^
@@ -14419,6 +14426,7 @@
 ||http://laiye315.top^
 ||http://lalaaal.cn^
 ||http://lalaxit.cn^
+||http://lanshiwan.cn^
 ||http://laojiayoufang.com^
 ||http://lawumi.cn^
 ||http://lchar.com^
@@ -14619,6 +14627,7 @@
 ||http://nsjpu.com^
 ||http://nthfds.xyz^
 ||http://ntpddq.com^
+||http://nuoqingck.cn^
 ||http://nv43.com^
 ||http://nwwap.com^
 ||http://nxh2h.cn^
@@ -14830,6 +14839,7 @@
 ||http://sangwu8.com/tu/
 ||http://sanitwealth.com^
 ||http://sanxueshufa.cn^
+||http://sasoo.cn^
 ||http://satrod.cn^
 ||http://sbenx.com^
 ||http://sbiim.com^
@@ -14863,6 +14873,7 @@
 ||http://sguac.com^
 ||http://sgyebd.com^
 ||http://shangyingwm.com^
+||http://shanprint.com^
 ||http://shanyuebrowser.com^
 ||http://shaque.vip^
 ||http://shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -15211,6 +15222,7 @@
 ||http://xb29h.cn^
 ||http://xbiqugecc.com/bcc/
 ||http://xbzpppr.cn^
+||http://xccpro.vip^
 ||http://xcdzsw.com^
 ||http://xcmxsw.com^
 ||http://xdkje.com^
@@ -15420,6 +15432,7 @@
 ||http://yymmsd.cn^
 ||http://yyshow.top^
 ||http://yzdcb.xyz^
+||http://yzfbank.com^
 ||http://yzftqx.cn^
 ||http://yzylm.com^
 ||http://yzyszy.com^
@@ -17056,6 +17069,7 @@ https://pincong.rocks##.a-a
 https://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 https://thinkphp.cn##.a6
 https://chacuo.net##.a96090
+https://meijutt.tv##.a960_index
 https://speedtest.cn##.aP-box
 https://lahoo.ca##.a_af
 https://hcbbs.com##.a_cn_pb
@@ -22426,6 +22440,7 @@ http://pincong.rocks##.a-a
 http://gamer.com.tw##.a-mercy-d:not([href*=".gamer."])
 http://thinkphp.cn##.a6
 http://chacuo.net##.a96090
+http://meijutt.tv##.a960_index
 http://speedtest.cn##.aP-box
 http://lahoo.ca##.a_af
 http://hcbbs.com##.a_cn_pb
