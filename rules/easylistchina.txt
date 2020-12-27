@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: xB/0iEE2QmgsQ+CcWr6WrA
-! Version: 202012260002
+! Checksum: XfStMVfZZ2opfwNFP8ia0w
+! Version: 202012270002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6098,6 +6098,7 @@
 ||http://h41s.com^
 ||http://h501.cn^$third-party
 ||http://h9377c.com^
+||http://hahazl.com^
 ||http://haidaocn.com^
 ||http://hailuoxiang.com^$third-party
 ||http://haimaokj.com^
@@ -8634,7 +8635,7 @@
 ||http://alicdn.com/tfscom/*.sina.
 ||http://alicdn.com/tps/*-950-90.
 ||http://alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
-||http://alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
+||http://alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
 ||http://alicdn.com^*.gif$domain=15yc.cc|hmog.me
 ||http://alicdn.com^*.jpg$domain=hmog.me
 ||http://alicdn.com^*_!!3361094544.
@@ -12525,7 +12526,6 @@
 ||http://7car.com.cn^
 ||http://80juqing.com^
 ||http://8131.qizhihaotian.cn^
-||http://8dp.net^
 ||http://91friend.com^$third-party
 ||http://94ab.com^$third-party
 ||http://999d.com^$third-party
@@ -15202,6 +15202,7 @@
 ||http://wuyanauto.com^
 ||http://wuylp.com^
 ||http://wvcdn.cn^
+||http://wvfgiio.cn^
 ||http://wvver.com^
 ||http://wxhdwy.com^
 ||http://wxmg2016.com^
@@ -15920,7 +15921,7 @@ https://lohas.pixnet.net###box785805
 https://finance.ifeng.com###box_img
 https://zhan.com###box_tips
 https://sogou.com###browser_ad
-https://7down.com,newasp.net###btndowns
+https://05sun.com,7down.com,newasp.net###btndowns
 https://xz7.com###bz-ad-position1
 https://xz7.com###bz-ad-position2 + div
 https://pchome.net###bzhref
@@ -16483,6 +16484,7 @@ https://mtrend.cn###morecontent > .morecontent_next[style]
 https://wenxuecity.com###morehealth-banner-1
 https://nick18.com,niko18.com###mov > .content
 https://gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
+https://kudm.net###msn
 https://yahoo.com###my-adsHPSPON
 https://yahoo.com###my-adsMBAR
 https://pianhd.com###myCarousel
@@ -16506,6 +16508,7 @@ https://chinaqking.com###newsAD
 https://hexun.com###newsPopWin
 https://ilxdh.com###nice-banner0
 https://live.win007.com###notify > a[target="_blank"]
+https://05sun.com###nowDown1
 https://ssnn.net###nrk_gg
 https://fx168.com###oilTopAd
 https://duba.com###one-mid
@@ -21291,7 +21294,7 @@ http://lohas.pixnet.net###box785805
 http://finance.ifeng.com###box_img
 http://zhan.com###box_tips
 http://sogou.com###browser_ad
-http://7down.com,newasp.net###btndowns
+http://05sun.com,7down.com,newasp.net###btndowns
 http://xz7.com###bz-ad-position1
 http://xz7.com###bz-ad-position2 + div
 http://pchome.net###bzhref
@@ -21854,6 +21857,7 @@ http://mtrend.cn###morecontent > .morecontent_next[style]
 http://wenxuecity.com###morehealth-banner-1
 http://nick18.com,niko18.com###mov > .content
 http://gd163.cn,itavcn.com,jmnews.com.cn,xt700.com###msg_win
+http://kudm.net###msn
 http://yahoo.com###my-adsHPSPON
 http://yahoo.com###my-adsMBAR
 http://pianhd.com###myCarousel
@@ -21877,6 +21881,7 @@ http://chinaqking.com###newsAD
 http://hexun.com###newsPopWin
 http://ilxdh.com###nice-banner0
 http://live.win007.com###notify > a[target="_blank"]
+http://05sun.com###nowDown1
 http://ssnn.net###nrk_gg
 http://fx168.com###oilTopAd
 http://duba.com###one-mid
