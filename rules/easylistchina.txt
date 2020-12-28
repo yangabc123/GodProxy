@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XfStMVfZZ2opfwNFP8ia0w
-! Version: 202012270002
+! Checksum: 9C6ghqXdcgC7Hu6wr3Ejhg
+! Version: 202012280002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -12426,6 +12426,8 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
+||http://idgdmgroup.com.cn^
+||http://hxbt.alading123.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -13260,6 +13262,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://aoidf3.com^
+||http://yuanqitu.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
