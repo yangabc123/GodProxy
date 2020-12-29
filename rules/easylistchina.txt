@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9C6ghqXdcgC7Hu6wr3Ejhg
-! Version: 202012280002
+! Checksum: sXYJKCMU2n4TDf5eQ+2DDA
+! Version: 202012290002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -6560,6 +6560,7 @@
 ||http://medi-8.net^$third-party
 ||http://media8.cn^$third-party
 ||http://mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
+||http://meethanshi.com^
 ||http://meicubao.cn^
 ||http://meihaoxiangwang.com^
 ||http://meilides.com^
@@ -12426,8 +12427,6 @@
 ||http://avgle.topgirlsdating.com^$domain=avgle.com
 ||http://jads.co^$domain=avgle.com
 ||http://olmsoneenh.info^$domain=avgle.com
-||http://idgdmgroup.com.cn^
-||http://hxbt.alading123.com^
 ||http://003store.com^
 ||http://0512s.com^$third-party
 ||http://1.01fy.cn^
@@ -12846,8 +12845,10 @@
 ||http://hrjg.com.cn^$third-party
 ||http://hu.xbhy.com^
 ||http://huhai.cdwz8.cn^
+||http://hxbt.alading123.com^
 ||http://hy.huangye88.com.cn^
 ||http://hy.huangye88.net^
+||http://idgdmgroup.com.cn^
 ||http://iia1.pikacn.com^
 ||http://ikuailian.com^$third-party
 ||http://images8.gaotie.cn^
@@ -13262,8 +13263,6 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://aoidf3.com^
-||http://yuanqitu.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13317,6 +13316,7 @@
 ||http://17ys.top^
 ||http://183pu.cn^
 ||http://1fv3b.cn^
+||http://1pzskg.cn^
 ||http://1x26q3.cn^
 ||http://215to.cn^
 ||http://216pu.cn^
@@ -13549,6 +13549,7 @@
 ||http://anweigongsi.com^
 ||http://anyysz.com^
 ||http://aodepuo.cn^
+||http://aoidf3.com^
 ||http://aomde.com^
 ||http://aox7.xyz^
 ||http://aoyou2.top^
@@ -15012,6 +15013,7 @@
 ||http://themecat.cn^
 ||http://themee.cn^
 ||http://theonsiteline.com^
+||http://thindsoo.cn^
 ||http://thuyki.cn^
 ||http://thxsqei.cn^
 ||http://tiandihui9450.top^
@@ -15411,6 +15413,7 @@
 ||http://ytmaitian.com^
 ||http://ytmaksim.cn^
 ||http://yuanhangpiju.cn^
+||http://yuanqitu.com^
 ||http://yueduyy.com^
 ||http://yueqiangss.cn^
 ||http://yueyelive.com^
@@ -16753,6 +16756,7 @@ https://megatime.com.tw,pchome.com.tw###sixi
 https://hao123.com,jiegeng.com###siye
 https://12306.cn,club.pchome.net,kdslife.com###slideBox
 https://12306.cn###slideRBox
+https://bilibili.com###slide_ad + .ad-report
 https://cjn.cn###slidelr
 https://526bt.com###slider
 https://tiantianzhibo.com###sliderb_container
@@ -22126,6 +22130,7 @@ http://megatime.com.tw,pchome.com.tw###sixi
 http://hao123.com,jiegeng.com###siye
 http://12306.cn,club.pchome.net,kdslife.com###slideBox
 http://12306.cn###slideRBox
+http://bilibili.com###slide_ad + .ad-report
 http://cjn.cn###slidelr
 http://526bt.com###slider
 http://tiantianzhibo.com###sliderb_container
