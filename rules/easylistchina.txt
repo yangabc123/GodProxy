@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9cejh6V/oma7LMCbeMPGug
-! Version: 202012300003
+! Checksum: BFjzdlrz00Uab47JOX9TJQ
+! Version: 202012310002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5166,6 +5166,7 @@
 ||http://198.2.215.131^
 ||http://199.231.214.62^
 ||http://1999sg.com^
+||http://19shows.net^
 ||http://1d1a.com^
 ||http://1d1px.net^
 ||http://1haosuo.com^
@@ -7599,6 +7600,7 @@
 ||http://zhizones.com^
 ||http://zhjfad.com^
 ||http://zhmatou.com^
+||http://zhongbolm.com^
 ||http://zhongdoulicai.com^
 ||http://zhongjiangguoji.org^
 ||http://zhongzk.com^
@@ -12899,6 +12901,7 @@
 ||http://js.9136.com^
 ||http://js.jianbihuadq.com^
 ||http://js.kt250.com^
+||http://js.mscto.com^
 ||http://js.qqsort.com^
 ||http://js.ruiwen.com^
 ||http://js.shangxueba.com^
@@ -14481,6 +14484,7 @@
 ||http://lixudong.top^
 ||http://liyelaowu.cn^
 ||http://ljggc.com^
+||http://ljmei.com^
 ||http://ljuer.com^
 ||http://llffaev.cn^
 ||http://llqd5.cn^
@@ -15281,6 +15285,7 @@
 ||http://xk0x.cn^
 ||http://xkanf.com^
 ||http://xkqpco.com^
+||http://xl4z7.cn^
 ||http://xlgtblj.cn^
 ||http://xlhm88.cn^
 ||http://xm223.cn^
@@ -15381,6 +15386,7 @@
 ||http://yinzantouzi.com^
 ||http://yiqima.xyz^
 ||http://yitiaoyu.top^
+||http://yixiangzhan.cn^
 ||http://yiyu-fz.cn^
 ||http://yiyuantian.com^
 ||http://yizhijin.cn^
@@ -20115,6 +20121,7 @@ https://yahoo.com##div[data-ad-feedback-beacon]
 https://baidu.com##div[data-ad]
 https://sina.cn##div[data-adid]
 https://18comic.org,18comic.vip##div[data-height="250"][data-width="300"]
+https://18comic.org,18comic.vip##div[data-height="264"][data-width="956"]
 https://cqmmgo.com##div[data-id*="_adv_"]
 https://m.cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 https://freejavbt.com##div[data-selector*="ai-insert-"]
@@ -25493,6 +25500,7 @@ http://yahoo.com##div[data-ad-feedback-beacon]
 http://baidu.com##div[data-ad]
 http://sina.cn##div[data-adid]
 http://18comic.org,18comic.vip##div[data-height="250"][data-width="300"]
+http://18comic.org,18comic.vip##div[data-height="264"][data-width="956"]
 http://cqmmgo.com##div[data-id*="_adv_"]
 http://m.cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 http://freejavbt.com##div[data-selector*="ai-insert-"]
