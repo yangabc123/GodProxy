@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BFjzdlrz00Uab47JOX9TJQ
-! Version: 202012310002
+! Checksum: uoy1Yhr5+3fE1LtyVuMvWw
+! Version: 202101010002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1050,13 +1050,10 @@
 ||https://51ztzj.com/res/web/img/pic/inshow.jpg
 ||https://51zxw.net/news_vvvs_photos.swf
 ||https://520call.me/ad/ad_
-||https://520cc.cc/300aaa.gif
 ||https://520xs.la/js/dianrui-
 ||https://520z-2.com/uploadfile/sucai/
 ||https://521000.com/co/
-||https://5278.cc/index.js
 ||https://5278.mobi/aa/
-||https://5278bbs.com/adpost_
 ||https://52card.net/img/
 ||https://52che.com/Inc/FooterComm_
 ||https://52che.com/NewLocal/TemplateHtml/headflash1_
@@ -3489,6 +3486,7 @@
 ||https://ntimg.cn/original/images/www_ads.jpg
 ||https://nulltm.com/adv.js
 ||https://nvsheng.com/js/gg.js
+||https://nwxs5.com/js/
 ||https://nxing.cn/uploads/uploads/*-size1220x
 ||https://nyahentai.pw/js/check_cat.js
 ||https://nychinaren.com/houbei/
@@ -3603,6 +3601,7 @@
 ||https://pingwest.com/wp-content/uploads/*/ad.jpg
 ||https://pipi.cn/player/
 ||https://pipix.cc/gg.gif
+||https://pites.cc/js/top.php
 ||https://pixfs.net/js/mib.min.js
 ||https://pixfs.net/js/mib_falcon
 ||https://pixfs.net/module/fullPage/dist/ad-full-page.
@@ -4943,8 +4942,7 @@
 ||https://s1-a1.dnvodcdn.me^*.svg
 ||https://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3
 ||https://dybee.tv/gg
-||https://5278.cc/js/*check.js
-||https://hboav.com/guga/$~subdocument
+||https://hboav.com/guga/
 ||https://hh010.com/static/image/fff/
 ||https://0577renliu.
 ||https://23txt.com^$third-party
@@ -6089,6 +6087,7 @@
 ||http://gwbangshou.com^
 ||http://gwylm.com^
 ||http://gxejgs.com^
+||http://gxfc2021.top^
 ||http://gxgzyny.com^
 ||http://gydag.com^
 ||http://gygdmy.com^
@@ -6741,6 +6740,7 @@
 ||http://pic12x20.com^
 ||http://piclick.cn^$third-party
 ||http://pingping888.com^
+||http://pinwu123.com^
 ||http://pinyoux.com^
 ||http://pjshw.cn^
 ||http://pjtymy.cn^
@@ -8133,13 +8133,10 @@
 ||http://51ztzj.com/res/web/img/pic/inshow.jpg
 ||http://51zxw.net/news_vvvs_photos.swf
 ||http://520call.me/ad/ad_
-||http://520cc.cc/300aaa.gif
 ||http://520xs.la/js/dianrui-
 ||http://520z-2.com/uploadfile/sucai/
 ||http://521000.com/co/
-||http://5278.cc/index.js
 ||http://5278.mobi/aa/
-||http://5278bbs.com/adpost_
 ||http://52card.net/img/
 ||http://52che.com/Inc/FooterComm_
 ||http://52che.com/NewLocal/TemplateHtml/headflash1_
@@ -8525,7 +8522,6 @@
 ||http://adsclick.yx.js.cn^
 ||http://adshows.21cn.com^
 ||http://adt.xdrig.com^
-||http://adultblogtoplist.com^$domain=520cc.me
 ||http://adv-sv-show.focus.cn^
 ||http://adwordsing.com/img/1.jpg
 ||http://adwordsing.com/img/2.jpg
@@ -10906,6 +10902,7 @@
 ||http://ntimg.cn/original/images/www_ads.jpg
 ||http://nulltm.com/adv.js
 ||http://nvsheng.com/js/gg.js
+||http://nwxs5.com/js/
 ||http://nxing.cn/uploads/uploads/*-size1220x
 ||http://nyahentai.pw/js/check_cat.js
 ||http://nychinaren.com/houbei/
@@ -11039,6 +11036,7 @@
 ||http://pingwest.com/wp-content/uploads/*/ad.jpg
 ||http://pipi.cn/player/
 ||http://pipix.cc/gg.gif
+||http://pites.cc/js/top.php
 ||http://pixfs.net/js/mib.min.js
 ||http://pixfs.net/js/mib_falcon
 ||http://pixfs.net/module/fullPage/dist/ad-full-page.
@@ -12784,6 +12782,7 @@
 ||http://dm.taobaojuhuasuan.cn^
 ||http://dm.wenshenxiu.com^
 ||http://dm.zuowenku.net^
+||http://dm1.ddwk8.cn^
 ||http://dm1.dnpz123.com^
 ||http://dm1.guanwawa.com^
 ||http://dm1.zjydt.com^
@@ -13270,8 +13269,7 @@
 ||http://s1-a4.ifvod.tv^$rewrite=abp-resource:blank-mp3,domain=ifvod.tv
 ||http://dybee.tv/gg
 ||http://runkao.net^
-||http://5278.cc/js/*check.js
-||http://hboav.com/guga/$~subdocument
+||http://hboav.com/guga/
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
@@ -14092,6 +14090,7 @@
 ||http://guvdfs.cn^
 ||http://guxiaom.cn^
 ||http://gwdqp.com^
+||http://gxfc2021.top^
 ||http://gxklsftz.cn^
 ||http://gxkyl.com^
 ||http://gybdtg.com^
@@ -14224,6 +14223,7 @@
 ||http://hyxca.top^
 ||http://hyyazhaji.com^
 ||http://hyzhongchuang.com^
+||http://hzhfhkj.cn^
 ||http://hzht666.com^
 ||http://hzqzxf.com^
 ||http://hzsrjs.com^
@@ -15318,6 +15318,7 @@
 ||http://xnghmc.com^
 ||http://xnjzsn.com^
 ||http://xnzkqew.cn^
+||http://xpxvok.cn^
 ||http://xqxx520.com^$third-party
 ||http://xrain.net^
 ||http://xsc.x81zw.com^
@@ -15493,6 +15494,7 @@
 ||http://zhengzhoupengbo.com^
 ||http://zhfyws.com^
 ||http://zhide-edu.cn^
+||http://zhipinbook.cn^
 ||http://zhivalley.cn^
 ||http://zhixd.cn^
 ||http://zhiyaowan.cn^
@@ -15876,7 +15878,6 @@ https://androiddevtools.cn###auto-scroll-ad-box
 https://ck101.com###av_a
 https://likr.tw###avivid_waterfall_wp_product_area
 https://bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
-https://520cc.me###back-to-top > a[href^="http"]
 https://hao.360.cn###background.festival
 https://china.com.cn###baidu
 https://ifeng.com###baidualading
@@ -20625,9 +20626,8 @@ https://wangnba.com#@##showAd
 https://u2mtv.com#@##slider-ad
 https://woego.cn#@##topAds
 https://buy.ccb.com#@##top_ad
-https://520cc.me,5278.cc#@#.a_cn
 https://help.xunlei.com#@#.a_fr
-https://520cc.me,sewangchao.com,sewangchao3.com#@#.a_mu
+https://sewangchao.com,sewangchao3.com#@#.a_mu
 https://xinmin.cn#@#.a_p
 https://hahamx.cn#@#.ad-1
 https://diantai.ifeng.com#@#.ad-b
@@ -21255,7 +21255,6 @@ http://androiddevtools.cn###auto-scroll-ad-box
 http://ck101.com###av_a
 http://likr.tw###avivid_waterfall_wp_product_area
 http://bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
-http://520cc.me###back-to-top > a[href^="http"]
 http://hao.360.cn###background.festival
 http://china.com.cn###baidu
 http://ifeng.com###baidualading
@@ -26004,9 +26003,8 @@ http://wangnba.com#@##showAd
 http://u2mtv.com#@##slider-ad
 http://woego.cn#@##topAds
 http://buy.ccb.com#@##top_ad
-http://520cc.me,5278.cc#@#.a_cn
 http://help.xunlei.com#@#.a_fr
-http://520cc.me,sewangchao.com,sewangchao3.com#@#.a_mu
+http://sewangchao.com,sewangchao3.com#@#.a_mu
 http://xinmin.cn#@#.a_p
 http://hahamx.cn#@#.ad-1
 http://diantai.ifeng.com#@#.ad-b
