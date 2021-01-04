@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: BLUqWFUh5dlNQSHtskmCrg
-! Version: 202101030002
+! Checksum: JxOleGDX+XajxICQWktr+g
+! Version: 202101040002
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -15208,6 +15208,7 @@
 ||http://wenlang.com^$third-party
 ||http://wenzhougy.cn^
 ||http://wervp.com^
+||http://wfaffwshop.xyz^
 ||http://wfslj.cn^
 ||http://wfxoi.xyz^
 ||http://wfyqc.com^
@@ -18312,8 +18313,8 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hg
 https://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 https://mahua.com##.hidden_ab
 https://zol.com.cn##.high
-https://9553.com,99danji.com##.high-down
-https://9553.com##.high-down + .high-down-icon1
+https://8xia.com,9553.com,99danji.com##.high-down
+https://8xia.com,9553.com##.high-down + .high-down-icon1
 https://zol.com.cn##.highSpeed
 https://douyu.com##.his-sign-cont
 https://zp365.com##.hitADclass
@@ -23691,8 +23692,8 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.hga
 http://doupapa.com,dpp2019.com##.hidden-xs[class*="_"]
 http://mahua.com##.hidden_ab
 http://zol.com.cn##.high
-http://9553.com,99danji.com##.high-down
-http://9553.com##.high-down + .high-down-icon1
+http://8xia.com,9553.com,99danji.com##.high-down
+http://8xia.com,9553.com##.high-down + .high-down-icon1
 http://zol.com.cn##.highSpeed
 http://douyu.com##.his-sign-cont
 http://zp365.com##.hitADclass
