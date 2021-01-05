@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: JxOleGDX+XajxICQWktr+g
-! Version: 202101040002
+! Checksum: aHnMyvyKeZy/5pS0eeyrHw
+! Version: 202101050012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4881,6 +4881,7 @@
 ||https://cfff.net^$third-party
 ||https://chnci.com^$third-party
 ||https://daxishi.com^$third-party
+||https://dnpz123.com^$third-party
 ||https://dyscb.cn^$third-party
 ||https://fjzimaoqu.cn^$third-party
 ||https://fpb1.chinacar.
@@ -4979,7 +4980,6 @@
 ||https://daomengren.com^*lin*.js
 ||https://duanwenxue.com/functions/
 ||https://dybz2.net/js/html
-||https://dybz6.net/js/html
 ||https://feixs.com/style/t.js
 ||https://hbfie.org/mb/meng/
 ||https://ieeod0.com^$third-party
@@ -5028,6 +5028,8 @@
 ||https://2481e.com^$popup
 ||https://693836.com^$popup
 ||https://a1714.com^$popup
+||https://alicdn.com/img/ibank/*_1980598585.
+||https://alicdn.com/img/ibank/*_255861743.
 ||https://baidu-jxf.co^$popup
 ||https://e5yx.com^$popup
 ||https://h6295.com^$popup
@@ -12802,13 +12804,13 @@
 ||http://dm.wenshenxiu.com^
 ||http://dm.zuowenku.net^
 ||http://dm1.ddwk8.cn^
-||http://dm1.dnpz123.com^
 ||http://dm1.guanwawa.com^
 ||http://dm1.zjydt.com^
 ||http://dmm.aizhan.com^
 ||http://dmr.cnhoney.com^
 ||http://dmym.aixyy.com^
 ||http://dn*.ixinwei.com^
+||http://dnpz123.com^$third-party
 ||http://du1.bbdj.com^
 ||http://dudm.qingsj.cn^
 ||http://dyscb.cn^$third-party
@@ -13615,7 +13617,7 @@
 ||http://babalink.top^
 ||http://baful.net^
 ||http://bahu.xyz^
-||http://baidu.bxwx666.org^
+||http://baidu.bxwx555.org^
 ||http://baiduspider1.cn^
 ||http://bailequan.net.cn^
 ||http://baitaoidc.com^
@@ -13918,7 +13920,6 @@
 ||http://dxcssc.cn^
 ||http://dxmci.com^
 ||http://dybz2.net/js/html
-||http://dybz6.net/js/html
 ||http://dydd.xyz^
 ||http://dydyhg.com^
 ||http://dyfzyg.com^
@@ -14841,6 +14842,7 @@
 ||http://r2wm5.cn^
 ||http://r3wd6.cn^
 ||http://raeqqe.cn^
+||http://ranqibio.com^
 ||http://rbign.cn^
 ||http://rbtjkx.cn^
 ||http://rbywg.com^
@@ -15609,6 +15611,8 @@
 ||http://2481e.com^$popup
 ||http://693836.com^$popup
 ||http://a1714.com^$popup
+||http://alicdn.com/img/ibank/*_1980598585.
+||http://alicdn.com/img/ibank/*_255861743.
 ||http://baidu-jxf.co^$popup
 ||http://e5yx.com^$popup
 ||http://h6295.com^$popup
@@ -15940,6 +15944,7 @@ https://bitauto.com###bitAd_background
 https://bitauto.com###bitAd_floatFlash
 https://nodejs.cn###biz_center
 https://nodejs.cn###biz_nav
+https://e-learn.cn###block-gyouer
 https://zaobao.com###block-views-zb2016-freefrom-block-1
 https://e-learn.cn###block-youyi
 https://gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
@@ -17214,10 +17219,10 @@ https://yuqingcn.cn##.ad1024x90
 https://chexun.com##.ad1100
 https://ishowx.com##.ad1160
 https://tt243.com##.ad123
-https://c114.com.cn,china.com.cn,hibiquan.com,qingdaonews.com##.ad2
+https://c114.com.cn,chemicalbook.com,china.com.cn,hibiquan.com,qingdaonews.com##.ad2
 https://ifeng.com##.ad200-2
 https://yaolan.com##.ad24090
-https://nmgnews.com.cn,sportscn.com,tpy888.cn##.ad3
+https://chemicalbook.com,nmgnews.com.cn,sportscn.com,tpy888.cn##.ad3
 https://21uscity.com##.ad300x60
 https://jokeji.cn##.ad360_280
 https://linuxde.net##.ad360x500
@@ -18530,6 +18535,7 @@ https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
 https://flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
+https://ditu.so.com##.label-ads
 https://3jy.com,maolihui.com##.lad
 https://1kkk.com##.lanrenzhijia
 https://ithome.com##.lapin
@@ -19725,7 +19731,7 @@ https://chexun.com##a[attr-outside-ad]
 https://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
 https://hao123.com##a[class^="gameyixing-link-"]
 https://csai.cn##a[class^="gg"]
-https://ditu.so.com##a[class^="index-bcItem-"]
+https://ditu.so.com##a[class^="index-bcItem"]
 https://toolfk.com##a[class^="tip-alert"]
 https://m4fz.com##a[data-etime]
 https://caibaojian.com##a[data-href*="aliyun"]
@@ -20911,8 +20917,8 @@ https://hpjav.tv##body > div[style^="position: fixed;"]
 https://verystream.com#@#.adsbox
 https://googleads.g.doubleclick.net###mys-wrapper
 https://xhtml?%22+$script,third-party
-https://bxwx666.org###addiv3
-https://bxwx666.org###bdstatic
+https://bxwx555.org###addiv3
+https://bxwx555.org###bdstatic
 https://55shuba.com###botDiv
 https://duanwenxue.com##.qgzdwx
 https://jx.la##[onclick*="apk"]
@@ -20928,6 +20934,7 @@ https://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 https://rjno1.com##div[style="display:none"]
 https://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
 https://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > center > a
+https://redircdn.com##.al
 https://rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
 https://rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
 https://rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
@@ -21319,6 +21326,7 @@ http://bitauto.com###bitAd_background
 http://bitauto.com###bitAd_floatFlash
 http://nodejs.cn###biz_center
 http://nodejs.cn###biz_nav
+http://e-learn.cn###block-gyouer
 http://zaobao.com###block-views-zb2016-freefrom-block-1
 http://e-learn.cn###block-youyi
 http://gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
@@ -22593,10 +22601,10 @@ http://yuqingcn.cn##.ad1024x90
 http://chexun.com##.ad1100
 http://ishowx.com##.ad1160
 http://tt243.com##.ad123
-http://c114.com.cn,china.com.cn,hibiquan.com,qingdaonews.com##.ad2
+http://c114.com.cn,chemicalbook.com,china.com.cn,hibiquan.com,qingdaonews.com##.ad2
 http://ifeng.com##.ad200-2
 http://yaolan.com##.ad24090
-http://nmgnews.com.cn,sportscn.com,tpy888.cn##.ad3
+http://chemicalbook.com,nmgnews.com.cn,sportscn.com,tpy888.cn##.ad3
 http://21uscity.com##.ad300x60
 http://jokeji.cn##.ad360_280
 http://linuxde.net##.ad360x500
@@ -23909,6 +23917,7 @@ http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_p
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":1990070693,"]
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.l_post[data-field^="\7b \"author\":\7b \"user_id\":50012654,"]
 http://flight.qunar.com##.l_rside > .b_fly_ban_b:nth-child(2)
+http://ditu.so.com##.label-ads
 http://3jy.com,maolihui.com##.lad
 http://1kkk.com##.lanrenzhijia
 http://ithome.com##.lapin
@@ -25104,7 +25113,7 @@ http://chexun.com##a[attr-outside-ad]
 http://wenku.baidu.com##a[class*="tiger-"][class*="-dialog"]
 http://hao123.com##a[class^="gameyixing-link-"]
 http://csai.cn##a[class^="gg"]
-http://ditu.so.com##a[class^="index-bcItem-"]
+http://ditu.so.com##a[class^="index-bcItem"]
 http://toolfk.com##a[class^="tip-alert"]
 http://m4fz.com##a[data-etime]
 http://caibaojian.com##a[data-href*="aliyun"]
@@ -26290,8 +26299,8 @@ http://hpjav.tv##body > div[style^="position: fixed;"]
 http://verystream.com#@#.adsbox
 http://googleads.g.doubleclick.net###mys-wrapper
 http://xhtml?%22+$script,third-party
-http://bxwx666.org###addiv3
-http://bxwx666.org###bdstatic
+http://bxwx555.org###addiv3
+http://bxwx555.org###bdstatic
 http://55shuba.com###botDiv
 http://duanwenxue.com##.qgzdwx
 http://jx.la##[onclick*="apk"]
@@ -26307,6 +26316,7 @@ http://getrelax.cc,sexylove.club##.loaded-popup-wrapper
 http://rjno1.com##div[style="display:none"]
 http://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > br
 http://173.192.147.21,iu91.co,ozxw.co,sejie.com,sejie2.us,sejie3.us,thesoccerline.com,ukhuaren.co###wp > center > a
+http://redircdn.com##.al
 http://rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+40)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+45)
 http://rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
 http://rvlev.com,t66y.com#?#[class]:-abp-has(>a[onmouseover="this.style.background='#DEF5CD';"]:nth-child(n+150):-abp-contains(/赌|娱|澳/)) > :nth-child(-n+155)
