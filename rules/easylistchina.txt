@@ -1,8 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4vqFmOfWqxBrYK/cPnKs7w
-! Version: 202101080012
+! Checksum: JdYQZfj23nTRQ8yKBoTRZw
+! Version: 202101090012
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
+||https://baitugu.com^$third-party
 ||https://012.tw^$third-party
 ||https://033.com^$third-party
 ||https://0591101.com^$third-party
@@ -2900,7 +2901,7 @@
 ||https://iyingdi.com/goood?
 ||https://iztwp.com/images/
 ||https://izzs.cc/wp-content/mm/
-||https://j.s.weibo.com/widget.html
+||https://s.weibo.com/widget.html
 ||https://jable.tv/assets/*0.gif
 ||https://jandan.net/static/sos/recreate-games.gif
 ||https://jandan.net/static/ss/
@@ -4103,7 +4104,6 @@
 ||https://techweb.com.cn^*aliyun
 ||https://tengfangyun.com/attachment/*/w_1200
 ||https://tengfun.com/attachment/*/w_1200
-||https://tengtv.com/skin/xin/Picture/img
 ||https://tetimes.com/inc
 ||https://texnet.com.cn/images/cnbanner/
 ||https://tfg2.com/images/upfile/AD/
@@ -4871,6 +4871,10 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://kiwi8.top/media/plugins/jquery_confirm/
+||https://myqcloud.com/ad/
+||https://jsdelivr.net/gh/supfree/supfree/top.gif
+||https://tlyy.cc/js/tlyy/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5055,7 +5059,8 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
-||http://yapusheji.com^
+||http://7cbwus.cn^
+||http://baitugu.com^$third-party
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -7469,6 +7474,7 @@
 ||http://yanglaopt.net^
 ||http://yaohq.com^
 ||http://yaoxiaoli.com^
+||http://yapusheji.com^
 ||http://yatemy.cn^
 ||http://ycfgnau.cn^
 ||http://ychml.com^
@@ -10288,7 +10294,7 @@
 ||http://iztwp.com/images/
 ||http://izzs.cc/wp-content/mm/
 ||http://j.avz4.com^
-||http://j.s.weibo.com/widget.html
+||http://s.weibo.com/widget.html
 ||http://ja*.gamersky.com^
 ||http://jable.tv/assets/*0.gif
 ||http://jandan.net/static/sos/recreate-games.gif
@@ -11611,7 +11617,6 @@
 ||http://techweb.com.cn^*aliyun
 ||http://tengfangyun.com/attachment/*/w_1200
 ||http://tengfun.com/attachment/*/w_1200
-||http://tengtv.com/skin/xin/Picture/img
 ||http://teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||http://tetimes.com/inc
 ||http://texnet.com.cn/images/cnbanner/
@@ -12453,6 +12458,10 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://kiwi8.top/media/plugins/jquery_confirm/
+||http://myqcloud.com/ad/
+||http://jsdelivr.net/gh/supfree/supfree/top.gif
+||http://tlyy.cc/js/tlyy/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13305,10 +13314,17 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://sxxfmc.com^
-||http://shidaikejivip.cn^
-||http://9uh94c.cn^
-||http://ygnoqu.cn^
+||http://yjxqy.com^
+||http://m06nev.com^
+||http://zhmyq.cn^
+||http://ql01t4.com^
+||http://jysbj.cn^
+||http://tzh019.cn^
+||http://aoyou4.top^
+||http://xiangyuym.cn^
+||http://wangjulm.com^
+||http://ahwczn.cn^
+||http://dacedsfa.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13506,6 +13522,7 @@
 ||http://9d7in.cn^
 ||http://9pb0h.cn^
 ||http://9ucm.com^
+||http://9uh94c.cn^
 ||http://9y88.com^
 ||http://a3pz36.cn^
 ||http://a7t89g4a.cn^
@@ -14951,6 +14968,7 @@
 ||http://shenyunkeji.com^
 ||http://shffcy.cn^
 ||http://shforu.com^
+||http://shidaikejivip.cn^
 ||http://shidailw.com^
 ||http://shiguangyx.cn^
 ||http://shjrwh.cn^
@@ -15027,6 +15045,7 @@
 ||http://sxmdxy.com^
 ||http://sxmutan.com^
 ||http://sxtyhl.top^
+||http://sxxfmc.com^
 ||http://sxying.top^
 ||http://sxzcrq.com^
 ||http://sxzzhj.com^
@@ -15309,7 +15328,6 @@
 ||http://xiandafood.cn^
 ||http://xiangchim0.com^
 ||http://xiangwangdesh.com^
-||http://xiangyuym.cn^
 ||http://xiansenmeng.cn^
 ||http://xiaobingmai.cn^
 ||http://xiaogouzhuanqian.cn^
@@ -15418,6 +15436,7 @@
 ||http://yg10x.cn^
 ||http://ygblogtag.cn^
 ||http://ygiqfnn.cn^
+||http://ygnoqu.cn^
 ||http://ygqczh.com^
 ||http://yicang8.com^
 ||http://yicuntian.cn^
@@ -15682,10 +15701,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://ifeng.com##DIV[class^="topBox-"]
-https://ifeng.com##DIV[class^="d_box-"]
-https://ifeng.com##DIV[class^="dbox"]
-https://ifeng.com##DIV[class^="bottomDbox"]
+https://weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -20142,10 +20158,13 @@ https://zhicheng.com##div[class^="all-"][style^="position:relative;width:50%;flo
 https://265g.com##div[class^="ban"]
 https://cztv.com##div[class^="banner_"]
 https://elecfans.com##div[class^="banner_ad"]
+https://ifeng.com##div[class^="bottomDbox"]
 https://tucao.one##div[class^="c_c"]
 https://ifeng.com##div[class^="container-"][content^="[object"]
 https://78dm.net##div[class^="couple-"]
 https://ifeng.com##div[class^="coupletBox"]
+https://ifeng.com##div[class^="d_box-"]
+https://ifeng.com##div[class^="dbox"]
 https://fx678.com##div[class^="dl_"]
 https://eastday.com##div[class^="double"]
 https://syd.com.cn##div[class^="eap"]
@@ -20177,6 +20196,7 @@ https://7654.com##div[class^="sidebarimg"]
 https://ifeng.com##div[class^="slideBannerBox"]
 https://ifeng.com##div[class^="topAd-"]
 https://21cn.com##div[class^="topAds"]
+https://ifeng.com##div[class^="topBox-"]
 https://gpsuu.com##div[class^="top_96"]
 https://zhangxinxu.com##div[class^="top_da_out_"]
 https://gamme.com.tw##div[class^="topad_"]
@@ -21074,10 +21094,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://ifeng.com##DIV[class^="topBox-"]
-http://ifeng.com##DIV[class^="d_box-"]
-http://ifeng.com##DIV[class^="dbox"]
-http://ifeng.com##DIV[class^="bottomDbox"]
+http://weibo.com#?#.card-wrap:-abp-has(> .card-film > .card-head > .title:-abp-contains(广告))
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25534,10 +25551,13 @@ http://zhicheng.com##div[class^="all-"][style^="position:relative;width:50%;floa
 http://265g.com##div[class^="ban"]
 http://cztv.com##div[class^="banner_"]
 http://elecfans.com##div[class^="banner_ad"]
+http://ifeng.com##div[class^="bottomDbox"]
 http://tucao.one##div[class^="c_c"]
 http://ifeng.com##div[class^="container-"][content^="[object"]
 http://78dm.net##div[class^="couple-"]
 http://ifeng.com##div[class^="coupletBox"]
+http://ifeng.com##div[class^="d_box-"]
+http://ifeng.com##div[class^="dbox"]
 http://fx678.com##div[class^="dl_"]
 http://eastday.com##div[class^="double"]
 http://syd.com.cn##div[class^="eap"]
@@ -25569,6 +25589,7 @@ http://7654.com##div[class^="sidebarimg"]
 http://ifeng.com##div[class^="slideBannerBox"]
 http://ifeng.com##div[class^="topAd-"]
 http://21cn.com##div[class^="topAds"]
+http://ifeng.com##div[class^="topBox-"]
 http://gpsuu.com##div[class^="top_96"]
 http://zhangxinxu.com##div[class^="top_da_out_"]
 http://gamme.com.tw##div[class^="topad_"]
