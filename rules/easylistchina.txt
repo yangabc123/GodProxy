@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: f8NLmYluVqDyyt5GVjjDSQ
-! Version: 202101120012
+! Checksum: mUrJSKeM2jPejClUywwiGw
+! Version: 202101130023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4879,6 +4879,8 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://kuaishouba.com/themes/default/images/*.gif
+||https://gllmh.com/style/js/gll
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5065,6 +5067,8 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://govjiangsu.cn^
+||http://govbeijing.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -12474,6 +12478,8 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://kuaishouba.com/themes/default/images/*.gif
+||http://gllmh.com/style/js/gll
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13327,6 +13333,8 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://gongxifacai21.top^
+||http://wenjianzhongxin.com^*.gif
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15723,8 +15731,9 @@
 ||http://withad.cn^
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
-https://poxiaotv.com##[ontouchstart]
 https://szxx.com.cn###A0
+https://baidu.com##.fengchao-wrap-feed
+https://kuaishouba.com##.index_adbox
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19795,7 +19804,7 @@ https://zhangxinxu.com##[onclick*="Ad"]
 https://42xz.com##[onclick*="godownload"]
 https://717dyi.com,aiqiyivip.com##[onclick]
 https://duonaolive.com##[onclick^="track"]
-https://aiqiyivip.com##[ontouchstart]
+https://aiqiyivip.com,poxiaotv.com##[ontouchstart]
 https://duodada.com##[style*="position: fixed; left: 0px;"]
 https://kisssub.org##a > img[src*=".0o0.ooo/"]
 https://5dm.tv##a > img[src*=".sinaimg."]
@@ -21124,8 +21133,9 @@ https://5dm.tv#@#.tm-share-this
 https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
-http://poxiaotv.com##[ontouchstart]
 http://szxx.com.cn###A0
+http://baidu.com##.fengchao-wrap-feed
+http://kuaishouba.com##.index_adbox
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25196,7 +25206,7 @@ http://zhangxinxu.com##[onclick*="Ad"]
 http://42xz.com##[onclick*="godownload"]
 http://717dyi.com,aiqiyivip.com##[onclick]
 http://duonaolive.com##[onclick^="track"]
-http://aiqiyivip.com##[ontouchstart]
+http://aiqiyivip.com,poxiaotv.com##[ontouchstart]
 http://duodada.com##[style*="position: fixed; left: 0px;"]
 http://kisssub.org##a > img[src*=".0o0.ooo/"]
 http://5dm.tv##a > img[src*=".sinaimg."]
