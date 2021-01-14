@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20210110205337
-!TOTAL_LINES=37730
+!VER=20210113104747
+!TOTAL_LINES=37747
 ||https://00-gov.cn
 ||https://kwcdn.000dn.com
 ||https://kwcscdn.000dn.com
@@ -173,6 +173,7 @@
 ||https://0pengl.com
 ||https://0pixl.com
 ||https://0pj1f.cn
+||https://0qkc.cn
 ||https://0ql3xxre2h.com
 ||https://0redirb.com
 ||https://a1.0s.net.cn
@@ -490,6 +491,7 @@
 ||https://18rm.com
 ||https://h1.18sd.cn
 ||https://h2.18sd.cn
+||https://18tzx.com
 ||https://192b1a49d57.com
 ||https://1933000.com
 ||https://1955dcb2fee1a13.com
@@ -596,6 +598,7 @@
 ||https://2005net.net
 ||https://200summit.com
 ||https://201071.com
+||https://2012ui.com
 ||https://2013sh.com
 ||https://wm.20150.net
 ||https://2016bobo.cf
@@ -611,7 +614,6 @@
 ||https://206ads.com
 ||https://206solutions.com
 ||https://20a840a14a0ef7d6.com
-||https://20afcc1f257.com
 ||https://20cefb09fe910f.com
 ||https://20dollars2surf.com
 ||https://m.20mao.com
@@ -847,6 +849,9 @@
 ||https://330ca589.space
 ||https://3324.cn
 ||https://dm1.3328.cn
+||https://3337735.com
+||https://3337736.com
+||https://3337780.com
 ||https://333bj.cloud
 ||https://333dm.com
 ||https://333wan.com
@@ -1314,6 +1319,7 @@
 ||https://b1.51scw.net
 ||https://51showmy.com
 ||https://code.51sotu.com
+||https://1.51sxue.cn
 ||https://51sxzz.com
 ||https://51taifu.com
 ||https://ad.video.51togic.com
@@ -1431,6 +1437,7 @@
 ||https://56yk.com
 ||https://57.com.cn
 ||https://5726303d87522d05.com
+||https://57473b6b571.com
 ||https://577682.com
 ||https://5783.org
 ||https://img2.578965.com
@@ -1492,6 +1499,7 @@
 ||https://eeo.5du5.com
 ||https://yyo.5du5.com
 ||https://5dydk.com
+||https://5e1fcb75b6d662d.com
 ||https://5egk.com
 ||https://5etv.com
 ||https://5f6dmzflgqso.com
@@ -1518,7 +1526,6 @@
 ||https://5nt1gx7o57.com
 ||https://5okyhhthcu.xyz
 ||https://5p68n.cn
-||https://5pb266.com
 ||https://5.5ppt.net
 ||https://5pr1sfzsl9.com
 ||https://5pub.com
@@ -1604,6 +1611,7 @@
 ||https://64si.com
 ||https://651b4ee436b8cdae.com
 ||https://652748.com
+||https://6548579f50dc08be9.com
 ||https://6554.net
 ||https://65a29ceed813bbca61.com
 ||https://65h79.cn
@@ -1667,6 +1675,7 @@
 ||https://69v.club
 ||https://69yll.cn
 ||https://6a40194bef976cc.com
+||https://6a9102689db8e.com
 ||https://6af461b907c5b.com
 ||https://6avz.com
 ||https://6b357cda0f.com
@@ -1877,6 +1886,7 @@
 ||https://7f19b1713b43f7db.com
 ||https://7f3ad7d6ad52.com
 ||https://7f6383e2d7.com
+||https://7f8e91975bdc9c5f1c.com
 ||https://7fkm2r4pzi.com
 ||https://7gbca.cn
 ||https://7gg.cc
@@ -2217,6 +2227,7 @@
 ||https://pic1.97jut.com
 ||https://pic2.97jut.com
 ||https://pic3.97jut.com
+||https://97kuaixiu.com
 ||https://m.97tuk.cn
 ||https://97wanle.com
 ||https://9800.com
@@ -2406,6 +2417,7 @@
 ||https://a7shun.com
 ||https://a7t89g4a.cn
 ||https://a8.net
+||https://a8c37822e110e3.com
 ||https://cdntest.a8tiyu.com
 ||https://a8ww.net
 ||https://a907907.com
@@ -2452,7 +2464,6 @@
 ||https://aasyy.com
 ||https://aaxads.com
 ||https://aaxdetect.com
-||https://aayeljzpuu.com
 ||https://ab11s.com
 ||https://ab4tn.com
 ||https://ab913aa797e78b3.com
@@ -2496,12 +2507,7 @@
 ||https://abie25.top
 ||https://abie9.top
 ||https://ablehed.pro
-||https://ablen04.tk
-||https://ablen07.tk
-||https://ablen08.tk
-||https://ablen09.tk
-||https://ablen10.tk
-||https://ablen11.tk
+||https://ablen03.tk
 ||https://ablenctionalle.info
 ||https://ablerivetdoubted.com
 ||https://ablogica.com
@@ -2935,7 +2941,7 @@
 ||https://adhslx.com
 ||https://display.adhudong.com
 ||https://adicate.com
-||https://adidaschile62tracksuit.com
+||https://adieusyaktop.com
 ||https://adifficiente.top
 ||https://adigniter.org
 ||https://adikteev.com
@@ -3259,7 +3265,6 @@
 ||https://adsagony.com
 ||https://adsalvo.com
 ||https://adsame.com
-||https://adsbang.top
 ||https://adsblockkpush.com
 ||https://adsbookie.com
 ||https://adsbr.info
@@ -3647,6 +3652,7 @@
 ||https://adzincome.in
 ||https://adzintext.com
 ||https://adziondin.club
+||https://adzjzewsma.cf
 ||https://adzmaza.in
 ||https://adzmedia.com
 ||https://adzmob.com
@@ -3675,10 +3681,6 @@
 ||https://aeoprw.cn
 ||https://aercxy.com
 ||https://aeros01.tk
-||https://aeros02.tk
-||https://aeros03.tk
-||https://aeros06.tk
-||https://aeros09.tk
 ||https://cookie.aerostatonet.it
 ||https://aes01.com
 ||https://sourcepoint-mms.aetv.com
@@ -3857,7 +3859,6 @@
 ||https://ahksqc.com.cn
 ||https://ahlxxx.com
 ||https://ahojer.com
-||https://ahoyhyperbay.com
 ||https://ahoypiratebaai.eu
 ||https://ahqlx.top
 ||https://ahqpqpdjpj.com
@@ -3897,7 +3898,6 @@
 ||https://aidjodlthdaxq.com
 ||https://aidomination.xyz
 ||https://aifei.info
-||https://aifoosty.net
 ||https://aighthatev.club
 ||https://aigneloa.com
 ||https://aigou023.com
@@ -4181,6 +4181,7 @@
 ||https://acjs.aliyun.com
 ||https://osfota.cdn.aliyun.com
 ||https://adash.man.aliyuncs.com
+||https://alime-pic.oss-cn-hangzhou.aliyuncs.com
 ||https://badding.oss-ap-southeast-1.aliyuncs.com
 ||https://free-cdn.oss-cn-shanghai.aliyuncs.com
 ||https://jpg1.oss-cn-beijing.aliyuncs.com
@@ -4400,6 +4401,7 @@
 ||https://amcdn.vn
 ||https://imgstat.ameba.jp
 ||https://ln.ameba.jp
+||https://pr.ameba.jp
 ||https://sy.amebame.com
 ||https://measure.ameblo.jp
 ||https://sy.ameblo.jp
@@ -4749,7 +4751,6 @@
 ||https://aq360.club
 ||https://aqccc.com
 ||https://aqfhhfqarukys.com
-||https://aqftikmr.com
 ||https://aqgyju.cn
 ||https://m.aqiudaohang.com
 ||https://aqjdigkqvmakz.com
@@ -4973,7 +4974,6 @@
 ||https://assuremath.com
 ||https://astancerta.fun
 ||https://aster18cdn.nl
-||https://aster18prx.nl
 ||https://asterilivestream.com
 ||https://asteriresearch.com
 ||https://asterpix.com
@@ -5192,6 +5192,7 @@
 ||https://adm2.autoimg.cn
 ||https://adm3.autoimg.cn
 ||https://autoline-top.com
+||https://autologica.ga
 ||https://automatad.com
 ||https://automatedtraffic.com
 ||https://automateyourlist.com
@@ -5242,6 +5243,7 @@
 ||https://player.avplayer.com
 ||https://avstat.it
 ||https://avtiaozhuan.com
+||https://avualrhg9p.bid
 ||https://avuvldbc.com
 ||https://aa.avvo.com
 ||https://avwincall.info
@@ -5704,7 +5706,6 @@
 ||https://baiiufiwho.com
 ||https://baikalize.com
 ||https://stat.baike.com
-||https://bailequan.net.cn
 ||https://baileycommaserum.com
 ||https://yacafrr.bailingcloud.cn
 ||https://api.bailingjiankang.com
@@ -5842,7 +5843,6 @@
 ||https://pvstat.baomihua.com
 ||https://help.baotangwang.cn
 ||https://baoyatu.cc
-||https://bapkt.com
 ||https://bapres.cn
 ||https://baptismwitnesseddisobedience.com
 ||https://baptisttop1000.com
@@ -5923,14 +5923,13 @@
 ||https://bb1429.com
 ||https://bb1acb0ea5ddb1fed8.com
 ||https://bb475d71fa0b1b2.com
-||https://bbba8.com
+||https://bbaahc.com
 ||https://bbbx.xyz
 ||https://sa.bbc.co.uk
 ||https://stats.bbc.co.uk
 ||https://visualscience.external.bbc.co.uk
 ||https://ssc.api.bbc.com
 ||https://r.bbci.co.uk
-||https://bbckaxifryxcno.com
 ||https://bbcoe.cn
 ||https://adimg.bbcss.com
 ||https://du1.bbdj.com
@@ -6002,6 +6001,7 @@
 ||https://pups.bdimg.com
 ||https://su.bdimg.com
 ||https://newsletter.bdnews24.com
+||https://bdozkocgkljj.com
 ||https://bdp.cn
 ||https://bdpuaw.com
 ||https://cpro.bdrmb.cn
@@ -6280,6 +6280,7 @@
 ||https://bggvfsvaqjvamg.com
 ||https://bggznyujioad.com
 ||https://bgkxbknajdn.com
+||https://bglnzzsgigbto.com
 ||https://bgmtracker.com
 ||https://bgn2zqlce1eiya.icu
 ||https://bgpng.me
@@ -6499,7 +6500,6 @@
 ||https://bizzclick.com
 ||https://bj-bytsk.com
 ||https://bj1110.online
-||https://bjbrtc.com
 ||https://bjcass.com
 ||https://bjcathay.com
 ||https://bjcgbc.cn
@@ -6773,7 +6773,6 @@
 ||https://lq.booktxt.net
 ||https://boom-boom-vroom.com
 ||https://boomerang.com.au
-||https://boomgamescloud-cdn.cn
 ||https://boomtrain.com
 ||https://booraipa.com
 ||https://boostable.com
@@ -6995,6 +6994,7 @@
 ||https://e.bsnnk.com
 ||https://m.bsnnk.com
 ||https://bsoswwiwzs.com
+||https://bsriedu.cn
 ||https://bsrkt.com
 ||https://bsshw.net
 ||https://bstn-14-ma.com
@@ -7062,6 +7062,7 @@
 ||https://bulletfeedspy.com
 ||https://bulletindualpartial.com
 ||https://bulletprofitads.com
+||https://bulletprofitpop.com
 ||https://bullionyield.com
 ||https://bulovuni.pro
 ||https://bultigho.net
@@ -7176,6 +7177,7 @@
 ||https://bxkpkskdox.com
 ||https://bxmfuxxiqmw.com
 ||https://bxmns.com
+||https://bxodbythc.com
 ||https://bxvbtafvyaoc.com
 ||https://js.bxwns.com
 ||https://js1.bxwns.com
@@ -7853,7 +7855,6 @@
 ||https://chendjiangxing.cn
 ||https://chengadx.com
 ||https://chengaib.net
-||https://chengboke.cn
 ||https://chengdahdf.cn
 ||https://chenggao.cn
 ||https://chenghangtech.com
@@ -7969,10 +7970,10 @@
 ||https://chocohjuanfhdhf.com
 ||https://chofezrj.com
 ||https://choinsiden.club
+||https://chongxiaota.top
 ||https://choogeet.net
 ||https://chooksee.net
 ||https://choorgiw.net
-||https://chootsod.net
 ||https://chopstick16.com
 ||https://chordeez.net
 ||https://chorleycitizen-gb.chorleycitizen.co.uk
@@ -7990,6 +7991,7 @@
 ||https://christmalicious.com
 ||https://christoredyt.club
 ||https://chromc.com
+||https://chrommotor.com
 ||https://origin.chron.com
 ||https://chronicads.com
 ||https://chronicleisoconfused.com
@@ -8728,6 +8730,7 @@
 ||https://clubpenguinclub.com
 ||https://e.clubske.com
 ||https://m.clubske.com
+||https://cluethydash.com
 ||https://cluodlfare.com
 ||https://clxgmlpfkoj.com
 ||https://clxxkz.com.cn
@@ -9104,7 +9107,6 @@
 ||https://congtad.com
 ||https://conhive.com
 ||https://conjeller-chikemon.com
-||https://capi.connatix.com
 ||https://rtb.connatix.com
 ||https://tr.connatix.com
 ||https://trk.connatix.com
@@ -9241,6 +9243,7 @@
 ||https://coolguang.com
 ||https://coollcloud.com
 ||https://coolnay.com
+||https://coolpadrom.cn
 ||https://coolppa.cn
 ||https://coolsite.club
 ||https://cooltool.cc
@@ -9434,9 +9437,11 @@
 ||https://cpmstar.com
 ||https://cpmtree.com
 ||https://cppnznmorh.com
+||https://cpshwl.cn
 ||https://cpsrvng.xyz
 ||https://cptrack.de
 ||https://cptycdzksyvn.com
+||https://cpu2cash.link
 ||https://cpufan.cl
 ||https://cpufan.club
 ||https://cpuim.com
@@ -9456,6 +9461,7 @@
 ||https://cqcounter.com
 ||https://dm.cqdxun.cn
 ||https://cqfangduan.com
+||https://cqflplcldh.com
 ||https://cqftonline.com
 ||https://cqgya.com
 ||https://cqhhct.com
@@ -9468,6 +9474,7 @@
 ||https://phpad.cqnews.net
 ||https://adimg.cqnews.net
 ||https://m.cqolg.cn
+||https://cqpmmfxvibjr.com
 ||https://cqsta.com
 ||https://cqtfeoje.com
 ||https://cqubxammwgoplo.com
@@ -9736,7 +9743,6 @@
 ||https://cxense.com
 ||https://cxfzw.cn
 ||https://cxgh.net
-||https://cxhtodgorrq.com
 ||https://cxlm.net.cn
 ||https://live.cxo.name
 ||https://live.ec2.cxo.name
@@ -9767,7 +9773,6 @@
 ||https://cygnus.com
 ||https://c.cyhx98.com
 ||https://cyih0e43aty7.com
-||https://cyjybkrmzstpid.com
 ||https://z1.cyla.cn
 ||https://cylinderlongcheng.com
 ||https://cymichaire.club
@@ -9824,6 +9829,7 @@
 ||https://d194f913ee63.com
 ||https://d1ad.com
 ||https://d1c4d437f10.com
+||https://d1skp.cn
 ||https://d1wn3.cn
 ||https://d2-apps.net
 ||https://d2850fafeb7.com
@@ -9844,7 +9850,6 @@
 ||https://d58bf31082fa97.com
 ||https://d59fa492f75f520.com
 ||https://d5a5a.xyz
-||https://d5d4f491e92.com
 ||https://d602196786e42d.com
 ||https://d663q.cn
 ||https://d6jfiirio372.com
@@ -9984,11 +9989,6 @@
 ||https://daqiangolf.com
 ||https://dardwebertoha.info
 ||https://darersan.co
-||https://darking03.tk
-||https://darking04.tk
-||https://darking06.tk
-||https://darking07.tk
-||https://darking09.tk
 ||https://darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 ||https://dartsirhose.icu
 ||https://ch0p.darty.com
@@ -10218,6 +10218,7 @@
 ||https://ea.deguisetoi.fr
 ||https://dehuaguanyin.com
 ||https://dehydratedpredestinationplenty.com
+||https://deicemaptwin.com
 ||https://deiligejenter.com
 ||https://e.deimm.com
 ||https://deiqehvcdnntg.com
@@ -10291,6 +10292,7 @@
 ||https://depotshine.com
 ||https://deprivationcorrectioncoats.com
 ||https://deprivationzomby.com
+||https://depttake.ga
 ||https://deqwas.net
 ||https://derbodilehe.top
 ||https://track.derbund.ch
@@ -10363,6 +10365,7 @@
 ||https://dewqbkpy.com
 ||https://dexamplexhet.club
 ||https://dexchangeinc.com
+||https://sourcepoint.dexerto.com
 ||https://dexim.space
 ||https://deximedia.com
 ||https://dexplatform.com
@@ -10386,7 +10389,6 @@
 ||https://newswifiapi.dfshurufa.com
 ||https://dftoutiao.com
 ||https://dfxvfkutloxnyl.com
-||https://dfyudpyceqoy.com
 ||https://dgafgadsgkjg.top
 ||https://dgaoz.com
 ||https://dgarvwharbgpb.com
@@ -10659,7 +10661,6 @@
 ||https://djibeacon.djns.com
 ||https://djpt33.com
 ||https://djsn888.com
-||https://djtfkakbufpwot.com
 ||https://djy518.com
 ||https://dk4ywix.com
 ||https://event.dkb.de
@@ -10691,7 +10692,6 @@
 ||https://dlhygj.com
 ||https://llk.dlingtalk.cn
 ||https://dlkjgjmy.com
-||https://dlmghzdca.com
 ||https://dlnsjjyzvi1x.com
 ||https://dlouf.com
 ||https://dloungspiricapu.fun
@@ -10746,6 +10746,7 @@
 ||https://dnaxddnc.com
 ||https://dnbizcdn.com
 ||https://dneglectionsinter.info
+||https://dnemkhkbsdbl.com
 ||https://dnfeu.com
 ||https://sp.dnj.com
 ||https://dnjj.mobi
@@ -10991,7 +10992,6 @@
 ||https://drjgjngf.com
 ||https://drlsf.com
 ||https://drmfslx.cn
-||https://drogomet.com
 ||https://log.droid4x.cn
 ||https://mtlog.droid4x.cn
 ||https://nlog.droid4x.cn
@@ -11178,10 +11178,10 @@
 ||https://partner.dw.com
 ||https://social.dw.de
 ||https://dw998.com
-||https://dwaceiiywjwcyf.com
 ||https://dwczfwnjg.com
 ||https://dwin1.com
 ||https://dwin2.com
+||https://dwkfnswdnheqfz.com
 ||https://untitled.dwstatic.com
 ||https://1.dwx365.com
 ||https://mobileads.dx.cn
@@ -11242,7 +11242,6 @@
 ||https://dzizsih.ru
 ||https://dzjzg.com
 ||https://dzletao.com
-||https://dzloxwupyxw.com
 ||https://widgets.dzone.com
 ||https://dzooo.cn
 ||https://dzrenju2.cn
@@ -11252,7 +11251,6 @@
 ||https://acm.dzwww.com
 ||https://ad.dzwww.com
 ||https://dzxwnews.com
-||https://dzznyesmwj.com
 ||https://api.e-cg.cn
 ||https://e-click.jp
 ||https://partner.e-conomic.com
@@ -11288,6 +11286,7 @@
 ||https://app.e2ma.net
 ||https://embed.e2ma.net
 ||https://e2wysbacctt1.com
+||https://e331ff4e674c083.com
 ||https://e347bb14dc71778.com
 ||https://e350570881272e.com
 ||https://e376ef28103177cc.com
@@ -11679,7 +11678,6 @@
 ||https://ejdkqclkzq.com
 ||https://ejectfeudburly.com
 ||https://ejee.xyz
-||https://ejeenews.com
 ||https://ejfeng.com
 ||https://ejgpuaguf.com
 ||https://ejieban.com
@@ -11708,7 +11706,6 @@
 ||https://ekmpinpoint.com
 ||https://ekoatchooze.com
 ||https://connect.ekomi.de
-||https://ekoocmujairt.com
 ||https://ia.ekstrabladet.dk
 ||https://dmpcdn.el-mundo.net
 ||https://metrics.el-mundo.net
@@ -11828,7 +11825,6 @@
 ||https://empowerclemencyjoggle.com
 ||https://emptyspaceads.com
 ||https://emsecure.net
-||https://emshx.cn
 ||https://emsmcdwfbseox.com
 ||https://tracking.emsmobile.de
 ||https://emsservice.de
@@ -11939,7 +11935,6 @@
 ||https://eonsmedia.com
 ||https://eonwayaha.com
 ||https://eooslfyhziubo.com
-||https://eopazyxdkppnz.com
 ||https://eopbflgmxcr.com
 ||https://eoqgguubvksu.com
 ||https://eoredi.com
@@ -11987,7 +11982,6 @@
 ||https://eavs02.eqifa.com
 ||https://eqiuy.com
 ||https://eqljprszxo.com
-||https://eqnqxfrxsmuy.com
 ||https://eqoivockikaue.com
 ||https://equivalentliked.com
 ||https://equjalkngu.com
@@ -12023,8 +12017,10 @@
 ||https://erihj.com
 ||https://eringassumpt.club
 ||https://eriniquep.club
+||https://erkesi.cn
 ||https://erkhxw.com
 ||https://erlpbwy.cn
+||https://ermjhgdl.com
 ||https://green.erne.co
 ||https://ernettesew.club
 ||https://erniphiq.com
@@ -12189,7 +12185,6 @@
 ||https://etui8.cn
 ||https://etvgjkyo.com
 ||https://etyper.com
-||https://etyxitxlvqp.com
 ||https://etzbnfuigipwvs.ru
 ||https://etzhporcxprf.com
 ||https://eu-survey.com
@@ -12226,7 +12221,6 @@
 ||https://eutdrjvsrmav.com
 ||https://euywavffcik.com
 ||https://euz.net
-||https://euzlyrzg.com
 ||https://evanetpro.com
 ||https://evantage.club
 ||https://evantative.top
@@ -12398,7 +12392,6 @@
 ||https://eyouv.cn
 ||https://eysmaa.pw
 ||https://img1.eywdf.com
-||https://eywirvfupvo.com
 ||https://eyzu80g9xcxa.com
 ||https://liveviewer.ez.no
 ||https://ez33.com
@@ -12656,7 +12649,6 @@
 ||https://widgets.fbshare.me
 ||https://fbsvu.com
 ||https://fbufrl15br.com
-||https://fbxnqsviqujxv.com
 ||https://js.fc090.com
 ||https://analyzer.fc2.com
 ||https://analyzer2.fc2.com
@@ -12783,7 +12775,6 @@
 ||https://dsa-mfp.fengshows.cn
 ||https://m.fengwanwl.com
 ||https://fengxiangstore.com
-||https://fengyelin.net
 ||https://fengying5.com
 ||https://fengyx.com
 ||https://fenixm.com
@@ -12824,7 +12815,6 @@
 ||https://ffhre.com
 ||https://ffhwzaenzoue.com
 ||https://ffickiedisticre.site
-||https://ffinwwfpqi.gq
 ||https://ffjk.space
 ||https://ffkdxymyji.com
 ||https://fflsn.com
@@ -13041,7 +13031,6 @@
 ||https://bd1.flfgw.cn
 ||https://bd2.flfgw.cn
 ||https://heartbeat.flickr.com
-||https://flightsy.bid
 ||https://br.fling.com
 ||https://promos.fling.com
 ||https://sexy.fling.com
@@ -13057,12 +13046,12 @@
 ||https://flixcontentshop.com
 ||https://flixfacts.co.uk
 ||https://flixsyndication.net
+||https://fljgsht.ru
 ||https://fljozww19f.com
 ||https://fll007.com
 ||https://flloczhqdkn.com
 ||https://flmuqa.com
 ||https://flmyidbnljphko.com
-||https://flnfbaoozuib.com
 ||https://flnwaqyh.com
 ||https://flockflame.com
 ||https://flocktory.com
@@ -13135,6 +13124,7 @@
 ||https://fnbsrxtemj.com
 ||https://fncash.com
 ||https://fncnet1.com
+||https://fndvovywrtghk.com
 ||https://fnggdlzncynqx.com
 ||https://fninin.cn
 ||https://fnkjj.com
@@ -13188,6 +13178,7 @@
 ||https://footprintdns.com
 ||https://footprintlive.com
 ||https://foowafoa.com
+||https://foqbcgpwrq.com
 ||https://fast.forbes.com
 ||https://fuse.forbes.com
 ||https://geolocation.forbes.com
@@ -13324,6 +13315,7 @@
 ||https://freecontent.science
 ||https://freecontent.stream
 ||https://freecontent.tr
+||https://freecontent.trade
 ||https://freecounter.it
 ||https://freecounter.ovh
 ||https://freecountercode.com
@@ -13393,7 +13385,6 @@
 ||https://frgbgwnbjkgco.com
 ||https://frhbrkjgerikm2f8mjek09.com
 ||https://frhoobwj.com
-||https://friend17.net
 ||https://friendbuy.com
 ||https://friendlyduck.com
 ||https://friends2follow.com
@@ -13568,6 +13559,7 @@
 ||https://fvptlxwm.com
 ||https://fvugxwoy.com
 ||https://fvwlzsm3tt921krvoq6.pro
+||https://fvwvhvsvqgyhs.com
 ||https://fw-ad.jp
 ||https://fwbntw.com
 ||https://fwccw.com
@@ -13579,7 +13571,6 @@
 ||https://fwrrcnkzn5ik.com
 ||https://a.fwsir.com
 ||https://fwt0.com
-||https://fwuxrjzrkcjkop.com
 ||https://fwyang.com
 ||https://cms.fx678.com
 ||https://dms.fx678.com
@@ -13601,6 +13592,7 @@
 ||https://img3.fy1g.com
 ||https://fy4zb.cn
 ||https://fy6x8o.cn
+||https://fydgold132.com
 ||https://fydyjx.com
 ||https://cars.fyidriving.com
 ||https://fyijddhpohsvj.com
@@ -13756,7 +13748,6 @@
 ||https://mormont.gamer-network.net
 ||https://atax.gamermetrics.com
 ||https://gamersad.com
-||https://gamersbanner.com
 ||https://click.gamersky.com
 ||https://ja.gamersky.com
 ||https://gamescarousel.com
@@ -13852,7 +13843,6 @@
 ||https://gchhswgagb.com
 ||https://beacon.gcion.com
 ||https://gannett.gcion.com
-||https://gclcehwfvl.com
 ||https://gclick.cn
 ||https://gclwsuzxwiotyf.com
 ||https://gcomrarlta.com
@@ -14010,6 +14000,7 @@
 ||https://getmos.cn
 ||https://getmyads.com
 ||https://getmyfreetraffic.com
+||https://to.getnitropack.com
 ||https://getnormalizedurl.com
 ||https://getnotification.me
 ||https://getoptad360.com
@@ -14038,6 +14029,7 @@
 ||https://getui.com
 ||https://getui.net
 ||https://getviously.com
+||https://metrics.getvitals.io
 ||https://getxml.org
 ||https://collector.getyourguide.com
 ||https://geuniveruls.top
@@ -14060,7 +14052,6 @@
 ||https://gfdfhdh5t5453.com
 ||https://gfftsqrc.com
 ||https://gfhdkse.com
-||https://gfhuvykiqajjbi.com
 ||https://gfladrimbg.com
 ||https://gflcsiot.com
 ||https://gflnzl1vqntw.com
@@ -14172,6 +14163,7 @@
 ||https://gkrvcunjoacvc.com
 ||https://gktwhpd.cn
 ||https://gkumodsmcmffdv.com
+||https://gky73.cn
 ||https://gl-cash.com
 ||https://gl.ink
 ||https://gl1117wh13.com
@@ -14261,7 +14253,6 @@
 ||https://gloriajunkiebegging.com
 ||https://gloriousbeef.com
 ||https://glotchat.click
-||https://glothouw.link
 ||https://gloumsee.net
 ||https://gloumtol.net
 ||https://gloussuz.com
@@ -14380,6 +14371,7 @@
 ||https://gccode.gongchang.com
 ||https://gongeeta.net
 ||https://gongfanglong.cn
+||https://gongxifacai21.top
 ||https://log.gs3.goo.ne.jp
 ||https://log000.goo.ne.jp
 ||https://adcdn.goo.ne.jp
@@ -14497,6 +14489,7 @@
 ||https://gouzhibao.cn
 ||https://log.ttbc-hcm.gov.vn
 ||https://tracking.aita.gov.vn
+||https://govbeijing.cn
 ||https://govbusi.info
 ||https://govdelivery.com
 ||https://govercomeb.club
@@ -14506,6 +14499,7 @@
 ||https://govgift.com
 ||https://govhunan.cn
 ||https://goviral-content.com
+||https://govjiangsu.cn
 ||https://govmetric.com
 ||https://superwidget-assets.gowatchit.com
 ||https://webcounter.goweb.de
@@ -14530,6 +14524,7 @@
 ||https://gqswg.com
 ||https://gqtffirr.com
 ||https://gquqjrbgaghpfq.com
+||https://gqutnukt.com
 ||https://gr8y7z1xaq30.com
 ||https://grabmyads.com
 ||https://grabo.bg
@@ -14748,6 +14743,7 @@
 ||https://gtlp.net.cn
 ||https://gtmucs.cn
 ||https://gtnde.com
+||https://gtnmyddlf.com
 ||https://gtop.ro
 ||https://gtopstats.com
 ||https://gtsads.com
@@ -15137,7 +15133,6 @@
 ||https://hastikapubli.club
 ||https://hatagashira.com
 ||https://hatbiz.cn
-||https://hatcalter.com
 ||https://hatchord.com
 ||https://b.hatena.ne.jp
 ||https://sp.hattiesburgamerican.com
@@ -15165,6 +15160,7 @@
 ||https://hbfxmcgazuail.com
 ||https://hbguohua.com
 ||https://hbguzhenyuan.com
+||https://hbhcilgdqxt.com
 ||https://hbhgheovqz.com
 ||https://hbhnwy.com
 ||https://hbhtbn.com
@@ -15218,6 +15214,7 @@
 ||https://hdpass.club
 ||https://hdporn.to
 ||https://hdpreview.com
+||https://hdslnhmjga.com
 ||https://hdswgc.com
 ||https://hduic.com
 ||https://hdvcode.com
@@ -15391,6 +15388,7 @@
 ||https://heygugu.com
 ||https://heyhelga.net
 ||https://heylookhere.top
+||https://heyloyalty.com
 ||https://heymatic.com
 ||https://stats.heyoya.com
 ||https://heystaks.com
@@ -15598,7 +15596,6 @@
 ||https://hivps.xyz
 ||https://hiwtotxepiaogu.com
 ||https://hixili.top
-||https://hixpfhoon.com
 ||https://hizlireklam.com
 ||https://hizvevxvi.com
 ||https://hj217.com
@@ -15778,6 +15775,7 @@
 ||https://hornymatches.com
 ||https://hornyspots.com
 ||https://geobanner.hornywife.com
+||https://horrorscopeme.ml
 ||https://horse-racing-affiliate-program.co.uk
 ||https://horsenectar.com
 ||https://horsered.com
@@ -15880,6 +15878,7 @@
 ||https://m.hpcat.cn
 ||https://hpeprovisioning17.live
 ||https://hpeshwdwkzyz.com
+||https://hplctrsd.com
 ||https://hplose.de
 ||https://hpmyhrljkbl.com
 ||https://adcdn.hpplay.cn
@@ -15944,6 +15943,7 @@
 ||https://hsforms.com
 ||https://hsforms.net
 ||https://sh.hsfzexsg.com
+||https://hsgatgymg.com
 ||https://hsh51nvkrv.com
 ||https://hshcspczsaa.com
 ||https://hskczbmm.com
@@ -16288,7 +16288,6 @@
 ||https://affiliate.iamplify.com
 ||https://iamqqo85467.cn
 ||https://iangp.com
-||https://iangs.com
 ||https://ianisedover.info
 ||https://ianpos.com
 ||https://ianxalim.pw
@@ -16380,7 +16379,6 @@
 ||https://idasai.com
 ||https://idasui.cn
 ||https://apk.idate520.com
-||https://idbpftjjz.com
 ||https://1.idc100.com
 ||https://idch9s8d.com
 ||https://idcot.com
@@ -16429,7 +16427,6 @@
 ||https://idsce.com
 ||https://idtargeting.com
 ||https://idting.com
-||https://m.iduob.com
 ||https://idwq.info
 ||https://ie8eamus.com
 ||https://ie8q.cn
@@ -16696,6 +16693,7 @@
 ||https://importedinsect.com
 ||https://impresionesweb.com
 ||https://impresix.com
+||https://beacon.watch.impress.co.jp
 ||https://impressionassassin.com
 ||https://impressiondesk.com
 ||https://impressionmonster.com
@@ -17056,6 +17054,7 @@
 ||https://iogous.com
 ||https://iohtmrp.cn
 ||https://ioiylgyf.com
+||https://iojpbletb.com
 ||https://ai.iol.io
 ||https://evnt.iol.it
 ||https://iolautrf.com
@@ -17101,6 +17100,7 @@
 ||https://ipinyou.com.cn
 ||https://iplist.cc
 ||https://iplocationtools.com
+||https://iplrcmff.com
 ||https://iwa.iplsc.com
 ||https://stats.ipmgroup.be
 ||https://ipnamtuezkwi.com
@@ -17143,12 +17143,10 @@
 ||https://iqu-operation.com
 ||https://iquue.com
 ||https://iquyclpvbx.com
-||https://iqwrmwssizr.com
 ||https://iqyewu.cn
 ||https://iqyxvcqns.com
 ||https://analytics.iraiser.eu
 ||https://iraithiz.com
-||https://irauz.com
 ||https://irdcdrpzs.com
 ||https://am.g.ireader.com
 ||https://iredirect.net
@@ -17453,10 +17451,12 @@
 ||https://jcaik.com
 ||https://jcaip.com
 ||https://jcboloni.cn
+||https://jccjaosi.com
 ||https://jcdb88.com
 ||https://jcdfdhx.top
 ||https://jcelyj.com
 ||https://jchgcipyywszqt.com
+||https://jchhompudl.com
 ||https://sta.jcjk0451.com
 ||https://sp.jconline.com
 ||https://h.jcqtb.cn
@@ -17636,6 +17636,7 @@
 ||https://jiguangzhuisu.com
 ||https://jihehuaban.com
 ||https://jihehuaban.com.cn
+||https://jen.jiji.com
 ||https://jikpijfebfflia.com
 ||https://oxo.jilinfurong.com
 ||https://jilinxinfukeji.com
@@ -17766,7 +17767,6 @@
 ||https://jl027.com
 ||https://jl368.cn
 ||https://ds.jlbksy.com
-||https://jlehwynpwadmq.com
 ||https://jlemhcmft.com
 ||https://jlhniewc.com
 ||https://jlhygy.com
@@ -17782,7 +17782,6 @@
 ||https://jlxzt.com
 ||https://jlzebszkilcz.ru
 ||https://jmait.cn
-||https://jmewxbvmcjmur.com
 ||https://jmgehn.cn
 ||https://jmlinks.cn
 ||https://jmlk.co
@@ -17854,6 +17853,7 @@
 ||https://josephcalculatedsewer.com
 ||https://josipr.com
 ||https://t.jossandmain.com
+||https://jossuer.net
 ||https://jotchept.com
 ||https://events.jotform.com
 ||https://tracking.jotform.com
@@ -17874,7 +17874,6 @@
 ||https://jpav.date
 ||https://jpenk.com
 ||https://jphlsnzlxdz.com
-||https://jpllzuuvku.com
 ||https://jppbyrkkgpgo.com
 ||https://jppolid-track.trackprod.integration.jppol.dk
 ||https://jprddctf.com
@@ -17899,6 +17898,7 @@
 ||https://jqsex.com
 ||https://jquerrycdn.do
 ||https://jquery-cdn.do
+||https://jquery-uim.do
 ||https://jquery-uim.download
 ||https://jqueryget.com
 ||https://jqueryserve.org
@@ -17906,7 +17906,6 @@
 ||https://jqwww.do
 ||https://jqz9.com
 ||https://jqzlmjaph.com
-||https://jractwjn.com
 ||https://zaoyx.jrchiji.cn
 ||https://jrdkc.com
 ||https://jrhaigou.com
@@ -18046,6 +18045,7 @@
 ||https://juricts.xyz
 ||https://juroudaw.com
 ||https://jursp.com
+||https://jurtym.cf
 ||https://juryintory.co
 ||https://jurysatisfy.com
 ||https://jusdq.com
@@ -18135,6 +18135,7 @@
 ||https://jybtpabickzf.com
 ||https://jyebqhel.com
 ||https://a.jyeoo.com
+||https://jyfthtacsxkbp.com
 ||https://jygdjiocmt.com
 ||https://jyhfuqoh.info
 ||https://jyhwt.cn
@@ -18160,7 +18161,6 @@
 ||https://jzmjxblwnozjyt.com
 ||https://jzn360.cn
 ||https://jzntxs.com
-||https://jzowfnqah.com
 ||https://qwe.jzpxyd.com
 ||https://jzswicjgfvtqun.com
 ||https://k-analytix.com
@@ -18199,6 +18199,7 @@
 ||https://kaishist.top
 ||https://kaitongyewu.com
 ||https://kaitoupiao.com
+||https://kaiu-marketing.com
 ||https://bdjs.kaixin100.com
 ||https://kaixin10fen.com
 ||https://kaixinjiehun.com
@@ -18218,6 +18219,7 @@
 ||https://etrader.kalahari.com
 ||https://etrader.kalahari.net
 ||https://marketing.kalahari.net
+||https://kalespurhoes.com
 ||https://kalipasindra.online
 ||https://kalmloda.com
 ||https://events.kaloo.ga
@@ -18274,6 +18276,7 @@
 ||https://kavanga.ru
 ||https://kavijaseuranta.fi
 ||https://kawinhome.com
+||https://kawmxbphaj.com
 ||https://kawo77.com
 ||https://kaxsdc.com
 ||https://kayakm.com
@@ -18298,7 +18301,6 @@
 ||https://ev.kck.st
 ||https://t.kck.st
 ||https://kcnbyecw.com
-||https://kcnjwtaj.com
 ||https://kcolbda.com
 ||https://kcooy.com
 ||https://kctag.net
@@ -18445,7 +18447,6 @@
 ||https://kiafailersov.top
 ||https://kiaokuayoutui.com
 ||https://log.kibboko.com
-||https://kiccebmlxtrze.com
 ||https://kicnse.com
 ||https://kid9.info
 ||https://kidderminstershuttle-gb.kidderminstershuttle.co.uk
@@ -18525,7 +18526,6 @@
 ||https://kjgen.com
 ||https://kjhfy.com
 ||https://kjkwrmwdyhi.com
-||https://kjlahwtvckpaci.com
 ||https://kjltxn.com
 ||https://kjlzt.cn
 ||https://kjrjvvxcg.com
@@ -18600,6 +18600,7 @@
 ||https://kngcjx.com
 ||https://kniferasatte.info
 ||https://knivestuitionconsequence.com
+||https://knjkdsrw.com
 ||https://knkgaslmisue.com
 ||https://knmscyksi.com
 ||https://knnwdyou.com
@@ -18723,7 +18724,6 @@
 ||https://up.cm.ksmobile.com
 ||https://ups.ksmobile.net
 ||https://ws.ksmobile.net
-||https://ksnbdfzjlyqmxs.com
 ||https://ksncmrkfrzkgla.com
 ||https://adx-static.ksosoft.com
 ||https://bole.shangshufang.ksosoft.com
@@ -18754,7 +18754,6 @@
 ||https://track.ktplay.com
 ||https://ktqcxbhghxp.com
 ||https://ktunions.com
-||https://ktv0311.com
 ||https://ktxtr.com
 ||https://ktyawzg.com
 ||https://ktzte.cn
@@ -18824,6 +18823,7 @@
 ||https://youxi.kugou.com
 ||https://kuguopush.com
 ||https://kuhou.com
+||https://kujpycorr.com
 ||https://kuk8.com
 ||https://kuku99.com
 ||https://go.kukudm.com
@@ -18836,6 +18836,7 @@
 ||https://kulkerbolda.com
 ||https://kumanaun.net
 ||https://kumihua.com
+||https://kumjidmumktzq.com
 ||https://ktracker.kumparan.com
 ||https://kumpulblogger.com
 ||https://kumpzfcczy.com
@@ -18888,7 +18889,6 @@
 ||https://v1.kwpewga.cn
 ||https://kwwxnzcielmpy.com
 ||https://kwzmlceez.com
-||https://kxemsltfmm.com
 ||https://kxewpz.com
 ||https://kxhie.com
 ||https://kxicxovlajgoct.com
@@ -18904,6 +18904,7 @@
 ||https://kxvuv.com
 ||https://kxxjainwdsn.com
 ||https://kyad88.com
+||https://kyelvsyayysa.com
 ||https://kymavmjnfe.com
 ||https://kymirasite.pro
 ||https://track.kyoads.com
@@ -19118,6 +19119,7 @@
 ||https://lchar.com
 ||https://lcknokgqhwnfkr.com
 ||https://lcllwonupseu.com
+||https://lcmausjvnc.com
 ||https://lcnf.pro
 ||https://lcolevwciuwj.com
 ||https://lcpcjnsu.com
@@ -19304,7 +19306,6 @@
 ||https://leserservice-tracking.de
 ||https://s1.leshi123.cc
 ||https://s2.leshi123.cc
-||https://leshigov.cn
 ||https://leshu.com
 ||https://ea.leskidunordausud.fr
 ||https://ea.lespagnedunordausud.fr
@@ -19387,8 +19388,6 @@
 ||https://lhafy.com
 ||https://lhaieyfsvi.com
 ||https://lhengilin.com
-||https://lhhxlj.com
-||https://lhjisbsegvxf.com
 ||https://lhkbqytz.com
 ||https://lhljbgevp.com
 ||https://lhs-3844b.com
@@ -19675,7 +19674,6 @@
 ||https://ljucamkqc.com
 ||https://ljvwqird.com
 ||https://lk1mft33pj2f.com
-||https://lkamujrx.com
 ||https://lkddksjgih.com
 ||https://lkhqosglqas.com
 ||https://lkiiwoxjfovcga.com
@@ -19683,7 +19681,6 @@
 ||https://lkme.cc
 ||https://lknbffkv.com
 ||https://lkqd.net
-||https://lkrojmvmxxqze.com
 ||https://lkskkssuoa.com
 ||https://lkvifcxvqkwrl.com
 ||https://ll38.com
@@ -19727,7 +19724,6 @@
 ||https://lmn-pou-win.com
 ||https://lmodr.biz
 ||https://lmsdgxbtrzvd.com
-||https://lmsdoihmsoifx.com
 ||https://lmyiwaakn.com
 ||https://aoovqo8t.stats.lncld.net
 ||https://lnctc.net
@@ -19751,7 +19747,6 @@
 ||https://lnxsrmsebsd.com
 ||https://lnyhnpwjviyn.com
 ||https://lnymd.com
-||https://lnyypjocad.com
 ||https://lnzangcha.com
 ||https://loa-traffic.com
 ||https://load44ont.online
@@ -19931,7 +19926,6 @@
 ||https://lqmohun.com
 ||https://lqpkjasgqjve.com
 ||https://lqw.me
-||https://lqxoqvqljmfyt.com
 ||https://lqydocphrf.com
 ||https://lr96.top
 ||https://lrghpuvvo.com
@@ -19944,7 +19938,6 @@
 ||https://lsawards.com
 ||https://lsckvlhhqlo.com
 ||https://nubao.lsdys.cn
-||https://lseddehpo.com
 ||https://lsfinteractive.com
 ||https://lsfjfoddezc.com
 ||https://a1.lshou.com
@@ -19952,7 +19945,6 @@
 ||https://lsper.top
 ||https://lssqxbj.cn
 ||https://news-log.lsttnews.com
-||https://lsvmpewlo.com
 ||https://lsxmg.com
 ||https://ltcprtc.com
 ||https://ltdnc.com
@@ -19988,7 +19980,6 @@
 ||https://lugansk-info.ru
 ||https://luhtb.top
 ||https://lulpolopolo.com
-||https://lulrtvfcy.com
 ||https://lulumao.com.cn
 ||https://lumatag.co.uk
 ||https://lumberamount.com
@@ -20072,6 +20063,7 @@
 ||https://lwlscy.com
 ||https://lwprdsbqpej.com
 ||https://lwsxrphion.com
+||https://lwtduavwbep.com
 ||https://lwxjg.com
 ||https://lx167.com
 ||https://lx2rv.com
@@ -20109,7 +20101,6 @@
 ||https://lydiaydi.com
 ||https://lyehemarm.club
 ||https://lygnasa.cn
-||https://lygshgj.com
 ||https://jx.lyhanda.com
 ||https://lyhandredsa.club
 ||https://lyhdream.com
@@ -20376,6 +20367,7 @@
 ||https://marchedcredulity.com
 ||https://px.marchex.io
 ||https://marchites.club
+||https://marcycoin.org
 ||https://marerajahcopied.com
 ||https://marfeel.com
 ||https://bc.marfeelcache.com
@@ -20585,7 +20577,6 @@
 ||https://mdotm.com
 ||https://mdous.com
 ||https://karma.mdpcdn.com
-||https://mdpmgoitzaotk.com
 ||https://mdpqambxvmzai.com
 ||https://mdqpfqvienzr.com
 ||https://mdsauswjligigj.com
@@ -21094,6 +21085,7 @@
 ||https://minessetion.info
 ||https://minewhat.com
 ||https://minexmr.com
+||https://mingbangzichan.com
 ||https://mingboxieye.com
 ||https://affiliates.minglematch.com
 ||https://minglongtea.cn
@@ -21102,7 +21094,6 @@
 ||https://s2.mingmingtehui.com
 ||https://mingxianshanghang.cn
 ||https://a1.mingyihui.net
-||https://mingysh.com
 ||https://mingyueqingfengshe.com
 ||https://miniatureabhor.com
 ||https://minimumkilledupdated.com
@@ -21273,6 +21264,7 @@
 ||https://mmi-agency.com
 ||https://mmismm.com
 ||https://mmissedecon.info
+||https://mmkvi.com
 ||https://mmnetwork.mobi
 ||https://mmo123.co
 ||https://mmoframes.com
@@ -21529,6 +21521,7 @@
 ||https://morgdm.ru
 ||https://morguecountryportray.com
 ||https://moritava.com
+||https://morningpiggy.com
 ||https://morningsophisticatedcenter.com
 ||https://morozhko.club
 ||https://mors22.com
@@ -21661,6 +21654,7 @@
 ||https://mreod.cn
 ||https://mrjb7hvcks.com
 ||https://mrjppjqmc.com
+||https://mrjzfzwey.com
 ||https://mrksys.com
 ||https://mrpiracy.xyz
 ||https://mrporngeek.com
@@ -21687,7 +21681,6 @@
 ||https://msgose.com
 ||https://msgs.jp
 ||https://msgtag.com
-||https://msigpurubzkm.com
 ||https://mskjf.com
 ||https://mslimitages.site
 ||https://mslimitagesmo.site
@@ -21759,7 +21752,6 @@
 ||https://geo.mtvnn.com
 ||https://mtvp05j.com
 ||https://mtxsk.com
-||https://mtzddtrs.com
 ||https://mtzszlpypbxjm.com
 ||https://mu722.com
 ||https://muagjoxfew.com
@@ -21775,7 +21767,6 @@
 ||https://mujap.com
 ||https://mujgirreveals.club
 ||https://mujilora.com
-||https://mujzsntbwzwc.com
 ||https://mukkkoi.cn
 ||https://mukqeq.cn
 ||https://mulanphone.cn
@@ -21840,7 +21831,6 @@
 ||https://eur3.mvjcdn.com
 ||https://mvtracker.com
 ||https://mwhjamwra.com
-||https://mwjpk.com
 ||https://mwor.gq
 ||https://mwslcqfoifw.com
 ||https://mwstats.net
@@ -21942,7 +21932,6 @@
 ||https://myntelligence.com
 ||https://mynunu.net
 ||https://myoffers.bid
-||https://myoffers.party
 ||https://myomnistar.com
 ||https://myopenads.com
 ||https://myornamenti.com
@@ -22208,7 +22197,6 @@
 ||https://ndapus.cn
 ||https://ndardsferv.club
 ||https://ndardsgreatm.fun
-||https://ndddttxkqyh.com
 ||https://nddmcconmqsy.ru
 ||https://ndecpynmkwqjz.com
 ||https://ndenlende.club
@@ -22262,7 +22250,6 @@
 ||https://nehodyshy.pro
 ||https://neighbetweenintrude.com
 ||https://neighborlywatch.com
-||https://l9bdhcgihw.neihanw.com
 ||https://neitherspreta.site
 ||https://target.nejm.org
 ||https://nejmqianyan.cn
@@ -22732,7 +22719,6 @@
 ||https://nnedbx.com
 ||https://nnfgfuhecdfls.com
 ||https://nnfiy.com
-||https://nngft.com
 ||https://nnmmdhpi.com
 ||https://nnna.ru
 ||https://nnnwwwe.com
@@ -22988,7 +22974,6 @@
 ||https://nteredpract.club
 ||https://ntfsformac.cc
 ||https://ntfsformac.cn
-||https://ntgygnke.com
 ||https://mas.nth.ch
 ||https://nthfds.xyz
 ||https://nthfundog.com
@@ -23089,7 +23074,6 @@
 ||https://nx93f.xyz
 ||https://nxakpj4ac8gkd53.info
 ||https://nxcxithvcoeh.com
-||https://nxh2h.cn
 ||https://bd1.nxing.cn
 ||https://nxkycx.com
 ||https://nxrhs.com
@@ -23112,6 +23096,7 @@
 ||https://nyhnx.com
 ||https://nyhpwuns.com
 ||https://nyhpyq.com
+||https://nyibqkuhqdz.com
 ||https://nykps.com
 ||https://nylalobghyhirgh.com
 ||https://nyltx.com
@@ -23190,6 +23175,7 @@
 ||https://obahet.com
 ||https://obaukads.com
 ||https://obefjbb4mykw.com
+||https://obeip.com
 ||https://obeus.com
 ||https://obeyter.com
 ||https://obfkwtiwavn.com
@@ -23342,7 +23328,6 @@
 ||https://ojrq.net
 ||https://ojues.com
 ||https://ojwd63thskiz.com
-||https://ojwgkxcgdhvacc.com
 ||https://counter.ok.ee
 ||https://connect.ok.ru
 ||https://ok365.com
@@ -23365,6 +23350,7 @@
 ||https://oktpage.com
 ||https://okueroskynt.com
 ||https://okuis.com
+||https://okvidihqc.com
 ||https://okvtmvrmha.com
 ||https://okwan.cn
 ||https://okwfx.cn
@@ -23434,6 +23420,7 @@
 ||https://omtvxcle.com
 ||https://omymicrossmuc.info
 ||https://omynews.net
+||https://omztf.cn
 ||https://omzwbcsev.com
 ||https://on-line.lv
 ||https://on-push.com
@@ -23604,6 +23591,7 @@
 ||https://openhit.com
 ||https://g-stats.openhost.es
 ||https://openinstall.io
+||https://openkatalog.com
 ||https://openlog.in
 ||https://openmindedisabella.com
 ||https://ad.openmultimedia.biz
@@ -23996,6 +23984,7 @@
 ||https://p9oqu.com
 ||https://pa-oa.com
 ||https://paads.dk
+||https://paakkisuvs.com
 ||https://pababy.cn
 ||https://pabhagivene.site
 ||https://tracking.pacharge.com
@@ -24120,6 +24109,7 @@
 ||https://paragraphcheesymove.com
 ||https://parallelsdesktop.cn
 ||https://parameter.dk
+||https://parametre.online
 ||https://paranoiseras.site
 ||https://paranoiseras.website
 ||https://paraterinchest.site
@@ -24225,7 +24215,6 @@
 ||https://pbcde.com
 ||https://pbino.com
 ||https://pbkhlczs.com
-||https://pbofytmakvye.com
 ||https://pbstck.com
 ||https://pbterra.com
 ||https://pbtxt.win
@@ -24271,7 +24260,6 @@
 ||https://33.pcpop.com
 ||https://ashow.pcpop.com
 ||https://count.pcpop.com
-||https://pcrhfkuwp.com
 ||https://pcskkmgjnubi.com
 ||https://pcspeedup.com
 ||https://uuu.pctowap.com
@@ -24413,6 +24401,7 @@
 ||https://perspoolothe.fun
 ||https://perstago.pro
 ||https://pertholin.com
+||https://pertosj.ru
 ||https://pertycleaner.site
 ||https://peruse.ai
 ||https://perymiynf.com
@@ -24438,9 +24427,11 @@
 ||https://pffw8mgd.com
 ||https://pflexads.com
 ||https://pfmmqofcadze.com
+||https://pfpkzjwi.com
 ||https://pfvgazngauezhk.com
 ||https://pfyalardueu.com
 ||https://pg88cdn.com
+||https://pgdhapctt.com
 ||https://pgeejqisao.com
 ||https://sf1-be-pack.pglstatp-toutiao.com
 ||https://sf3-be-pack.pglstatp-toutiao.com
@@ -24551,6 +24542,7 @@
 ||https://pictela.net
 ||https://picturesdeepertwinkle.com
 ||https://pictureturn.com
+||https://picznhen.com
 ||https://pie.net.pk
 ||https://pieaa.com
 ||https://piecesskoj.club
@@ -24831,7 +24823,6 @@
 ||https://pntrac.com
 ||https://pntrs.com
 ||https://pnxs.com
-||https://pnzamawzgw.com
 ||https://poagroul.com
 ||https://pobliba.info
 ||https://pocitadlo.cz
@@ -25393,7 +25384,6 @@
 ||https://psoaksoo.com
 ||https://psoanouy.net
 ||https://psoapeez.click
-||https://psonstrentie.info
 ||https://psoomeeg.com
 ||https://psoptopi.com
 ||https://psoultar.net
@@ -25409,7 +25399,6 @@
 ||https://trk.pswec.com
 ||https://a.psxxw.cn
 ||https://psychologicaltotalnumeric.com
-||https://psychomining.de
 ||https://psylefywha.pro
 ||https://scripts.psyma.com
 ||https://psywed.com
@@ -25523,7 +25512,6 @@
 ||https://puffypurpose.com
 ||https://puhtml.com
 ||https://pukrazopchatka.com
-||https://puktazxh.com
 ||https://pulleymarketing.com
 ||https://pulpix.com
 ||https://pulpsbarndomed.com
@@ -25740,7 +25728,6 @@
 ||https://pyxjwks.com
 ||https://pyzhtj.com
 ||https://pyzjhd.com
-||https://pyzkbxspoon.com
 ||https://pyzkk.com
 ||https://pz7zrn0xxgyg.com
 ||https://t.pzclw.cn
@@ -25750,7 +25737,6 @@
 ||https://pzpvvmcnq.com
 ||https://pzrj6.top
 ||https://pztcyvdibslx.com
-||https://pzuth.cn
 ||https://pzvlnh.cn
 ||https://pzwsredntjhcwy.com
 ||https://pzz.events
@@ -25779,7 +25765,6 @@
 ||https://qadservice.com
 ||https://qaggfomwjko.com
 ||https://qagkaxrj.com
-||https://qagnufdwht.com
 ||https://qajypx.com
 ||https://qamwplzcvq.com
 ||https://qaqact.cn
@@ -25792,6 +25777,7 @@
 ||https://dig.qbao.com
 ||https://cp.qbaobei.com
 ||https://qbbnixdd.com
+||https://qbczpo.cn
 ||https://qbddhjrwe.com
 ||https://qbdgame.com
 ||https://qbeoyasaiz.com
@@ -25886,6 +25872,7 @@
 ||https://qiaepasvtp.com
 ||https://qiailm.com
 ||https://qianfuyin.com
+||https://s.qiangger.pw
 ||https://qianggou8.top
 ||https://download.qianka.com
 ||https://m.qianka.com
@@ -26035,6 +26022,7 @@
 ||https://qlonglong.com
 ||https://qlssbq.cn
 ||https://qlzn6i1l.com
+||https://qlzwfzfatjth.ru
 ||https://myunion1.qm120.com
 ||https://qmhigtmwikvzin.com
 ||https://qmin.xin
@@ -26057,11 +26045,11 @@
 ||https://qnnawbvdyuql.com
 ||https://advertisement.glb.qnniu.com
 ||https://qnpov.cn
+||https://qnprzxurkv.com
 ||https://qnsr.com
 ||https://qnvih8.cn
 ||https://qnvljz.info
 ||https://qnwjhpingotrmc.com
-||https://qnxqhrww.com
 ||https://qo26.com
 ||https://qoijertneio.com
 ||https://qoiusky.com
@@ -26193,7 +26181,6 @@
 ||https://qucaigg.com
 ||https://qucco.cn
 ||https://qudaoweiwang.com
-||https://n.qudwrj.cn
 ||https://queene.cn
 ||https://quensillo.com
 ||https://queqh.com
@@ -26260,7 +26247,6 @@
 ||https://qwertytracks.com
 ||https://qwesgwg.cn
 ||https://qwfknhc.cn
-||https://qwkiafssml.com
 ||https://qwlltztcbwif.com
 ||https://qwvajuyccl.com
 ||https://qwvv.com
@@ -26277,6 +26263,7 @@
 ||https://feedback.qy.net
 ||https://msg.qy.net
 ||https://msgv6.qy.net
+||https://qybzvfvqzpmxpu.com
 ||https://qycjrkfzx.com
 ||https://qyctj.com
 ||https://qydhjirz.com
@@ -26285,6 +26272,7 @@
 ||https://qyixifzol.com
 ||https://qylxeorawht.com
 ||https://qyqc4s.com
+||https://qysyyg.com
 ||https://qyttl.cn
 ||https://qytyf.com
 ||https://unionch.qyule.com
@@ -26374,6 +26362,7 @@
 ||https://raisingglisten.com
 ||https://raivikod.net
 ||https://rakamu.com
+||https://rakdtijwj.com
 ||https://affiliate.rakuten.co.jp
 ||https://count.upc.rakuten.co.jp
 ||https://rat.rakuten.co.jp
@@ -26481,6 +26470,7 @@
 ||https://rcogzcsan.com
 ||https://rcsmetrics.it
 ||https://stats.rcsobjects.it
+||https://rcudacimrqdlk.com
 ||https://rcurn.com
 ||https://rcvhzfcnja.com
 ||https://rcvlink.com
@@ -26496,7 +26486,6 @@
 ||https://rdingsalm.club
 ||https://rditatehapp.top
 ||https://rdiul.com
-||https://rdoudrenv.com
 ||https://rdrceting.com
 ||https://rdrcgrpsakrtn.com
 ||https://rdrtrk.com
@@ -26961,6 +26950,7 @@
 ||https://rfihub.net
 ||https://rfity.com
 ||https://rfksrv.com
+||https://rfmbvlaphdud.com
 ||https://rfmdtsiekds.com
 ||https://rfr-69.com
 ||https://rgcblgor.com
@@ -27044,6 +27034,7 @@
 ||https://tdf.ringier.ch
 ||https://stat.ringier.sk
 ||https://ringplayground.com
+||https://ringsnutdaze.com
 ||https://ringtonepartner.com
 ||https://rinsouxy.com
 ||https://rintellsfundrew.info
@@ -27362,7 +27353,6 @@
 ||https://ruanwenclub.com
 ||https://rubanners.com
 ||https://rubcomplaintdimly.com
-||https://rubfwmlm.com
 ||https://rubiconproject.com
 ||https://rubicwithias.club
 ||https://get.rubyroyal.com
@@ -27434,7 +27424,6 @@
 ||https://rvttrack.com
 ||https://rvwhtjxnn.com
 ||https://rvwtpwmtnfj.com
-||https://rvyvkjqffmdp.com
 ||https://m.rwganw.cn
 ||https://rwindomdec.fun
 ||https://rwjfs.com
@@ -27444,7 +27433,6 @@
 ||https://rwrqmqyhfn.com
 ||https://rwyprejibmvcfh.com
 ||https://rx616.cn
-||https://rxavnjqxvszrz.com
 ||https://rxconkz.cn
 ||https://rxsptuki.com
 ||https://rxthdr.com
@@ -27645,6 +27633,7 @@
 ||https://sapwells.info
 ||https://saqthneauq.com
 ||https://sarcasticlinezomby.com
+||https://sardfereose.com
 ||https://sare25.com
 ||https://saredithere.club
 ||https://eulerian.sarenza.com
@@ -27663,6 +27652,7 @@
 ||https://satisfactoryviolin.com
 ||https://satisfycork.com
 ||https://satismeter.com
+||https://delivery.satr.jp
 ||https://satrod.cn
 ||https://saturalerdax.site
 ||https://saturalolk.club
@@ -27696,6 +27686,7 @@
 ||https://sbenx.com
 ||https://sbfsdvc.com
 ||https://sbgsodufuosmmvsdf.info
+||https://sbhmn-miner.com
 ||https://m.sbief.com
 ||https://sbietlbug.com
 ||https://sbinx.com
@@ -27711,6 +27702,7 @@
 ||https://sc-static.net
 ||https://j.sc1369.com
 ||https://wpan.sc2yun.com
+||https://scahqyriepu.com
 ||https://scalaproject.io
 ||https://scaledb.com
 ||https://scalewalkrequests.com
@@ -27797,6 +27789,7 @@
 ||https://scswlgxttvekd.com
 ||https://scswuliu.com
 ||https://sp.sctimes.com
+||https://scudspulsedrail.com
 ||https://sculifinanthools.site
 ||https://scund.com
 ||https://scupio.com
@@ -27969,6 +27962,7 @@
 ||https://segment.com
 ||https://segment.io
 ||https://segmentify.com
+||https://segs.jp
 ||https://sehiba.com
 ||https://usage.seibert-media.io
 ||https://seislational.club
@@ -28144,6 +28138,7 @@
 ||https://sexystat.com
 ||https://fimg-resp.seznam.cz
 ||https://sezvc.com
+||https://tracking.sezzle.com
 ||https://dbap.sf058.cn
 ||https://sf14g.com
 ||https://sf9yvla26s5t.com
@@ -28181,7 +28176,6 @@
 ||https://sgswuesocfr.com
 ||https://sguac.com
 ||https://sgutelyg.com
-||https://sgxaqysyilwkiu.com
 ||https://sgyebd.com
 ||https://sgzs999.com
 ||https://sgzzlojrhivs.com
@@ -28666,6 +28660,7 @@
 ||https://singulariserai.website
 ||https://sinisterdinepuberty.com
 ||https://sinmufar.com
+||https://sino-seve.com
 ||https://informers.sinoptik.ua
 ||https://ad.sinovision.net
 ||https://adsys.sinovision.net
@@ -28918,6 +28913,7 @@
 ||https://rs.smc.tf
 ||https://smct.co
 ||https://trx.smdatalabs.com
+||https://smectapop12.pl
 ||https://smenqskfmpfxnb.bid
 ||https://smf82.cn
 ||https://smgru.net
@@ -29370,6 +29366,7 @@
 ||https://spectato.com
 ||https://spectram.pro
 ||https://specularpro.site
+||https://spedhowusing.com
 ||https://speeb.com
 ||https://speechmomentarily.com
 ||https://speed-trap.com
@@ -29506,7 +29503,6 @@
 ||https://sqkrzzggis.com
 ||https://sqpgncbm.com
 ||https://reports-api.sqreen.io
-||https://sqrmweiehtpwp.com
 ||https://cookierulez.sqrt64.it
 ||https://sqszs.top
 ||https://sqtr1v.com
@@ -29870,7 +29866,6 @@
 ||https://strychninique.site
 ||https://stsunfulnoth.top
 ||https://stsywl.com
-||https://studentloan.host
 ||https://data.studybreakmedia.com
 ||https://gdpr.studybreakmedia.com
 ||https://omniture.stuff.co.nz
@@ -29973,7 +29968,6 @@
 ||https://creatives.sunmedia.tv
 ||https://track.sunmedia.tv
 ||https://sunnimiq.cf
-||https://sunnimiq1.cf
 ||https://sunnimiq3.cf
 ||https://sunnimiq4.cf
 ||https://sunnimiq5.cf
@@ -30043,6 +30037,7 @@
 ||https://surgeprice.com
 ||https://surgermystem.site
 ||https://surgicalexpectingdecisive.com
+||https://surquvsx.com
 ||https://surreycomet-gb.surreycomet.co.uk
 ||https://surroundtm.com
 ||https://surveywall-api.survata.com
@@ -30263,6 +30258,7 @@
 ||https://szrk3.com
 ||https://szshouzhai.com
 ||https://sztbjs.com
+||https://szuzlcmoak.com
 ||https://szvr.com
 ||https://szwsesc.cn
 ||https://szwzjk.cn
@@ -30344,7 +30340,6 @@
 ||https://tailtarget.com
 ||https://tainiesonline.pw
 ||https://tainiesonline.st
-||https://tainiesonline.stream
 ||https://taiphaib.net
 ||https://taisi666.top
 ||https://tajxgs.com
@@ -30449,6 +30444,7 @@
 ||https://taotianran.cn
 ||https://taotu001.com
 ||https://taou.cn
+||https://taowjygwtm.com
 ||https://taoyuay.top
 ||https://taozgpkjzpdtgr.com
 ||https://tapad.com
@@ -30511,6 +30507,7 @@
 ||https://tawk.to
 ||https://taxel.jp
 ||https://stats.tazeros.com
+||https://tazm9p7tso.trade
 ||https://tbaffiliate.com
 ||https://tbaia.com
 ||https://tbaocdn.com
@@ -30657,6 +30654,7 @@
 ||https://tel-tel-fie.com
 ||https://stats.teledyski.info
 ||https://stats.sec.telefonica.com
+||https://telegramspun.com
 ||https://analytics.eip.telegraph.co.uk
 ||https://gcpdata.telegraph.co.uk
 ||https://web-track.telekom-dienste.de
@@ -30703,7 +30701,6 @@
 ||https://tendertest.com
 ||https://tengyuncloud.cn
 ||https://tenh2.cn
-||https://tenlokif.com
 ||https://tenmax.io
 ||https://sp.tennessean.com
 ||https://tenoad.com
@@ -31170,7 +31167,6 @@
 ||https://tizernet.com
 ||https://tiznmktqel.com
 ||https://tj-cmys.com
-||https://shj.tjawst.com
 ||https://tjec.gov.cn
 ||https://tjgxzs.com
 ||https://tjhhr.com
@@ -31192,7 +31188,6 @@
 ||https://tkmdng.cn
 ||https://tkmly.cn
 ||https://tkqlhce.com
-||https://tkroqotredk.com
 ||https://tkshyp.com
 ||https://tkssw.com
 ||https://tl2go.com
@@ -31248,6 +31243,7 @@
 ||https://tns-cs.net
 ||https://tns-gallup.dk
 ||https://tns-sifo.se
+||https://tnxiuvjtplhhdy.com
 ||https://to-yes.com
 ||https://to8to.com
 ||https://toagluji.com
@@ -31829,7 +31825,6 @@
 ||https://tspops.com
 ||https://tsrc8.com
 ||https://tst14netreal.com
-||https://msttz.tst98.com
 ||https://tstobkl.pro
 ||https://tstrokenga.info
 ||https://tsundedhimse.fun
@@ -31849,7 +31844,6 @@
 ||https://ttbc33.com
 ||https://ttcdn.cn
 ||https://ttdbj.com
-||https://ttfgames.cn
 ||https://ttgazjzsdotiy.com
 ||https://ttgikcpmkpul.com
 ||https://ttgmjfgldgv9ed10.com
@@ -32074,6 +32068,7 @@
 ||https://8nc8shot.txxx.com
 ||https://txzs168.net
 ||https://ty229.com
+||https://tyborlawlkz.com
 ||https://photo.tycwpx.cn
 ||https://tyh887.com
 ||https://tyhjwjg.cn
@@ -32250,6 +32245,7 @@
 ||https://uektb.com
 ||https://uel-uel-fie.com
 ||https://uelllwrite.com
+||https://ueopjincquazoo.com
 ||https://uerzyr.cn
 ||https://uesdpbrej.com
 ||https://uessentent.fun
@@ -32280,7 +32276,6 @@
 ||https://ugqdykbxe.com
 ||https://ugrastes.uk
 ||https://ugvip.com
-||https://ugyuyuccjgrtht.com
 ||https://uh9qulew9rjj.com
 ||https://uhbixtfhwdtmd.com
 ||https://uhedsplo.com
@@ -32329,6 +32324,7 @@
 ||https://ukbanners.com
 ||https://ukcomparends.pro
 ||https://ukdzmuvtelq.com
+||https://ukeiae.com
 ||https://ukfpgaeihxamg.com
 ||https://ukqevyhhs.com
 ||https://counter.ukr.net
@@ -32525,6 +32521,7 @@
 ||https://uoredi.com
 ||https://uowpygtwql.com
 ||https://uoyrsd.com
+||https://uozfvskaqrgm.com
 ||https://iutr.uozwys.top
 ||https://up-rank.com
 ||https://upads.info
@@ -32576,6 +32573,7 @@
 ||https://uqelijcu.com
 ||https://uqidian.com
 ||https://uqie4nzy.com
+||https://uqsoxvwffpkrt.com
 ||https://uqyatperdvczfw.com
 ||https://uralweb.ru
 ||https://stats.urban-media.com
@@ -32762,6 +32760,7 @@
 ||https://uvscqwzysqm.com
 ||https://e.uw45o.cn
 ||https://m.uw45o.cn
+||https://uw9377.com
 ||https://uwdtibwk.com
 ||https://uwehcnmbnfr.com
 ||https://uwmoghx.cn
@@ -32890,6 +32889,7 @@
 ||https://vbcmgmhfoj.com
 ||https://vbdeos.cn
 ||https://vbds84p3ct02.com
+||https://vbebblpht.com
 ||https://vbhfrdqskvcvxj.com
 ||https://vbieu.com
 ||https://m.vbinr.com
@@ -32920,6 +32920,7 @@
 ||https://vcvefwzdxhysh.com
 ||https://vcwrigdrnh.com
 ||https://vdains.info
+||https://vdazz.net
 ||https://vdcfes.cn
 ||https://vdhufs.com
 ||https://log.vdisk.cn
@@ -32932,7 +32933,6 @@
 ||https://vdopia.com
 ||https://vdrmwfdtn.com
 ||https://ve001nz.com
-||https://ve6j.cn
 ||https://vebadu.com
 ||https://vectorstock.com
 ||https://vedcouragin.info
@@ -33066,6 +33066,7 @@
 ||https://viatepigan.com
 ||https://viaxmr.com
 ||https://wssgmstats.vibbo.com
+||https://tagtracking.vibescm.com
 ||https://vibrant.co
 ||https://vibrantmedia.com
 ||https://advice-ads-cdn.vice.com
@@ -33300,7 +33301,6 @@
 ||https://vmraahnmspzy.com
 ||https://vmtjybwfb.com
 ||https://vmzqwz.cn
-||https://vn543.com
 ||https://vn6e8w2w92.com
 ||https://vnanf.com
 ||https://vnbugnmwq.com
@@ -33457,6 +33457,7 @@
 ||https://vuhaupso.net
 ||https://vujhqcemrpqj.com
 ||https://vukhhjzd.com
+||https://vulbyhxsrxcdgo.com
 ||https://vulging.pro
 ||https://stats.vulture.com
 ||https://vulturechinamaternity.com
@@ -33469,6 +33470,7 @@
 ||https://vuwcudzzyxn.com
 ||https://vvbvubdvfzihb.com
 ||https://vvczvfrbtwrvs.com
+||https://vvjlrhuzmhzlws.com
 ||https://vvlian.com
 ||https://vvnmwfnpkat.com
 ||https://vvnna.com
@@ -33479,6 +33481,7 @@
 ||https://vwb4p.cn
 ||https://vweit.com
 ||https://vwuyuahqf.com
+||https://vwvnounnfteusv.com
 ||https://vwws6.net
 ||https://vwxgxculdbybw.com
 ||https://vxkfvzhduws.com
@@ -33491,6 +33494,7 @@
 ||https://vz71j.cn
 ||https://vzcljugmtuno.com
 ||https://vzjjglrnira.com
+||https://vzkdyladanuudb.com
 ||https://vznntmjdb.com
 ||https://vzsuiuamhuozw.com
 ||https://vzvpswkjpxvzs.com
@@ -33917,6 +33921,7 @@
 ||https://weekhostedmoo.com
 ||https://weeklideals.com
 ||https://weekslw.com
+||https://weepjoejkqadi.com
 ||https://weesschoollecthurri.info
 ||https://weethery.com
 ||https://wegetpaid.net
@@ -34043,7 +34048,6 @@
 ||https://wgpsethooknqv.com
 ||https://wgpsjcpdulptl.com
 ||https://wgqakonrahgprc.com
-||https://wgqirxevoh.com
 ||https://wgrjizeaimbxx.com
 ||https://wgsas.com
 ||https://wgwguxqij.com
@@ -34254,6 +34258,7 @@
 ||https://wiwapaxo.xyz
 ||https://orts.wixawin.com
 ||https://wiyun.com
+||https://wiywlvkwwwrms.com
 ||https://t.wizaly.com
 ||https://wizardssqueakcontractor.com
 ||https://wizhumpgyros.com
@@ -34268,6 +34273,7 @@
 ||https://wjkavtihubprn.com
 ||https://wjnpxk.com
 ||https://wjpaspdktadog.com
+||https://wjuowevxibmg.com
 ||https://wjxcdn.com
 ||https://wjyljl.cn
 ||https://count.wk2.com
@@ -34290,6 +34296,7 @@
 ||https://tongji.wlongchina.com
 ||https://tracking.wlscripts.net
 ||https://wlshotel.cn
+||https://wlwootzzijp.com
 ||https://wlzdghlzjewbwv.com
 ||https://wm-abms.com
 ||https://wma.io
@@ -34307,7 +34314,6 @@
 ||https://wndhsykmbe.com
 ||https://wndj.net
 ||https://wndlkj.com
-||https://wndwhzjmfshthv.com
 ||https://wnfjzjmc.com
 ||https://wnhzlesdqzu.com
 ||https://wnlhbehajh.com
@@ -34628,6 +34634,7 @@
 ||https://wuwaii.com
 ||https://wuwho.cn
 ||https://wuxinb.com
+||https://wuyanauto.com
 ||https://wuyekanba.com
 ||https://wuylp.com
 ||https://cdn.wuyou.ca
@@ -34638,6 +34645,7 @@
 ||https://wvesvozyuoxg.com
 ||https://x.wvez.cn
 ||https://wvfgiio.cn
+||https://wvgrpwdaol.bid
 ||https://wvhsouzoan.com
 ||https://wvs3bmct6mkz.com
 ||https://wvver.com
@@ -34704,7 +34712,6 @@
 ||https://wysyshypti.pro
 ||https://wyttech.cn
 ||https://wyunion.com
-||https://wyvyikcnalvil.com
 ||https://wywna.cn
 ||https://wywsdx.com
 ||https://wywy.com
@@ -34721,13 +34728,13 @@
 ||https://wziftlp.com
 ||https://wzjijia.com
 ||https://wzn4.cn
+||https://wznupnxp.com
 ||https://lm1.wzpcw.com
 ||https://wzrk.co
 ||https://wzrkt.com
 ||https://wzry5.cn
 ||https://wzsygdl.com
 ||https://wzuyzy.com
-||https://wzwetfprojnyx.com
 ||https://wzxdsgnqpnu.com
 ||https://wzyywlkj.com
 ||https://wzzrquhn.com
@@ -34795,7 +34802,6 @@
 ||https://xbaulknerte.club
 ||https://xbcnvj2mdk1dn1.com
 ||https://xberu.com
-||https://xbfuorhxpa.com
 ||https://click.engage.xbox.com
 ||https://expbl2ro.xbox.com
 ||https://xbrfevoe.com
@@ -34834,6 +34840,7 @@
 ||https://xcounter.ch
 ||https://news.xcpi.cn
 ||https://xcqdw.pw
+||https://xcqgkkccjjucf.com
 ||https://xcsaz.com
 ||https://xcvf.info
 ||https://xcvgdf.party
@@ -35268,6 +35275,7 @@
 ||https://xnghmc.com
 ||https://xnhchuvtoqk.com
 ||https://pupu.xnhh120.com
+||https://xnigsnplwbox.com
 ||https://jebe.xnimg.cn
 ||https://xnjpg.com
 ||https://xnjzsn.com
@@ -35332,7 +35340,6 @@
 ||https://xroun.com
 ||https://xrpva.cn
 ||https://xrqrpdxqpm.com
-||https://xrsfwclojycu.com
 ||https://xrtzf.com
 ||https://m.xs222.com
 ||https://webstatistieken.xs4all.nl
@@ -35402,6 +35409,7 @@
 ||https://xueyanshan.com
 ||https://xueyongbao.com
 ||https://a.xuezizhai.com
+||https://xugsh.cn
 ||https://xujx8.com
 ||https://xulekeji.com
 ||https://xulizui6.com
@@ -35443,6 +35451,7 @@
 ||https://xvcmsfoeheu.com
 ||https://xvideosharing.site
 ||https://xvika.com
+||https://xvlkfkjl.com
 ||https://xvnfyutv.com
 ||https://xvomqsoivtiaxh.com
 ||https://xvtpvc.cn
@@ -35452,6 +35461,7 @@
 ||https://cache.xw126.com
 ||https://xwdsp.com
 ||https://wx.xwjqr.com
+||https://xwoexbipp.com
 ||https://xwprdjbayq.com
 ||https://cc.xwscg.com
 ||https://xwuad.com
@@ -35512,8 +35522,10 @@
 ||https://xyadyzpsb.com
 ||https://xycnz.com
 ||https://xycnzz.com
+||https://xygediwe.xyz
 ||https://app.xyjqy.com
 ||https://xylmdm.top
+||https://xymtglljft.com
 ||https://xyqptm.com
 ||https://xyqxr.com
 ||https://xyrhd.com
@@ -35774,6 +35786,7 @@
 ||https://yeaonesad.com
 ||https://yebadu.com
 ||https://yebpettlkcqm.com
+||https://yecxfxsbkb.com
 ||https://yee.js.cn
 ||https://yeegsxcwbnn.com
 ||https://yeeok.com.cn
@@ -36017,7 +36030,6 @@
 ||https://yjkyj.cn
 ||https://yjnqrbfnocy.com
 ||https://yjoiunf.com
-||https://yjoldnbcw.com
 ||https://yjpwmybjkg.com
 ||https://yjqiqi.com
 ||https://yjtag.jp
@@ -36113,6 +36125,7 @@
 ||https://yobthmvxwedkkg.com
 ||https://yoc-adserver.com
 ||https://yodr.net
+||https://yodyfofkb.com
 ||https://yofoto.ltd
 ||https://yogascaldhighjack.com
 ||https://gjr5.yoigo.com
@@ -36383,6 +36396,7 @@
 ||https://a1.yuuedu.com
 ||https://yuunion.com
 ||https://mps.yuwenba.cn
+||https://yuwxounw.com
 ||https://yuxiangrc.com
 ||https://yuxiny.com
 ||https://yuxyz.com
@@ -36432,7 +36446,6 @@
 ||https://yxcpm.com
 ||https://gg.yxdown.com
 ||https://ggr.yxdown.com
-||https://yxdwsuppvt.com
 ||https://yxdyk.com
 ||https://yxfxhkbrwzww.com
 ||https://yxgfcj.com
@@ -36465,6 +36478,7 @@
 ||https://yyeks.com
 ||https://yyhqch.com
 ||https://yyivakszwh.com
+||https://yyjhf.com
 ||https://yyjj.xyz
 ||https://yyjvimo.com
 ||https://yylys.com
@@ -36517,6 +36531,7 @@
 ||https://z97g.cn
 ||https://za5.net
 ||https://ld.za9mnx.com
+||https://zabxb.com
 ||https://zadhuigxoeztzo.com
 ||https://zaehler.tv
 ||https://zaentjfu.com
@@ -36733,6 +36748,7 @@
 ||https://zhekoudajie.com
 ||https://cdnlog.zhenai.com
 ||https://mh1.zhengdongwuye.cn
+||https://zhengjsmd.cn
 ||https://zhengyejixie.com
 ||https://zhengzhoupengbo.com
 ||https://zhenhun.co
@@ -36853,6 +36869,7 @@
 ||https://zisboombah.net
 ||https://zisunion.com
 ||https://zitaoh.cn
+||https://zivbxion.ru
 ||https://ha.zixuekaoshi.net
 ||https://zixun8.com
 ||https://s.zixuntop.com
@@ -36898,6 +36915,7 @@
 ||https://zlbkj.com
 ||https://zlddifyo.com
 ||https://aa.zldh123.com
+||https://zlfgedpuxrbpgm.com
 ||https://zlfhe8.cn
 ||https://zlfzeuvk.com
 ||https://go.util.zlibs.com
@@ -36929,6 +36947,7 @@
 ||https://znaptag.com
 ||https://znicvrdirncxq.com
 ||https://znlgplt.com
+||https://znmdscnynybx.com
 ||https://znnzwdgu.com
 ||https://znxblom.cn
 ||https://znxvuabzgm.com
@@ -37060,13 +37079,11 @@
 ||https://zszgjiejuw.mobi
 ||https://zt2088.com
 ||https://ztcadx.com
-||https://ztdfsxgcyprwvp.com
 ||https://ztdsp.com
 ||https://ztexhfznxvpr.com
 ||https://ztgame.com
 ||https://ztidu.com
 ||https://ztpqbrzjp.com
-||https://ztsletmncez.com
 ||https://ztsrv.com
 ||https://ztvx8.com
 ||https://ztxbd.com
@@ -37106,6 +37123,7 @@
 ||https://zuzab.com
 ||https://zvkytbjimbhk.com
 ||https://zvmldjxh.com
+||https://zvmprcnihkk.com
 ||https://zvtbdwziyxh.com
 ||https://zvxncxzgihb.com
 ||https://zwaar.org
@@ -37115,7 +37133,6 @@
 ||https://uzixia.zwdu.com
 ||https://zwenhan.com
 ||https://zwhkug.cn
-||https://zwigjtgnzfn.com
 ||https://zwkssb.com
 ||https://zwmunz.com
 ||https://zwwbvpwd.com

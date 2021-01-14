@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: mUrJSKeM2jPejClUywwiGw
-! Version: 202101130023
+! Checksum: Y5UvOQfegjqYqZ/+IdcKVw
+! Version: 202101140032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -2493,6 +2493,7 @@
 ||https://ghoffice.com/bbs/js/float.js
 ||https://ghost580.com/js/nei4.js
 ||https://gk99.com/static/js/a-d-sys.js
+||https://gllmh.com/style/js/gll
 ||https://glzy8.com/img/ceo/js.js
 ||https://gmbbk.com/bbsgmbbk/
 ||https://gmbbk.com/fb.js
@@ -3088,6 +3089,7 @@
 ||https://kuaihou.com/c/shuoming.js
 ||https://kuaihou.com/c/you1.js
 ||https://kuaihou.com/js/new/xiazai
+||https://kuaishouba.com/themes/default/images/*.gif
 ||https://kukan5.com/ad
 ||https://kukan5.com/indexxzad.jpg
 ||https://kwflvcdn.000dn.com^*.flv
@@ -4879,8 +4881,6 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
-||https://kuaishouba.com/themes/default/images/*.gif
-||https://gllmh.com/style/js/gll
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -5067,8 +5067,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
-||http://govjiangsu.cn^
-||http://govbeijing.cn^
+||http://iwwacgx.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -6092,8 +6091,10 @@
 ||http://gouhei.top^
 ||http://gouweida.cn^
 ||http://gouzhibao.cn^
+||http://govbeijing.cn^
 ||http://govgift.com^
 ||http://govhunan.cn^
+||http://govjiangsu.cn^
 ||http://gowin01.com^
 ||http://gowinxp.com^$third-party
 ||http://gqswg.com^
@@ -9837,6 +9838,7 @@
 ||http://ghoffice.com/bbs/js/float.js
 ||http://ghost580.com/js/nei4.js
 ||http://gk99.com/static/js/a-d-sys.js
+||http://gllmh.com/style/js/gll
 ||http://glzy8.com/img/ceo/js.js
 ||http://gmbbk.com/bbsgmbbk/
 ||http://gmbbk.com/fb.js
@@ -10511,6 +10513,7 @@
 ||http://kuaihou.com/c/shuoming.js
 ||http://kuaihou.com/c/you1.js
 ||http://kuaihou.com/js/new/xiazai
+||http://kuaishouba.com/themes/default/images/*.gif
 ||http://kuaizhan.com^$domain=bingdou.net|ppx116.com|yaoshe67.com|yuese46.com
 ||http://kukan5.com/ad
 ||http://kukan5.com/indexxzad.jpg
@@ -12478,8 +12481,6 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
-||http://kuaishouba.com/themes/default/images/*.gif
-||http://gllmh.com/style/js/gll
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13333,8 +13334,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://gongxifacai21.top^
-||http://wenjianzhongxin.com^*.gif
+||http://9weg7b.com^
+||http://iibahmd.cn^
+||http://daylskg.cn^
+||http://weinin99.cn^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -14133,6 +14136,7 @@
 ||http://gnncc.cc^
 ||http://gobali.cn^
 ||http://gongfanglong.cn^
+||http://gongxifacai21.top^
 ||http://goodkee.cn^
 ||http://goodwold.top^
 ||http://googlespider1.cn^
@@ -15269,6 +15273,7 @@
 ||http://weiziqiang.top^
 ||http://welted.cn^
 ||http://wenbangsh.com.cn^
+||http://wenjianzhongxin.com^*.gif
 ||http://wenlang.com^$third-party
 ||http://wenzhougy.cn^
 ||http://wervp.com^
@@ -15732,8 +15737,10 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://baidu.com##.fengchao-wrap-feed
-https://kuaishouba.com##.index_adbox
+https://yy90.cn##.bottom_fixed
+https://bmlink.com##.Tg_gg
+https://bmlink.com##.tg
+https://huya.com#?##J_spbg:-abp-has(> .J_hot > .drag-elem[data-href*=".360.cn"])
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -18138,6 +18145,7 @@ https://firefoxchina.cn##.feed-tm11
 https://kalvin.cn##.fell_advertisement_box
 https://ytbbs.com##.fend_ad
 https://baidu.com##.fengchao-wrap
+https://baidu.com##.fengchao-wrap-feed
 https://home.ifeng.com##.fengjc02
 https://hao.360.cn##.festival_snatch
 https://firefoxchina.cn##.ff-banner
@@ -18505,6 +18513,7 @@ https://ithome.com##.indexV2 > div > a
 https://hacpai.com##.index__ad
 https://hqdoor.com##.index_ad2
 https://1fzw.com##.index_ad_top_wz
+https://kuaishouba.com##.index_adbox
 https://mitbbs.ca,mitbbs.com##.index_add
 https://76xh.com##.index_advertising
 https://76xh.com##.index_advertising02
@@ -21134,8 +21143,10 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://baidu.com##.fengchao-wrap-feed
-http://kuaishouba.com##.index_adbox
+http://yy90.cn##.bottom_fixed
+http://bmlink.com##.Tg_gg
+http://bmlink.com##.tg
+http://huya.com#?##J_spbg:-abp-has(> .J_hot > .drag-elem[data-href*=".360.cn"])
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23540,6 +23551,7 @@ http://firefoxchina.cn##.feed-tm11
 http://kalvin.cn##.fell_advertisement_box
 http://ytbbs.com##.fend_ad
 http://baidu.com##.fengchao-wrap
+http://baidu.com##.fengchao-wrap-feed
 http://home.ifeng.com##.fengjc02
 http://hao.360.cn##.festival_snatch
 http://firefoxchina.cn##.ff-banner
@@ -23907,6 +23919,7 @@ http://ithome.com##.indexV2 > div > a
 http://hacpai.com##.index__ad
 http://hqdoor.com##.index_ad2
 http://1fzw.com##.index_ad_top_wz
+http://kuaishouba.com##.index_adbox
 http://mitbbs.ca,mitbbs.com##.index_add
 http://76xh.com##.index_advertising
 http://76xh.com##.index_advertising02
