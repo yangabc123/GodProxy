@@ -11,7 +11,8 @@ url_kp_md5="https://raw.githubusercontent.com/houzi-/CDN/master/kp.dat.md5"
 url_yhosts="https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
 url_kpr_our_rule="https://raw.githubusercontent.com/user1121114685/koolproxyR_rule_list/master/kpr_our_rule.txt"
 url_kpr_our_rule2="https://raw.githubusercontent.com/ihuaer/koolproxy/master/dykpr.txt"
-url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+#url_fanboy="https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+url_fanboy="https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
 url_antiad="https://anti-ad.net/surge.txt"
 
 #先清空以前的日志
