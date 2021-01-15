@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Y5UvOQfegjqYqZ/+IdcKVw
-! Version: 202101140032
+! Checksum: JNhYX7bLJGyAWQ7/6BdZbw
+! Version: 202101150023
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5067,7 +5067,8 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
-||http://iwwacgx.cn^
+||http://wdxxx.top^
+||http://0b2qv7.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -6312,6 +6313,7 @@
 ||http://itechwall.com^$third-party
 ||http://itemccmod.com^
 ||http://iwansf.com^
+||http://iwwacgx.cn^
 ||http://iyoowi.com^
 ||http://iyptc.cn^
 ||http://iyygzs.com^
@@ -13334,10 +13336,9 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
-||http://9weg7b.com^
-||http://iibahmd.cn^
-||http://daylskg.cn^
-||http://weinin99.cn^
+||http://xinheshengmce.com^
+||http://zoujuhonglawyer.com^
+||http://cxmob.net^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -13536,6 +13537,7 @@
 ||http://9pb0h.cn^
 ||http://9ucm.com^
 ||http://9uh94c.cn^
+||http://9weg7b.com^
 ||http://9y88.com^
 ||http://a3pz36.cn^
 ||http://a7t89g4a.cn^
@@ -13911,6 +13913,7 @@
 ||http://datazhan.com^
 ||http://dawanjiahn.com^
 ||http://daxijia.cn^
+||http://daylskg.cn^
 ||http://dbaij.com^
 ||http://dbaof.com^
 ||http://dbeii.com^
@@ -14325,6 +14328,7 @@
 ||http://ihais.com^
 ||http://ihear123.com^
 ||http://ihhii.xyz^
+||http://iibahmd.cn^
 ||http://iigushi.com^
 ||http://ilifecook.com^
 ||http://imanchu.cn^
@@ -15267,6 +15271,7 @@
 ||http://weiiii.com^
 ||http://weikefanli.com^
 ||http://weimeicar.cn^
+||http://weinin99.cn^
 ||http://weixinhuoyuan.com^
 ||http://weiyajz.cn^
 ||http://weiyuedu.cc/skin/v3/js/dibu.js
@@ -15737,10 +15742,9 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
-https://yy90.cn##.bottom_fixed
-https://bmlink.com##.Tg_gg
-https://bmlink.com##.tg
-https://huya.com#?##J_spbg:-abp-has(> .J_hot > .drag-elem[data-href*=".360.cn"])
+https://717dyi.com##[ontouchstart]
+https://pilifx.com##.home_row_1
+https://kaka12345.cc###main
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17202,6 +17206,7 @@ https://alu.cn##.Tg_260x70
 https://alu.cn##.Tg_290x60
 https://alu.cn##.Tg_390x60
 https://alu.cn##.Tg_590x60
+https://bmlink.com##.Tg_gg
 https://3dmgame.com##.Tonglan
 https://feixiaohao.com##.TopHomeLink
 https://dailynews.sina.com##.TopNav + table
@@ -17753,7 +17758,7 @@ https://ilxdh.com##.bottom-show
 https://aoshu.com,zhongkao.com,zuowen.com##.bottomImg
 https://lenovo.com.cn##.bottom_ad_ban_bg
 https://lenovo.com.cn##.bottom_ad_fla
-https://23pili.com,kt51.com##.bottom_fixed
+https://23pili.com,kt51.com,yy90.cn##.bottom_fixed
 https://360kuai.com##.bottom_rectangle_gg_outer_box
 https://13tv.top,freehao123.com##.box
 https://cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
@@ -19426,6 +19431,7 @@ https://jiyingw.net##.textwidget > p > a > img
 https://maomaomom.com##.textwidget > table[width="1050"]
 https://cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 https://10fang.com##.tfy-ab
+https://bmlink.com##.tg
 https://acgbuster.moe##.tg-inner
 https://526bt.com,eroacg.com,laod.cn,ninpang.com,xiaohutuwb.com,zhangjunseo.com,zhujiceping.com##.tg-site
 https://e0575.com##.tg1
@@ -19788,6 +19794,7 @@ https://programmer-club.com.tw##A[href*="/ADRedirect."]
 https://24en.com##A[href*="/ClickAd?"]
 https://020job.com##A[href^="/Click.aspx?AdPageID="]
 https://gmgard.com,hggard.com##A[onclick*="Advertisement"]
+https://huya.com#?##J_spbg:-abp-has( > .J_hot > .drag-elem[data-href*=".360.cn"])
 https://cnxz.cn##[class*="-ad"]
 https://zhangxinxu.com##[class*="_block-"]
 https://zhangxinxu.com##[class*="bottom_"]
@@ -21143,10 +21150,9 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
-http://yy90.cn##.bottom_fixed
-http://bmlink.com##.Tg_gg
-http://bmlink.com##.tg
-http://huya.com#?##J_spbg:-abp-has(> .J_hot > .drag-elem[data-href*=".360.cn"])
+http://717dyi.com##[ontouchstart]
+http://pilifx.com##.home_row_1
+http://kaka12345.cc###main
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -22608,6 +22614,7 @@ http://alu.cn##.Tg_260x70
 http://alu.cn##.Tg_290x60
 http://alu.cn##.Tg_390x60
 http://alu.cn##.Tg_590x60
+http://bmlink.com##.Tg_gg
 http://3dmgame.com##.Tonglan
 http://feixiaohao.com##.TopHomeLink
 http://dailynews.sina.com##.TopNav + table
@@ -23159,7 +23166,7 @@ http://ilxdh.com##.bottom-show
 http://aoshu.com,zhongkao.com,zuowen.com##.bottomImg
 http://lenovo.com.cn##.bottom_ad_ban_bg
 http://lenovo.com.cn##.bottom_ad_fla
-http://23pili.com,kt51.com##.bottom_fixed
+http://23pili.com,kt51.com,yy90.cn##.bottom_fixed
 http://360kuai.com##.bottom_rectangle_gg_outer_box
 http://13tv.top,freehao123.com##.box
 http://cb.com.cn##.box > a[href^="http"]:not([href*=".cb."])
@@ -24832,6 +24839,7 @@ http://jiyingw.net##.textwidget > p > a > img
 http://maomaomom.com##.textwidget > table[width="1050"]
 http://cmsky.com##.textwidget a[href^="http"]:not([href*="cmsky"])
 http://10fang.com##.tfy-ab
+http://bmlink.com##.tg
 http://acgbuster.moe##.tg-inner
 http://526bt.com,eroacg.com,laod.cn,ninpang.com,xiaohutuwb.com,zhangjunseo.com,zhujiceping.com##.tg-site
 http://e0575.com##.tg1
@@ -25194,6 +25202,7 @@ http://programmer-club.com.tw##A[href*="/ADRedirect."]
 http://24en.com##A[href*="/ClickAd?"]
 http://020job.com##A[href^="/Click.aspx?AdPageID="]
 http://gmgard.com,hggard.com##A[onclick*="Advertisement"]
+http://huya.com#?##J_spbg:-abp-has( > .J_hot > .drag-elem[data-href*=".360.cn"])
 http://cnxz.cn##[class*="-ad"]
 http://zhangxinxu.com##[class*="_block-"]
 http://zhangxinxu.com##[class*="bottom_"]
