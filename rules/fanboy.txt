@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: hvmdxpK+l4lhCC2cYBoWvQ
-! Version: 202101150741
+! Checksum: Sva8q/7wwB1hgXQfh6n+Tg
+! Version: 202101160041
 ! Title: Fanboy's Annoyance List
-! Last modified: 15 Jan 2021 07:41 UTC
+! Last modified: 16 Jan 2021 00:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7506,6 +7506,7 @@ https://9to5google.com,9to5mac.com,electrek.co##.push-notify
 https://food.com##.pushdown-message
 https://thechivery.com##.wheelio_holder
 https://reddit.com##.xPromoAppStoreFooter
+https://aerzteblatt.de###pushy
 https://romait.it##.alert
 https://sindonews.com##.notif-box
 https://clarin.com##.notification-popup
@@ -11600,6 +11601,7 @@ https://unifilm.de##.form-dsgvo
 https://frankonia.de##.fr-c-message
 https://jesus.de##.gaoop
 https://tipp24.com##.gdpr
+https://nick.de##.generic-text-wrap
 https://galeria-kaufhof.de##.gk-stickymessage
 https://autoscout24.ch,motoscout24.ch##.global-banner
 https://brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
@@ -12847,7 +12849,6 @@ https://wsqn.pl#@##social_container
 https://base.de#@##social_footer
 https://ghostery.com#@##social_media
 https://nextinpact.com#@##socialbar
-https://net-kanker.nl#@##socialmedia
 https://arte.tv,lenta.ru#@##socials
 https://youtube.com#@##subscribe-button
 https://feedburner.com#@##subscribe-options
@@ -13206,7 +13207,6 @@ https://wuala.com#@#.socialboxp
 https://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 https://clientsfromhell.net#@#.socialbuttons
 https://gamepedia.com#@#.sociallink
-https://heise.de,megabus.com,thenextweb.com#@#.socialmedia
 https://belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 https://aktuality.sk#@#.socials-link
 https://aktuality.sk#@#.socials-wrapper
@@ -13379,11 +13379,10 @@ https://rituals.com#@#.cookie-bar:not(body)
 https://egmont.com#@#.cookie-bar:not(body):not(html)
 https://zeist.hu.nl#@#.cookie-block
 https://lg.com#@#.cookie-check
-https://dovoba.de#@#.cookie-consent
 https://zwijsen.nl#@#.cookie-consent-container
 https://zwijsen.nl#@#.cookie-consent-content
 https://zwijsen.nl#@#.cookie-consent-wrapper
-https://codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body)
+https://codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body):not(html)
 https://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 https://danbolig.dk,skuola.net#@#.cookie-dialog
 https://ikks.com#@#.cookie-footer
@@ -18195,6 +18194,7 @@ http://9to5google.com,9to5mac.com,electrek.co##.push-notify
 http://food.com##.pushdown-message
 http://thechivery.com##.wheelio_holder
 http://reddit.com##.xPromoAppStoreFooter
+http://aerzteblatt.de###pushy
 http://romait.it##.alert
 http://sindonews.com##.notif-box
 http://clarin.com##.notification-popup
@@ -22291,6 +22291,7 @@ http://unifilm.de##.form-dsgvo
 http://frankonia.de##.fr-c-message
 http://jesus.de##.gaoop
 http://tipp24.com##.gdpr
+http://nick.de##.generic-text-wrap
 http://galeria-kaufhof.de##.gk-stickymessage
 http://autoscout24.ch,motoscout24.ch##.global-banner
 http://brigitte.de,essen-und-trinken.de,geo.de##.guj-cb
@@ -23538,7 +23539,6 @@ http://wsqn.pl#@##social_container
 http://base.de#@##social_footer
 http://ghostery.com#@##social_media
 http://nextinpact.com#@##socialbar
-http://net-kanker.nl#@##socialmedia
 http://arte.tv,lenta.ru#@##socials
 http://youtube.com#@##subscribe-button
 http://feedburner.com#@##subscribe-options
@@ -23897,7 +23897,6 @@ http://wuala.com#@#.socialboxp
 http://esselungajob.it,jobs.jnj.com,jobs.kroger.com,realogy.com#@#.socialbutton
 http://clientsfromhell.net#@#.socialbuttons
 http://gamepedia.com#@#.sociallink
-http://heise.de,megabus.com,thenextweb.com#@#.socialmedia
 http://belgafiles.com,chaturbate.com,eska.pl,gog.com,se.pl#@#.socials
 http://aktuality.sk#@#.socials-link
 http://aktuality.sk#@#.socials-wrapper
@@ -24070,11 +24069,10 @@ http://rituals.com#@#.cookie-bar:not(body)
 http://egmont.com#@#.cookie-bar:not(body):not(html)
 http://zeist.hu.nl#@#.cookie-block
 http://lg.com#@#.cookie-check
-http://dovoba.de#@#.cookie-consent
 http://zwijsen.nl#@#.cookie-consent-container
 http://zwijsen.nl#@#.cookie-consent-content
 http://zwijsen.nl#@#.cookie-consent-wrapper
-http://codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body)
+http://codra.net,dovoba.de,medicinenet.com#@#.cookie-consent:not(body):not(html)
 http://bokadirekt.se,danbolig.dk,hongkong.fi,rusta.com,xmradio.nl#@#.cookie-content
 http://danbolig.dk,skuola.net#@#.cookie-dialog
 http://ikks.com#@#.cookie-footer

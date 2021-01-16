@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: jrM1JVW2Q4vaH/bq6JN3dw
-! Version: 202101150732
+! Checksum: O+Lyw6w9Fv8Ygmn7sTcsXw
+! Version: 202101160022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5068,6 +5068,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://fangniaowang.net^
 ||http://ue2bm3.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
@@ -13342,6 +13343,8 @@
 ||http://buyuninfo.com^
 ||http://hnyoufan.com^
 ||http://g1mm3d.cn^
+||http://liulu888.com^
+||http://dnfkong.com^
 ||http://yanyanbiji.com^
 ||http://zln44.cn^
 ||http://01w47q.cn^
@@ -15750,6 +15753,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://xsldh6.com##DIV[id^="slide"] > .pure-g:nth-child(3)
 https://jojf.cn##.banner
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
@@ -21157,6 +21161,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://xsldh6.com##DIV[id^="slide"] > .pure-g:nth-child(3)
 http://jojf.cn##.banner
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
