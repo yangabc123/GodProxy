@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Sva8q/7wwB1hgXQfh6n+Tg
-! Version: 202101160041
+! Checksum: lxPhx0a81t4wVG5nAkFUDQ
+! Version: 202101170031
 ! Title: Fanboy's Annoyance List
-! Last modified: 16 Jan 2021 00:41 UTC
+! Last modified: 17 Jan 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2758,6 +2758,7 @@
 ||http://vestifinance.ru/js/share.js
 ||http://byom.de/js/cookie.de.js
 ||http://cmp.pcwelt.de^
+||http://cmp.tvspielfilm.de^
 ||http://consent.berliner-kurier.de^
 ||http://consent.gutefrage.net^
 ||http://henryschein.at^*/CookieList.aspx
@@ -6636,6 +6637,7 @@ https://defiantamerica.com##.defia-right-rail-newsletter-2
 https://huffpost.com##.desktop-alerts-signup
 https://amigosmuseoreinasofia.org##.desplegado
 https://conservativedailynews.com,generalassemb.ly##.dgd_stb_box
+https://androidauthority.com##.dgit-daily-form-green-wrap
 https://cybernews.com##.dialog-lightbox-message
 https://dictionary.com##.dictionary-email-box
 https://grasswire.com##.digest__container
@@ -7087,6 +7089,7 @@ https://ieee.org##.sml_article_static
 https://rt.com##.sp_registration-cta
 https://fortune.com##.special-story-social-wrapper
 https://spiegel.de##.spezialbalken
+https://phonearena.com##.spot_disclaimer
 https://500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 https://500px.com,androidsage.com##.spu-box
 https://theprepared.org##.sqs-slide-layer-content
@@ -8501,6 +8504,7 @@ https://vh1.com##.shareholder
 https://worldwideinterweb.com##.sharepoint
 https://ign.com,newsday.com##.sharer
 https://bulawayo24.com,foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com,twistedfood.co.uk##.shares
+https://screenrant.com##.sharing
 https://theregister.com##.sharing_widget
 https://recode.net##.shoutout
 https://missouri.edu##.showme-footer__social
@@ -9030,7 +9034,7 @@ https://decathlon.co.uk###container-screen
 https://tinder.com###content > span > .App > div[class*="Start"]
 https://wotinfo.net###coo
 https://alcoholics-anonymous.org.uk,cryps.info###cook
-https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+https://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 https://0calc.com###cookieconsentmodal
 https://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,freemeteo.ch,freemeteo.com,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,imperiaonline.org,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 https://patience-is-a-virtue.org###copy > p
@@ -9057,6 +9061,7 @@ https://fool.co.uk###dogfish
 https://aeriagames.com###dp2018dialog
 https://hetzner.com###dpi-banner
 https://drupal.org###drupalorg-crosssite-gdpr
+https://overunity.com###ecl_outer
 https://tor.com###entry-content__footer-popup
 https://complex.com###eucn
 https://abetterrouteplanner.com###eula-div
@@ -9282,7 +9287,7 @@ https://sunweb.co.uk##.absolute-dialog
 https://greenfields.eu##.accept-alert
 https://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 https://ticketmaster.ca##.agree-terms
-https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,gambling-affiliation.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+https://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,gambling-affiliation.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,linuxcompatible.org,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 https://espn.com##.alert--fixed
 https://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 https://labour.org.uk##.alert-bar-footer
@@ -9507,7 +9512,7 @@ https://spotify.com##.mh-message-bar
 https://mitele.es##.mitele-consent
 https://transparency.org##.mk-c-modal
 https://amazon.com##.mo-wp
-https://airnewzealand.eu,przekroj.pl,qv.co.nz##.modal
+https://airnewzealand.eu,przekroj.pl,qv.co.nz,thelittleboxoffice.com##.modal
 https://airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org,qv.co.nz##.modal-backdrop
 https://myanimelist.net##.modal-container
 https://myanimelist.net##.modal-content
@@ -11846,6 +11851,7 @@ https://webzdarma.cz###fixedBar
 https://casopis-rozmaryna.cz###fucktheEU
 https://hpmarket.cz###hpmGmtT
 https://nacesty.cz###term-of-use
+https://marusik.cz##.CA
 https://therapia.cz##.CC_wrap
 https://valka.cz##.alert
 https://uni-max.cz##.bar-Info
@@ -12423,7 +12429,7 @@ https://domwroc24.pl##.ciacho-wrap-container
 https://forumrowerowe.org##.ckg
 https://scentre.pl##.consent
 https://poznan.pl##.content-head-information
-https://fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
+https://fitnessclubs4.pl,fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
 https://alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
 https://chceauto.pl##.cookue
 https://genetico.pl##.coologo7
@@ -12697,6 +12703,7 @@ https://360.cymru###negesCaniatad
 https://nasa.gov#@##BackToTop
 https://billabong.com#@##NewsletterSignup
 https://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
+https://archeda.eu#@##back-top
 https://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 https://rmf24.pl#@##backTop
 https://nasa.gov#@##backtoTop
@@ -17324,6 +17331,7 @@ http://defiantamerica.com##.defia-right-rail-newsletter-2
 http://huffpost.com##.desktop-alerts-signup
 http://amigosmuseoreinasofia.org##.desplegado
 http://conservativedailynews.com,generalassemb.ly##.dgd_stb_box
+http://androidauthority.com##.dgit-daily-form-green-wrap
 http://cybernews.com##.dialog-lightbox-message
 http://dictionary.com##.dictionary-email-box
 http://grasswire.com##.digest__container
@@ -17775,6 +17783,7 @@ http://ieee.org##.sml_article_static
 http://rt.com##.sp_registration-cta
 http://fortune.com##.special-story-social-wrapper
 http://spiegel.de##.spezialbalken
+http://phonearena.com##.spot_disclaimer
 http://500px.com,raprnb.com,the-line-up.com,theisraelwire.com,thestack.com,xredmedia.com##.spu-bg
 http://500px.com,androidsage.com##.spu-box
 http://theprepared.org##.sqs-slide-layer-content
@@ -19189,6 +19198,7 @@ http://vh1.com##.shareholder
 http://worldwideinterweb.com##.sharepoint
 http://ign.com,newsday.com##.sharer
 http://bulawayo24.com,foodbeast.com,glogster.com,good.is,hereisthecity.com,independent.co.uk,petapixel.com,trtworld.com,twistedfood.co.uk##.shares
+http://screenrant.com##.sharing
 http://theregister.com##.sharing_widget
 http://recode.net##.shoutout
 http://missouri.edu##.showme-footer__social
@@ -19719,7 +19729,7 @@ http://decathlon.co.uk###container-screen
 http://tinder.com###content > span > .App > div[class*="Start"]
 http://wotinfo.net###coo
 http://alcoholics-anonymous.org.uk,cryps.info###cook
-http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
+http://add0n.com,aflite.co.uk,aon.com,atom42.co.uk,bakersmall.co.uk,bbvonline.net,betradar.com,bookingsouthtyrol.com,boscolohotels.com,boxnation.com,e-doggy.com,eqavet.eu,essentraextrusion.eu,flexerasoftware.com,fremantlemedia.com,gulfstream.com,iadvize.com,keyboardco.com,kicc.org.uk,lonewolfonline.net,mouseprice.com,nspcc.org.uk,oilplusltd.com,onenessscotland.org,pentagon-group.co.uk,prestashop.com,pretix.eu,priorygroup.com,rodacciai.fr,sainsburysenergy.com,simmons-simmons.com,stiripesurse.ro,tadeevo.com,technutty.co.uk,thebmc.co.uk,toomeymotorgroup.co.uk,tutsandtips.com,tvcorner.com,unsee.cc,wheatley-group.com,zbmath.org###cookie
 http://0calc.com###cookieconsentmodal
 http://anpost.ie,any.run,aquariumforums.co.uk,arag.com,atleticodemadrid.com,ayraviation.com,bl.uk,canadiansolar.com,celulares.com,cifas.org.uk,coinsofhope.eu,educalingo.com,eitb.eus,emrf.eu,emunewz.net,eporner.com,feyenoord.com,film-news.co.uk,forbiddenplanet.co.uk,freemeteo.ch,freemeteo.com,fulltilt.com,globalpetrolprices.com,gpstraining.co.uk,harper-adams.ac.uk,history.bnpparibas,homecinemachoice.com,humbersideairport.com,ibeesoft.com,imperiaonline.org,inmobi.com,irishjobs.ie,iso-chemie.eu,izikart.co.uk,jomast.co.uk,lloydsbankinggroup.com,mareespeche.com,metbiocat.eu,noisli.com,panfurware.com,phonearena.com,picload.org,playclassic.games,pokernews.com,police.uk,premiumcredit.co.uk,private.com,proteum.co.uk,puromarketing.com,radiocaroline.co.uk,rdnester.eu,rotterdam.info,scl.org,studentski.net,tablademareas.com,tellows-au.com,tellows-fi.com,tellows-ng.com,tellows-tr.com,tellows.asia,tellows.at,tellows.be,tellows.co,tellows.co.nz,tellows.co.uk,tellows.co.za,tellows.com,tellows.com.br,tellows.cz,tellows.de,tellows.dk,tellows.es,tellows.fr,tellows.gr,tellows.hu,tellows.in,tellows.it,tellows.jp,tellows.mx,tellows.net,tellows.nl,tellows.org,tellows.pl,tellows.pt,tellows.ru,tellows.se,tellows.tw,the-tls.co.uk,theatre-news.com,tsb.co.uk,wsws.org,xnostars.com###cookies
 http://patience-is-a-virtue.org###copy > p
@@ -19746,6 +19756,7 @@ http://fool.co.uk###dogfish
 http://aeriagames.com###dp2018dialog
 http://hetzner.com###dpi-banner
 http://drupal.org###drupalorg-crosssite-gdpr
+http://overunity.com###ecl_outer
 http://tor.com###entry-content__footer-popup
 http://complex.com###eucn
 http://abetterrouteplanner.com###eula-div
@@ -19971,7 +19982,7 @@ http://sunweb.co.uk##.absolute-dialog
 http://greenfields.eu##.accept-alert
 http://akeebabackup.com,displays.agneovo.com,imunify360.com,luxos.com,reshade.me,v-tac.eu##.activebar-container
 http://ticketmaster.ca##.agree-terms
-http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,gambling-affiliation.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
+http://adata.com,ahlulbayt.tv,altervista.org,askdifference.com,asklion.co.uk,bankid.com,cfainstitute.org,convert-my-image.com,costaclub.com,efinancialcareers.com,gambling-affiliation.com,hattrick.org,kenweego.com,lawyersonline.co.uk,lifescience.net,linuxcompatible.org,lonelyplanet.com,m-a.org.uk,nature.com,netweather.tv,norwegian.com,pozyx.io,streema.com,supercell.com,theonlinesurgery.co.uk,tindie.com,ukpressonline.co.uk,vernemq.com,viewsonic.com,viewsoniceurope.com,youngsseafood.co.uk##.alert
 http://espn.com##.alert--fixed
 http://goodmorningamerica.com,historicengland.org.uk##.alert-banner
 http://labour.org.uk##.alert-bar-footer
@@ -20196,7 +20207,7 @@ http://spotify.com##.mh-message-bar
 http://mitele.es##.mitele-consent
 http://transparency.org##.mk-c-modal
 http://amazon.com##.mo-wp
-http://airnewzealand.eu,przekroj.pl,qv.co.nz##.modal
+http://airnewzealand.eu,przekroj.pl,qv.co.nz,thelittleboxoffice.com##.modal
 http://airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org,qv.co.nz##.modal-backdrop
 http://myanimelist.net##.modal-container
 http://myanimelist.net##.modal-content
@@ -22536,6 +22547,7 @@ http://webzdarma.cz###fixedBar
 http://casopis-rozmaryna.cz###fucktheEU
 http://hpmarket.cz###hpmGmtT
 http://nacesty.cz###term-of-use
+http://marusik.cz##.CA
 http://therapia.cz##.CC_wrap
 http://valka.cz##.alert
 http://uni-max.cz##.bar-Info
@@ -23113,7 +23125,7 @@ http://domwroc24.pl##.ciacho-wrap-container
 http://forumrowerowe.org##.ckg
 http://scentre.pl##.consent
 http://poznan.pl##.content-head-information
-http://fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
+http://fitnessclubs4.pl,fum.info.pl,leroymerlin.pl,mazowieckie.com.pl,mmgastro.pl,otouczelnie.pl,polstor.pl,technetium.pl,virtualtrucker.pl,wykop.pl,zdrofit.pl##.cookie
 http://alergia-allegra.pl,aliorbank.pl,angora.com.pl,bezux.pl,bigstar.pl,bitbay.pl,dhosting.pl,easycomp.pl,fitpatrol.pl,fly4free.pl,meczyki.pl,naszefutrzaki.eu,niedziela.pl,pkpcargo.com,polsatsport.pl,rozklad-pkp.pl,sprawdzonyfizjoterapeuta.pl,telepolis.pl,teletorium.pl,vistula.pl##.cookies
 http://chceauto.pl##.cookue
 http://genetico.pl##.coologo7
@@ -23387,6 +23399,7 @@ http://360.cymru###negesCaniatad
 http://nasa.gov#@##BackToTop
 http://billabong.com#@##NewsletterSignup
 http://autotrader.com,brydge.com,liputan6.com,rejuvenation.com#@##back-to-top
+http://archeda.eu#@##back-top
 http://engie.fr,gaz-tarif-reglemente.fr,nasa.gov#@##backToTop
 http://rmf24.pl#@##backTop
 http://nasa.gov#@##backtoTop
