@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: S4LSJQfHnaDXBXhExYfogg
-! Version: 202101180031
+! Checksum: FV8bbi6OS8gIACk37yXYVQ
+! Version: 202101180531
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Jan 2021 00:31 UTC
+! Last modified: 18 Jan 2021 05:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -13354,7 +13354,6 @@ https://bosch-mobility-solutions.com#@##m-cookie-overlay
 https://17track.net#@##modal-gdpr
 https://faberkabel.de#@##modalCookie
 https://thesocialmedwork.com#@##notice-cookie-block
-https://crfashionbook.com,giochi.it,gmx.com,mail.com#@##onetrust-consent-sdk
 https://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 https://theverge.com#@##privacy-consent
 https://readthedocs.io,sportdiver.com#@##privacy-policy
@@ -24055,7 +24054,6 @@ http://bosch-mobility-solutions.com#@##m-cookie-overlay
 http://17track.net#@##modal-gdpr
 http://faberkabel.de#@##modalCookie
 http://thesocialmedwork.com#@##notice-cookie-block
-http://crfashionbook.com,giochi.it,gmx.com,mail.com#@##onetrust-consent-sdk
 http://api.newsguardtech.com,rockpapershotgun.com#@##optanon
 http://theverge.com#@##privacy-consent
 http://readthedocs.io,sportdiver.com#@##privacy-policy

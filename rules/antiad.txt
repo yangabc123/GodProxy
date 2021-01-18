@@ -1,6 +1,6 @@
 !TITLE=anti-AD
-!VER=20210116205025
-!TOTAL_LINES=37753
+!VER=20210118093220
+!TOTAL_LINES=37752
 ||https://00-gov.cn
 ||https://kwcdn.000dn.com
 ||https://kwcscdn.000dn.com
@@ -9071,7 +9071,6 @@
 ||https://code.comuce.com
 ||https://comunicazio.com
 ||https://priceinfo.comuv.com
-||https://conac.cn
 ||https://concentleconse.site
 ||https://concentual.club
 ||https://concertainwqa.club
