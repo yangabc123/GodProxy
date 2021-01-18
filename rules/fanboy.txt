@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lxPhx0a81t4wVG5nAkFUDQ
-! Version: 202101170031
+! Checksum: S4LSJQfHnaDXBXhExYfogg
+! Version: 202101180031
 ! Title: Fanboy's Annoyance List
-! Last modified: 17 Jan 2021 00:31 UTC
+! Last modified: 18 Jan 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9432,6 +9432,7 @@ https://crello.com##.footerNotificationWrapper___18I_O
 https://msn.com##.fpCdm
 https://f-secure.com##.fs-consent
 https://cgtn.com##.g-dialog
+https://scaleway.com##.gLLeaT
 https://themeflood.com##.gatewayContainer
 https://aviationweek.com##.gdpr
 https://downloadcrew.com##.ginger_banner
@@ -11595,6 +11596,7 @@ https://efinancialcareers.de##.dismissable-notifications
 https://doctolib.de##.dl-drawer-bottom
 https://rtl-living.de,rtl.de,vox.de##.dnt__container
 https://i-dex.de,i-love-tec.de,moebel-und-garten.de##.dsgvo
+https://leica-enthusiast.de##.elementor-popup-modal
 https://waff.at##.en-notification
 https://audi.de##.ensNotifyBannerWrapper
 https://fgh-info.de##.fade.alert-warning.alert
@@ -11728,7 +11730,7 @@ https://keskeces.com###cook
 https://paconsulting.com###cookPop
 https://romedic.ro###cookbox
 https://cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,materiel.net,societe.com###cookie
-https://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
+https://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 https://mediametrie.fr###cooks
 https://listesdemots.com###cp
 https://makita.fr###disclaimer
@@ -12224,6 +12226,8 @@ https://supernordicskipass.it##.infPr
 https://vienormali.it##.info
 https://altroconsumo.it##.info-banner
 https://orgoglionerd.it##.irpclw
+https://estendo.it##.jconfirm
+https://estendo.it##.jconfirm-cell
 https://blogfree.net,forumfree.it##.jnote
 https://hertz247.it##.lbContainer
 https://hertzrent2buy.it##.lb_overlay
@@ -12368,6 +12372,7 @@ https://bilka.com.pl###mod99
 https://redbullmobile.pl###more1
 https://ttv.pl###msgLayer
 https://abt-s.pl###myModal
+https://polskicaravaning.pl###myModalpol
 https://fiatklubpolska.pl###navbar_notice_1
 https://diyaudio.pl###navbar_notice_11
 https://mondeoklubpolska.pl###navbar_notice_12
@@ -20127,6 +20132,7 @@ http://crello.com##.footerNotificationWrapper___18I_O
 http://msn.com##.fpCdm
 http://f-secure.com##.fs-consent
 http://cgtn.com##.g-dialog
+http://scaleway.com##.gLLeaT
 http://themeflood.com##.gatewayContainer
 http://aviationweek.com##.gdpr
 http://downloadcrew.com##.ginger_banner
@@ -22291,6 +22297,7 @@ http://efinancialcareers.de##.dismissable-notifications
 http://doctolib.de##.dl-drawer-bottom
 http://rtl-living.de,rtl.de,vox.de##.dnt__container
 http://i-dex.de,i-love-tec.de,moebel-und-garten.de##.dsgvo
+http://leica-enthusiast.de##.elementor-popup-modal
 http://waff.at##.en-notification
 http://audi.de##.ensNotifyBannerWrapper
 http://fgh-info.de##.fade.alert-warning.alert
@@ -22424,7 +22431,7 @@ http://keskeces.com###cook
 http://paconsulting.com###cookPop
 http://romedic.ro###cookbox
 http://cartezero.fr,france.tv,grillofrance.fr,havas-voyages.fr,le1hebdo.fr,materiel.net,societe.com###cookie
-http://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
+http://4clik.com,arlestourisme.com,brain-magazine.fr,cer-eau.fr,colissimo.fr,edcom.fr,enmark2.com,feuvert.fr,gentside.com,gretel-box.com,jackpot-des-experts.fr,jules.com,laposte.fr,logistafrance.fr,lumiglobal.fr,maxisciences.com,my-meteo.com,mybiclighter.com,ohmymag.com,secu-independants.fr,showroomprive.com,solutions-numeriques.com,tourtel-twist.fr,ville-ideale.com,ville-ideale.fr,viously.com###cookies
 http://mediametrie.fr###cooks
 http://listesdemots.com###cp
 http://makita.fr###disclaimer
@@ -22920,6 +22927,8 @@ http://supernordicskipass.it##.infPr
 http://vienormali.it##.info
 http://altroconsumo.it##.info-banner
 http://orgoglionerd.it##.irpclw
+http://estendo.it##.jconfirm
+http://estendo.it##.jconfirm-cell
 http://blogfree.net,forumfree.it##.jnote
 http://hertz247.it##.lbContainer
 http://hertzrent2buy.it##.lb_overlay
@@ -23064,6 +23073,7 @@ http://bilka.com.pl###mod99
 http://redbullmobile.pl###more1
 http://ttv.pl###msgLayer
 http://abt-s.pl###myModal
+http://polskicaravaning.pl###myModalpol
 http://fiatklubpolska.pl###navbar_notice_1
 http://diyaudio.pl###navbar_notice_11
 http://mondeoklubpolska.pl###navbar_notice_12
