@@ -1,4 +1,4 @@
-!version=202101171917
+!version=202101180922
 !-----Test
 ||https://at.umeng.com
 ||https://adfurikun.jp
@@ -30,7 +30,6 @@
 ||https://htracker4.zmzfile.com
 ||https://htracker5.zmzfile.com
 ||https://file.apicvn.com
-||https://xm.163.com
 !-----Test End
 ||https://ereg.adobe.com
 ||https://hlrcv.stage.adobe.com
@@ -8385,6 +8384,7 @@
 ||https://cm.zhiziyun.com
 ||https://sspservice.ad-survey.com
 ||https://tracking.ad-survey.com
+||https://sspmservice.ad-survey.com
 ||https://www.ad-survey.com
 ||https://ads.ad4game.com
 ||https://cdn.ad4game.com
@@ -9172,7 +9172,7 @@
 ||https://pv.dakawm.cc
 ||https://xzj.kebi1.top
 ||https://n.35kds.com
-!version=202101171917
+!version=202101180922
 !-----Test
 ||http://at.umeng.com
 ||http://adfurikun.jp
@@ -9204,7 +9204,6 @@
 ||http://htracker4.zmzfile.com
 ||http://htracker5.zmzfile.com
 ||http://file.apicvn.com
-||http://xm.163.com
 !-----Test End
 ||http://ereg.adobe.com
 ||http://hlrcv.stage.adobe.com
@@ -17559,6 +17558,7 @@
 ||http://cm.zhiziyun.com
 ||http://sspservice.ad-survey.com
 ||http://tracking.ad-survey.com
+||http://sspmservice.ad-survey.com
 ||http://www.ad-survey.com
 ||http://ads.ad4game.com
 ||http://cdn.ad4game.com
