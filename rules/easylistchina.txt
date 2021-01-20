@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: sSI3moAV0qCTcest96wM5A
-! Version: 202101190023
+! Checksum: XTt3GJowc1diC3k8XYlckQ
+! Version: 202101200033
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -1084,8 +1084,8 @@
 ||https://5566.buzz/adtrue_
 ||https://5588.tv/js/piaofuImg.js
 ||https://55aaee.com/detail/
-||https://55cc.cc/5Cjs/
 ||https://55sky.com/js/diecuo/
+||https://55yy.tv/5Cjs/
 ||https://56ads.com/js/main.js
 ||https://56img.com^*/baidu-promotion.js
 ||https://56img.com^*/search-engine-promotion.js
@@ -3011,6 +3011,7 @@
 ||https://juqingw.com/js/tad
 ||https://juweixin.com/static/spk
 ||https://juxia.com/jxtp/indexbg.jpg
+||https://jxcn.cn/assets/images/downWeatherApp.png
 ||https://jxcn.cn/assets/js/dspshow.js
 ||https://jxcn.cn/js/hotpic_
 ||https://jxdown.com/statics/js/all.js
@@ -8218,8 +8219,8 @@
 ||http://5566.buzz/adtrue_
 ||http://5588.tv/js/piaofuImg.js
 ||http://55aaee.com/detail/
-||http://55cc.cc/5Cjs/
 ||http://55sky.com/js/diecuo/
+||http://55yy.tv/5Cjs/
 ||http://56ads.com/js/main.js
 ||http://56img.com^*/baidu-promotion.js
 ||http://56img.com^*/search-engine-promotion.js
@@ -8696,7 +8697,7 @@
 ||http://alicdn.com/tfscom/*.sina.
 ||http://alicdn.com/tps/*-950-90.
 ||http://alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
-||http://alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55cc.cc|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
+||http://alicdn.com^$domain=1024gu.com|11papapa.com|1avlang.com|1yingdoutv.com|2334n.com|51dll.com|52kpop.com|55yy.tv|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|btdp.online|c7cc.cc|camelliadali.com|ccxx99.com|dytt.com|f6hx.site|feifei6.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|ppx116.com|qingmanyong.com|qqtenglong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|tv4.cc|viidii.info|wenkuxiazai.com|xiaomingming.org|xinchen2.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yy6080.cn|yzz12.com|zhuankezhijia.com
 ||http://alicdn.com^*.gif$domain=15yc.cc|hmog.me
 ||http://alicdn.com^*.jpg$domain=hmog.me
 ||http://alicdn.com^*_!!3361094544.
@@ -10443,6 +10444,7 @@
 ||http://juweixin.com/static/spk
 ||http://juxia.com/jxtp/indexbg.jpg
 ||http://jxad.jx163.com^
+||http://jxcn.cn/assets/images/downWeatherApp.png
 ||http://jxcn.cn/assets/js/dspshow.js
 ||http://jxcn.cn/js/hotpic_
 ||http://jxdown.com/statics/js/all.js
@@ -13704,6 +13706,7 @@
 ||http://bdcapweb.xyz^
 ||http://bdcouc.xyz^
 ||http://bdiae.com^
+||http://bdxnc.com^
 ||http://bei7.clewx.com^
 ||http://beifmu.com^
 ||http://bentengcn.com^
@@ -13857,6 +13860,7 @@
 ||http://cniuv.com^
 ||http://cnlhg.cn^
 ||http://cnliken.com^
+||http://cnoufangfeng.cn^
 ||http://cnshef.com^
 ||http://cnxmyb.cn^
 ||http://cnyibs.com^
@@ -14273,6 +14277,7 @@
 ||http://hljhufengling.cn^
 ||http://hmttoly.com^
 ||http://hmyangshengji.com^
+||http://hmyzsgf.com^
 ||http://hnfxty.cn^
 ||http://hnhgw.cn^
 ||http://hnkuangshan.cn^
@@ -14555,6 +14560,7 @@
 ||http://lerenzx.cn^
 ||http://lesanmo.top^
 ||http://let83.cn^
+||http://lezengxin.com^
 ||http://lfcepgb.cn^
 ||http://lfdydk.com^
 ||http://lfzxcp.com^
@@ -14683,6 +14689,7 @@
 ||http://mozqca.cn^
 ||http://mqgpo.com^
 ||http://mrycwz.com^
+||http://msccabin.com^
 ||http://msdfd.cn^
 ||http://msuik.cn^
 ||http://mtcat.cn^
@@ -15381,6 +15388,7 @@
 ||http://xiandafood.cn^
 ||http://xiangchim0.com^
 ||http://xiangwangdesh.com^
+||http://xiangyudj.cn^
 ||http://xiangyuym.cn^
 ||http://xiansenmeng.cn^
 ||http://xiaobingmai.cn^
@@ -15401,6 +15409,7 @@
 ||http://xiuqixuan.cn^
 ||http://xixizaix.cn^
 ||http://xjhjtz.cn^
+||http://xjsytoy.com^
 ||http://xjtxcj.com^
 ||http://xk0x.cn^
 ||http://xkanf.com^
