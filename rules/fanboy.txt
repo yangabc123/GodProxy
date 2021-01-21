@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pSmLxbVnWs4ylK3dFALzSw
-! Version: 202101210411
+! Checksum: 8gNKPKQ4P9RNcoCWiDRagg
+! Version: 202101210511
 ! Title: Fanboy's Annoyance List
-! Last modified: 21 Jan 2021 04:11 UTC
+! Last modified: 21 Jan 2021 05:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -7111,7 +7111,7 @@ https://breakingnews.ie##.subscribe-box-articles
 https://albawaba.com,rt.com,sport360.com##.subscribe-btn
 https://middleeastmonitor.com##.subscribe-container
 https://todayonline.com##.subscribe-content
-https://spendwithpennies.com##.subscribe-cta
+https://narcity.com,spendwithpennies.com##.subscribe-cta
 https://nutritioninsight.com##.subscribe-div
 https://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 https://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
@@ -17811,7 +17811,7 @@ http://breakingnews.ie##.subscribe-box-articles
 http://albawaba.com,rt.com,sport360.com##.subscribe-btn
 http://middleeastmonitor.com##.subscribe-container
 http://todayonline.com##.subscribe-content
-http://spendwithpennies.com##.subscribe-cta
+http://narcity.com,spendwithpennies.com##.subscribe-cta
 http://nutritioninsight.com##.subscribe-div
 http://afp.com,albawaba.com,gulfnews.com##.subscribe-footer
 http://financialbuzz.com,maclife.com,segmentnext.com##.subscribe-form
