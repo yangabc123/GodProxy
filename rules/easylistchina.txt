@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: XTt3GJowc1diC3k8XYlckQ
-! Version: 202101200033
+! Checksum: iuq/AmVbqxYzKEGWPeyasg
+! Version: 202101210032
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -4886,6 +4886,10 @@
 ||https://zzsky.cn/images/a_d_
 ||https://zzz4.com/JS_AD/
 ||https://zzzyk.com/js/
+||https://qingniao.me/banner.jpg
+||https://bcebos.com/im-cs/a69c0123ae867534560f1a0df1b6b2a8.png
+||https://yzpsb.net/js/jquery.
+||https://duodada.com/111/
 ||https://17ce.com^*_$image
 ||https://0512s.com^$third-party
 ||https://100669.com^$third-party
@@ -12499,6 +12503,10 @@
 ||http://zzsky.cn/images/a_d_
 ||http://zzz4.com/JS_AD/
 ||http://zzzyk.com/js/
+||http://qingniao.me/banner.jpg
+||http://bcebos.com/im-cs/a69c0123ae867534560f1a0df1b6b2a8.png
+||http://yzpsb.net/js/jquery.
+||http://duodada.com/111/
 ||http://17ce.com^*_$image
 ||http://alicdn.com^$domain=99a67.com|99re.com
 ||http://jsdelivr.net^$domain=99a67.com
@@ -13352,6 +13360,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://qloved.cn^
+||http://haichengdzsp.com^
+||http://alicpd.top^
+||http://ddzeg.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15778,6 +15790,8 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://nfstar.net##.bottom_fixed
+https://zhicheng.com##A[href*="512856.com"]
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -19859,6 +19873,8 @@ https://zhangxinxu.com##[onclick*="Ad"]
 https://42xz.com##[onclick*="godownload"]
 https://717dyi.com,aiqiyivip.com##[onclick]
 https://duonaolive.com##[onclick^="track"]
+https://duodada.com##[ontouchstart]
+https://duodada.com##[onclick]
 https://717dyi.com,aiqiyivip.com,poxiaotv.com##[ontouchstart]
 https://duodada.com##[style*="position: fixed; left: 0px;"]
 https://kisssub.org##a > img[src*=".0o0.ooo/"]
@@ -21188,6 +21204,8 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://nfstar.net##.bottom_fixed
+http://zhicheng.com##A[href*="512856.com"]
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -25269,6 +25287,8 @@ http://zhangxinxu.com##[onclick*="Ad"]
 http://42xz.com##[onclick*="godownload"]
 http://717dyi.com,aiqiyivip.com##[onclick]
 http://duonaolive.com##[onclick^="track"]
+http://duodada.com##[ontouchstart]
+http://duodada.com##[onclick]
 http://717dyi.com,aiqiyivip.com,poxiaotv.com##[ontouchstart]
 http://duodada.com##[style*="position: fixed; left: 0px;"]
 http://kisssub.org##a > img[src*=".0o0.ooo/"]

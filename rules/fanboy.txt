@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4oqTeCPIK42yhZElWFxHFw
-! Version: 202101200041
+! Checksum: cf6ct11XUQL9mKESh99l0A
+! Version: 202101210031
 ! Title: Fanboy's Annoyance List
-! Last modified: 20 Jan 2021 00:41 UTC
+! Last modified: 21 Jan 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6140,6 +6140,7 @@ https://dealnews.com##.engagement-container
 https://propublica.org##.fundraising-letter-inline
 https://artnews.com##.get-the-magazine__outer
 https://npr.org##.global-modal
+https://miaminewtimes.com##.ia-support
 https://propublica.org##.module-donate
 https://newsweek.com##.msub
 https://propublica.org##.promo-bar__link-wrapper
@@ -9584,6 +9585,7 @@ https://spainhouses.net##.persistentMessage
 https://nordwindairlines.ru##.personal-data
 https://free-power-point-templates.com##.pg-modal-blackout
 https://botify.com##.pin-b.pin-l.fixed
+https://pixlr.com##.policies
 https://globe.com.ph,viber.com##.policy
 https://esquire.com##.policy-bar
 https://pxhere.com,wallhere.com##.policy-info
@@ -11082,7 +11084,7 @@ https://dueruote.it###segui
 https://comune.cagliari.it###segui_hp
 https://termometropolitico.it###seguici
 https://wikihow.it###sf
-https://gazzetta.it###share
+https://canavesenews.it,gazzetta.it,torinonews24.it###share
 https://goodmorningnews.it###short-url
 https://deejay.it###slider
 https://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
@@ -13234,7 +13236,6 @@ https://stumbleupon.com#@#.stumble-button
 https://fewo-direkt.de,nvidia.pl#@#.subscribe-container
 https://nvidia.pl#@#.subscribe-text
 https://first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-https://greenlemon.me,mozvr.com,pianetamilan.it,radiospada.org,sheensay.ru#@#.tag-social
 https://flightradar24.com#@#.twitter-feed
 https://bme.jhu.edu,e-biznes.pl#@#.twitter-follow-button
 https://youtube.com#@#.twitter-icon
@@ -16839,6 +16840,7 @@ http://dealnews.com##.engagement-container
 http://propublica.org##.fundraising-letter-inline
 http://artnews.com##.get-the-magazine__outer
 http://npr.org##.global-modal
+http://miaminewtimes.com##.ia-support
 http://propublica.org##.module-donate
 http://newsweek.com##.msub
 http://propublica.org##.promo-bar__link-wrapper
@@ -20284,6 +20286,7 @@ http://spainhouses.net##.persistentMessage
 http://nordwindairlines.ru##.personal-data
 http://free-power-point-templates.com##.pg-modal-blackout
 http://botify.com##.pin-b.pin-l.fixed
+http://pixlr.com##.policies
 http://globe.com.ph,viber.com##.policy
 http://esquire.com##.policy-bar
 http://pxhere.com,wallhere.com##.policy-info
@@ -21782,7 +21785,7 @@ http://dueruote.it###segui
 http://comune.cagliari.it###segui_hp
 http://termometropolitico.it###seguici
 http://wikihow.it###sf
-http://gazzetta.it###share
+http://canavesenews.it,gazzetta.it,torinonews24.it###share
 http://goodmorningnews.it###short-url
 http://deejay.it###slider
 http://autobelle.it,bancadipiacenza.it,canavesenews.it,creditocooperativo.it,fotografidigitali.it,gianlucadimarzio.com,ilsecoloxix.it,lavoro.gov.it,meteogiornale.it,meteovista.it,navigaweb.net,optimagazine.com,optimaitalia.com,radioitalia.it,rasom.it,salute.gov.it,superwheels.net,unibo.it,virginactive.it###social
@@ -23935,7 +23938,6 @@ http://stumbleupon.com#@#.stumble-button
 http://fewo-direkt.de,nvidia.pl#@#.subscribe-container
 http://nvidia.pl#@#.subscribe-text
 http://first-class-and-more.de,geekgamer.tv#@#.subscribe-widget
-http://greenlemon.me,mozvr.com,pianetamilan.it,radiospada.org,sheensay.ru#@#.tag-social
 http://flightradar24.com#@#.twitter-feed
 http://bme.jhu.edu,e-biznes.pl#@#.twitter-follow-button
 http://youtube.com#@#.twitter-icon
