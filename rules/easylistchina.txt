@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 9vHhTnT7ZEUSv0dEqx3Hcg
-! Version: 202101220022
+! Checksum: W37HUYoTWtyYd3Qyn1Werw
+! Version: 202101230022
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
 ||https://012.tw^$third-party
@@ -5080,6 +5080,7 @@
 ||https://akamaihd.net^*/sid.html?p=
 ||https://commondisplay-a.akamaihd.net/cri/*.htm?cat=
 ||https://hjfile.cn/analytics/site/TrackEvent.js
+||http://hpyx365.cn^
 ||http://00-gov.cn^
 ||http://0024aaaa.com^
 ||http://00880808.com^
@@ -10681,7 +10682,7 @@
 ||http://loli.net/2020/08/31/j6NV3wFeIxCtnBX.gif
 ||http://loli.net/2020/09/04/Wx3MdOVvsTPwIlE.gif
 ||http://loli.net/2020/10/26/cSHbJifFgNoyaz8.png
-||http://loli.net^$domain=1090ys1.com|520film.net|52pili.com|acglover.me|beiwodi.com|btdp.online|f6hx.site|hdsky.me|magnet2048.com|nulltm.com|xydai.cn
+||http://loli.net^$domain=1090ys2.com|520film.net|52pili.com|acglover.me|beiwodi.com|btdp.online|f6hx.site|hdsky.me|magnet2048.com|nulltm.com|xydai.cn
 ||http://lolmp4.com/template/lolmp4/images/jquery.
 ||http://lolshipin.com/zt/sxx/
 ||http://longbahao.com/asd.js
@@ -13368,6 +13369,10 @@
 ||http://hh010.com/static/image/fff/
 ||http://stunninglover.com^
 ||http://watakaw133.xyz^
+||http://on1q0.cn^
+||http://zixiansun.com^
+||http://ytbctyy.com^
+||http://zzxhx.com^
 ||http://01w47q.cn^
 ||http://0217qpineuxbcdhopswkvf.xyz^
 ||http://0224fqpowiuxybnmvdfghj.xyz^
@@ -15800,6 +15805,7 @@
 ||http://hjfile.cn/analytics/site/TrackEvent.js
 https://ubmcmm.baidustatic.com
 https://szxx.com.cn###A0
+https://jb51.net##.idc3
 https://szxx.com.cn###A1
 https://szxx.com.cn###A2
 https://gpcxw.com###AA2
@@ -17939,7 +17945,7 @@ https://2345.com##.coem-dzhcn
 https://www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http://"]:not([href*=".wenxuecity."])
 https://zhangxinxu.com##.col-aside
 https://zhangxinxu.com##.col-google
-https://1090ys1.com##.col-lg-wide-8 > p[style="text-align:center;"]
+https://1090ys2.com##.col-lg-wide-8 > p[style="text-align:center;"]
 https://big-cup.tv,g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 https://ezprice.com.tw##.col-md-3
 https://gamefy.cn,sitv.com.cn##.col-vlist-l > span
@@ -20007,12 +20013,12 @@ https://5dm.tv##a[href*="suo.im"]
 https://mtrend.cn##a[href*="taomoubao.com"]
 https://jinti.com##a[href*="tempurchina.com"]
 https://58.com##a[href*="to8to.com"]
-https://1090ys1.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
+https://1090ys2.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 https://boke112.com##a[href*="url.cn"]
 https://enjoymore.fun##a[href*="urlto.pw"]
 https://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 https://yamibo.com##a[href*="xqsp.club"]
-https://1090ys1.com##a[href*="yb6277."]
+https://1090ys2.com##a[href*="yb6277."]
 https://jiyingw.net##a[href*="zhidmai.com"]
 https://fxykx.com##a[href*="zyttx.com/"]
 https://ddrk.me##a[href="###"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
@@ -20899,7 +20905,7 @@ https://ishangman.com#@#.bottom_ad
 https://douban.com#@#.download-ad
 https://typecho.wiki#@#.downloadad
 https://petrochina.com.cn#@#.ggbox
-https://1090ys1.com,bbt.tv,btbt.tv,l32c.cn,nixingle.com#@#.google-ad
+https://1090ys2.com,bbt.tv,btbt.tv,l32c.cn,nixingle.com#@#.google-ad
 https://apk.tw#@#.google_ad
 https://adbug.cn#@#.google_ads
 https://mobile01.com#@#.googlead
@@ -21213,6 +21219,7 @@ https://laohu8.com#@#.tweet-article
 https://fqsousou.com,kengso.com#@#.user-share
 http://ubmcmm.baidustatic.com
 http://szxx.com.cn###A0
+http://jb51.net##.idc3
 http://szxx.com.cn###A1
 http://szxx.com.cn###A2
 http://gpcxw.com###AA2
@@ -23352,7 +23359,7 @@ http://2345.com##.coem-dzhcn
 http://www.wenxuecity.com##.col > ul:not([id]) > li > a[href^="http://"]:not([href*=".wenxuecity."])
 http://zhangxinxu.com##.col-aside
 http://zhangxinxu.com##.col-google
-http://1090ys1.com##.col-lg-wide-8 > p[style="text-align:center;"]
+http://1090ys2.com##.col-lg-wide-8 > p[style="text-align:center;"]
 http://big-cup.tv,g-cup.tv##.col-md-12.text-center[style="margin-top: 3px;"]
 http://ezprice.com.tw##.col-md-3
 http://gamefy.cn,sitv.com.cn##.col-vlist-l > span
@@ -25420,12 +25427,12 @@ http://5dm.tv##a[href*="suo.im"]
 http://mtrend.cn##a[href*="taomoubao.com"]
 http://jinti.com##a[href*="tempurchina.com"]
 http://58.com##a[href*="to8to.com"]
-http://1090ys1.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
+http://1090ys2.com,wnacg.com,wnacg.org##a[href*="tyrantdb.com"]
 http://boke112.com##a[href*="url.cn"]
 http://enjoymore.fun##a[href*="urlto.pw"]
 http://1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##a[href*="www.clinique."]
 http://yamibo.com##a[href*="xqsp.club"]
-http://1090ys1.com##a[href*="yb6277."]
+http://1090ys2.com##a[href*="yb6277."]
 http://jiyingw.net##a[href*="zhidmai.com"]
 http://fxykx.com##a[href*="zyttx.com/"]
 http://ddrk.me##a[href="###"] img:not(#trk_hcaptcha):not([src^="https://captcha.su.baidu.com"])
@@ -26312,7 +26319,7 @@ http://ishangman.com#@#.bottom_ad
 http://douban.com#@#.download-ad
 http://typecho.wiki#@#.downloadad
 http://petrochina.com.cn#@#.ggbox
-http://1090ys1.com,bbt.tv,btbt.tv,l32c.cn,nixingle.com#@#.google-ad
+http://1090ys2.com,bbt.tv,btbt.tv,l32c.cn,nixingle.com#@#.google-ad
 http://apk.tw#@#.google_ad
 http://adbug.cn#@#.google_ads
 http://mobile01.com#@#.googlead

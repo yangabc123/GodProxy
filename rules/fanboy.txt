@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 92KCLw1PNsyrJI+MK2etyQ
-! Version: 202101220031
+! Checksum: OOXy5/DXqHsXeXXx3Tf6aw
+! Version: 202101230031
 ! Title: Fanboy's Annoyance List
-! Last modified: 22 Jan 2021 00:31 UTC
+! Last modified: 23 Jan 2021 00:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -9694,6 +9694,7 @@ https://untappd.com##.tos-banner
 https://thomsonreuters.com##.tr-DismissibleBanner
 https://troax.com##.troax-messages
 https://nfumutual.co.uk##.u-bg-padd
+https://head-fi.org##.u-bottomFixer
 https://asendiausa.com##.ui-alert
 https://gloucestershire.gov.uk,portwell.com.tw##.ui-dialog
 https://chregister.ch##.ui-notificationbar
@@ -20398,6 +20399,7 @@ http://untappd.com##.tos-banner
 http://thomsonreuters.com##.tr-DismissibleBanner
 http://troax.com##.troax-messages
 http://nfumutual.co.uk##.u-bg-padd
+http://head-fi.org##.u-bottomFixer
 http://asendiausa.com##.ui-alert
 http://gloucestershire.gov.uk,portwell.com.tw##.ui-dialog
 http://chregister.ch##.ui-notificationbar
